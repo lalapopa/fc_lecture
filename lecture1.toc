@@ -39,3 +39,8 @@
 \contentsline {subsection}{Выбор ограничений}{34}{}%
 \contentsline {subsection}{Регулировка $K_{\omega _z}$ по режимам полета}{34}{}%
 \contentsline {section}{Астатический АП}{34}{}%
+\contentsline {section}{Автоматическое регулирование угла рыскания (угла курса)}{35}{}%
+\contentsline {subsection}{Автоматическое регулирование угла рыскания при плоском развороте}{35}{}%
+\contentsline {subsection}{Рассмотрим статический регулятор}{35}{}%
+\contentsline {subsection}{Стабилизация угла рыскания через канал крен, координированный разворот}{36}{}%
+\contentsline {subsection}{Анализ точности}{36}{}%

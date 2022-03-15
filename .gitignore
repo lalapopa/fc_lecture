@@ -1,6 +1,7 @@
-*.svg
-*.md5
-*.swp
-.*.swp
-*.log
+# Ignore everything
+*
 
+# But not these files...
+!.gitignore
+!lecture1.tex
+!./images

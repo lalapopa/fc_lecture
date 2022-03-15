@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1647343341 "lecture1.tex" "lecture1.pdf" "lecture1" 1647343341
+["pdflatex"] 1647350301 "lecture1.tex" "lecture1.pdf" "lecture1" 1647350301
   "/home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1645969971 11524 f13af04c1e1789381e8479841324f8b0 ""
   "/home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labi1000.600pk" 1646128581 34092 8de4dd549837ed2f8a151566ee51c0ec ""
   "/home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.600pk" 1646128567 23444 da7e05e868750338331f470ce02e98cc ""
@@ -290,9 +290,9 @@
   "lecture1-figure2.dpth" 1646129385 0 d41d8cd98f00b204e9800998ecf8427e ""
   "lecture1-figure2.md5" 1646129385 62 76d2197bdb32042e4230e5985b8a3f52 ""
   "lecture1-figure2.pdf" 1646129385 11106 fe07443671da06d0ea7d2e9e85517fc1 ""
-  "lecture1.aux" 1647340333 5420 1b7a12bbd2727b8edf2cdfda4c2a7aa5 "pdflatex"
-  "lecture1.tex" 1647343340 109649 52499687936c337aba45b0e2bf5c2c31 ""
-  "lecture1.toc" 1647340333 3304 08ba60aea11374bb80aafcc37afcd5d8 "pdflatex"
+  "lecture1.aux" 1647343342 5781 c90236487d70b890cdb6807a79417687 "pdflatex"
+  "lecture1.tex" 1647350300 118029 4ad984baeb800f1e119db49fc000ba3a ""
+  "lecture1.toc" 1647343342 3542 0c31063d0526fd23ac18515522e58c6a "pdflatex"
   (generated)
   "lecture1.aux"
   "lecture1.auxlock"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.21)  15 MAR 2022 14:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.21)  15 MAR 2022 16:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -881,48 +881,48 @@ Package mathtext Warning: letter `cyrsh' used in math mode on input line 340.
 Package mathtext Warning: letter `cyrsh' used in math mode on input line 340.
 
 (./images/figure_one.pdf_tex
-<./images//figure_one.pdf, id=86, page=1, 211.94893pt x 134.83888pt>
+<./images//figure_one.pdf, id=87, page=1, 211.94893pt x 134.83888pt>
 File: ./images//figure_one.pdf Graphic file (type pdf)
 <use ./images//figure_one.pdf, page 1>
 Package pdftex.def Info: ./images//figure_one.pdf , page1 used on input line 57.
 (pdftex.def)             Requested size: 211.94891pt x 134.84471pt.
-<./images//figure_one.pdf, id=87, page=2, 211.94893pt x 134.83888pt>
+<./images//figure_one.pdf, id=88, page=2, 211.94893pt x 134.83888pt>
 File: ./images//figure_one.pdf Graphic file (type pdf)
 <use ./images//figure_one.pdf, page 2>
 Package pdftex.def Info: ./images//figure_one.pdf , page2 used on input line 59.
 (pdftex.def)             Requested size: 211.94891pt x 134.84471pt.
-<./images//figure_one.pdf, id=88, page=3, 211.94893pt x 134.83888pt>
+<./images//figure_one.pdf, id=89, page=3, 211.94893pt x 134.83888pt>
 File: ./images//figure_one.pdf Graphic file (type pdf)
 <use ./images//figure_one.pdf, page 3>
 Package pdftex.def Info: ./images//figure_one.pdf , page3 used on input line 61.
 (pdftex.def)             Requested size: 211.94891pt x 134.84471pt.
 ) (./images/figure_two.pdf_tex
-<./images//figure_two.pdf, id=89, page=1, 328.09486pt x 191.251pt>
+<./images//figure_two.pdf, id=90, page=1, 328.09486pt x 191.251pt>
 File: ./images//figure_two.pdf Graphic file (type pdf)
 <use ./images//figure_two.pdf, page 1>
 Package pdftex.def Info: ./images//figure_two.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 328.09486pt x 191.25053pt.
-<./images//figure_two.pdf, id=90, page=2, 328.09486pt x 191.251pt>
+<./images//figure_two.pdf, id=91, page=2, 328.09486pt x 191.251pt>
 File: ./images//figure_two.pdf Graphic file (type pdf)
 <use ./images//figure_two.pdf, page 2>
 Package pdftex.def Info: ./images//figure_two.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 328.09486pt x 191.25053pt.
-<./images//figure_two.pdf, id=91, page=3, 328.09486pt x 191.251pt>
+<./images//figure_two.pdf, id=92, page=3, 328.09486pt x 191.251pt>
 File: ./images//figure_two.pdf Graphic file (type pdf)
 <use ./images//figure_two.pdf, page 3>
 Package pdftex.def Info: ./images//figure_two.pdf , page3 used on input line 60.
 (pdftex.def)             Requested size: 328.09486pt x 191.25053pt.
-<./images//figure_two.pdf, id=92, page=4, 328.09486pt x 191.251pt>
+<./images//figure_two.pdf, id=93, page=4, 328.09486pt x 191.251pt>
 File: ./images//figure_two.pdf Graphic file (type pdf)
 <use ./images//figure_two.pdf, page 4>
 Package pdftex.def Info: ./images//figure_two.pdf , page4 used on input line 62.
 (pdftex.def)             Requested size: 328.09486pt x 191.25053pt.
-<./images//figure_two.pdf, id=93, page=5, 328.09486pt x 191.251pt>
+<./images//figure_two.pdf, id=94, page=5, 328.09486pt x 191.251pt>
 File: ./images//figure_two.pdf Graphic file (type pdf)
 <use ./images//figure_two.pdf, page 5>
 Package pdftex.def Info: ./images//figure_two.pdf , page5 used on input line 64.
 (pdftex.def)             Requested size: 328.09486pt x 191.25053pt.
-<./images//figure_two.pdf, id=94, page=6, 328.09486pt x 191.251pt>
+<./images//figure_two.pdf, id=95, page=6, 328.09486pt x 191.251pt>
 File: ./images//figure_two.pdf Graphic file (type pdf)
 <use ./images//figure_two.pdf, page 6>
 Package pdftex.def Info: ./images//figure_two.pdf , page6 used on input line 68.
@@ -959,42 +959,42 @@ Package mathtext Warning: letter `CYRM' used in math mode on input line 359.
 Package mathtext Warning: letter `cyrsh' used in math mode on input line 359.
 
 (./images/figure_three.pdf_tex
-<./images//figure_three.pdf, id=103, page=1, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=104, page=1, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 1>
 Package pdftex.def Info: ./images//figure_three.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 444.37021pt x 156.49182pt.
-<./images//figure_three.pdf, id=104, page=2, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=105, page=2, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 2>
 Package pdftex.def Info: ./images//figure_three.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 444.37021pt x 156.49182pt.
-<./images//figure_three.pdf, id=105, page=3, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=106, page=3, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 3>
 Package pdftex.def Info: ./images//figure_three.pdf , page3 used on input line 60.
 (pdftex.def)             Requested size: 444.37021pt x 156.49182pt.
-<./images//figure_three.pdf, id=106, page=4, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=107, page=4, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 4>
 Package pdftex.def Info: ./images//figure_three.pdf , page4 used on input line 62.
 (pdftex.def)             Requested size: 444.37021pt x 156.49182pt.
-<./images//figure_three.pdf, id=107, page=5, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=108, page=5, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 5>
 Package pdftex.def Info: ./images//figure_three.pdf , page5 used on input line 64.
 (pdftex.def)             Requested size: 444.37021pt x 156.49182pt.
-<./images//figure_three.pdf, id=108, page=6, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=109, page=6, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 6>
 Package pdftex.def Info: ./images//figure_three.pdf , page6 used on input line 66.
 (pdftex.def)             Requested size: 444.37021pt x 156.49182pt.
-<./images//figure_three.pdf, id=109, page=7, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=110, page=7, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 7>
 Package pdftex.def Info: ./images//figure_three.pdf , page7 used on input line 68.
 (pdftex.def)             Requested size: 444.37021pt x 156.49182pt.
-<./images//figure_three.pdf, id=110, page=8, 444.37021pt x 156.48506pt>
+<./images//figure_three.pdf, id=111, page=8, 444.37021pt x 156.48506pt>
 File: ./images//figure_three.pdf Graphic file (type pdf)
 <use ./images//figure_three.pdf, page 8>
 Package pdftex.def Info: ./images//figure_three.pdf , page8 used on input line 70.
@@ -1021,42 +1021,42 @@ pdfTeX warning: pdflatex (file ./images//figure_three.pdf): PDF inclusion: multi
 
 pdfTeX warning: pdflatex (file ./images//figure_three.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] (./images/figure_four.pdf_tex
-<./images//figure_four.pdf, id=116, page=1, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=117, page=1, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 1>
 Package pdftex.def Info: ./images//figure_four.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 445.15125pt x 151.05524pt.
-<./images//figure_four.pdf, id=117, page=2, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=118, page=2, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 2>
 Package pdftex.def Info: ./images//figure_four.pdf , page2 used on input line 58.
 (pdftex.def)             Requested size: 445.15125pt x 151.05524pt.
-<./images//figure_four.pdf, id=118, page=3, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=119, page=3, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 3>
 Package pdftex.def Info: ./images//figure_four.pdf , page3 used on input line 60.
 (pdftex.def)             Requested size: 445.15125pt x 151.05524pt.
-<./images//figure_four.pdf, id=119, page=4, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=120, page=4, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 4>
 Package pdftex.def Info: ./images//figure_four.pdf , page4 used on input line 62.
 (pdftex.def)             Requested size: 445.15125pt x 151.05524pt.
-<./images//figure_four.pdf, id=120, page=5, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=121, page=5, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 5>
 Package pdftex.def Info: ./images//figure_four.pdf , page5 used on input line 64.
 (pdftex.def)             Requested size: 445.15125pt x 151.05524pt.
-<./images//figure_four.pdf, id=121, page=6, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=122, page=6, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 6>
 Package pdftex.def Info: ./images//figure_four.pdf , page6 used on input line 66.
 (pdftex.def)             Requested size: 445.15125pt x 151.05524pt.
-<./images//figure_four.pdf, id=122, page=7, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=123, page=7, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 7>
 Package pdftex.def Info: ./images//figure_four.pdf , page7 used on input line 68.
 (pdftex.def)             Requested size: 445.15125pt x 151.05524pt.
-<./images//figure_four.pdf, id=123, page=8, 445.15125pt x 151.0487pt>
+<./images//figure_four.pdf, id=124, page=8, 445.15125pt x 151.0487pt>
 File: ./images//figure_four.pdf Graphic file (type pdf)
 <use ./images//figure_four.pdf, page 8>
 Package pdftex.def Info: ./images//figure_four.pdf , page8 used on input line 70.
@@ -1177,12 +1177,12 @@ Package mathtext Warning: letter `cyrm' used in math mode on input line 405.
 Package mathtext Warning: letter `cyrm' used in math mode on input line 405.
 
 (./images/lec_fig_1.pdf_tex
-<./images//lec_fig_1.pdf, id=129, page=1, 175.13455pt x 132.94606pt>
+<./images//lec_fig_1.pdf, id=130, page=1, 175.13455pt x 132.94606pt>
 File: ./images//lec_fig_1.pdf Graphic file (type pdf)
 <use ./images//lec_fig_1.pdf, page 1>
 Package pdftex.def Info: ./images//lec_fig_1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 175.13455pt x 132.9518pt.
-<./images//lec_fig_1.pdf, id=130, page=2, 175.13455pt x 132.94606pt>
+<./images//lec_fig_1.pdf, id=131, page=2, 175.13455pt x 132.94606pt>
 File: ./images//lec_fig_1.pdf Graphic file (type pdf)
 <use ./images//lec_fig_1.pdf, page 2>
 Package pdftex.def Info: ./images//lec_fig_1.pdf , page2 used on input line 58.
@@ -3175,25 +3175,409 @@ l.1528 ....9 * 10^8, m_z^\delta=-1.25, m_z^\omega_
                                                   z = -12, m_z^{\dot{\alpha}...
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-[34] (./lecture1.aux)
+[34]
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1543.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1543.
+
+./lecture1.tex:1550: Undefined control sequence.
+l.1550 \fig
+           {}фото 15:10
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./lecture1.tex:1553: Double subscript.
+<argument> \bar {M}_y^\delta _
+                              {н}(p - \bar {Z}^\beta )
+l.1553 ...{Z}^\beta)}{p^2 + 2h_Б p + \omega_Б^2}
+                                                  
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 1553.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1553.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1553.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 1556.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1556.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1556.
+
+
+Package mathtext Warning: letter `CYRA' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `CYRP' used in math mode on input line 1562.
+
+./lecture1.tex:1562: Double subscript.
+<argument> n_z_
+               {зад}
+l.1562 ...АП_{n_z}} = \{\frac{n_z}{n_z_{зад}}
+                                                   \} =\frac{K_{n_z}\bar{M}_...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 1562.
+
+./lecture1.tex:1562: Double subscript.
+<argument> K_{n_z}\bar {M}_y^\delta _
+                                     н n_z^\beta 
+l.1562 ... \tilde{h_Б} p + \tilde{\omega_{Б}^2}}
+                                                  
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1562.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1565.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1565.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1565.
+
+./lecture1.tex:1565: Double subscript.
+l.1565 2\tilde{h_Б} = 2h_Б -\bar{M}_y^\delta_
+                                               н K_{\omega}_y
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 1565.
+
+./lecture1.tex:1565: Double subscript.
+l.1565 ...= 2h_Б -\bar{M}_y^\delta_н K_{\omega}_
+                                                  y
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 1568.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 1573.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1573.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1573.
+
+./lecture1.tex:1573: Undefined control sequence.
+<argument> K_{\ksi 
+                   } \bar {M}_y^\delta _н K_{n_z}
+l.1573 ... \tilde{h_Б} p + \tilde{\omega}_{Б}^2}
+                                                   \frac{(p - \bar{Z}^\beta)...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./lecture1.tex:1573: Double subscript.
+<argument> K_{\ksi } \bar {M}_y^\delta _
+                                        н K_{n_z}
+l.1573 ... \tilde{h_Б} p + \tilde{\omega}_{Б}^2}
+                                                   \frac{(p - \bar{Z}^\beta)...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 1573.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1573.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1573.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1573.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1575.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1575.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 1581.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1581.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1581.
+
+./lecture1.tex:1581: Double subscript.
+<argument> K_{\psi }\bar {M}_y^\delta _
+                                       н K_{n_z} (-Z^\beta )
+l.1581 ...K_{n_z} (-Z^\beta)}{\tilde{\omega_Б^2}}
+                                                  
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 1581.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1581.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1581.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 1583.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 1583.
+
+
+Package mathtext Warning: letter `CYRB' used in math mode on input line 1583.
+
+[35]
+./lecture1.tex:1604: Double subscript.
+l.1604 \dot{\omega} =\bar{M}_\omega_
+                                    x^\omega_x \omega_x +\bar{M}_{\delta_э}...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+./lecture1.tex:1604: Double subscript.
+l.1604 \dot{\omega} =\bar{M}_\omega_x^\omega_
+                                             x \omega_x +\bar{M}_{\delta_э}...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1604.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1604.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1613.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1613.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1613.
+
+./lecture1.tex:1613: Double subscript.
+<argument> p -\bar {M}_\omega _
+                               x
+l.1613 ...ta_э}^{\delta_э}}{p -\bar{M}_\omega_x}
+                                                  
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+./lecture1.tex:1614: Missing $ inserted.
+<inserted text> 
+                $
+l.1614 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./lecture1.tex:1614: Display math should end with $$.
+<to be read again> 
+                   \tex_par:D 
+l.1614 
+       
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+./lecture1.tex:1615: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1615 \]
+         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./lecture1.tex:1615: Missing $ inserted.
+<inserted text> 
+                $
+l.1615 \]
+         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./lecture1.tex:1615: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.1615 \]
+         
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1621.
+
+
+Package mathtext Warning: letter `cyrp' used in math mode on input line 1621.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1621.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1621.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 1621.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1624.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1624.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 1624.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1624.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1624.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 1624.
+
+./lecture1.tex:1627: Undefined control sequence.
+<recently read> \W 
+                   
+l.1627 Считая $\W
+                       _П = 1$ получена следующая пере...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package mathtext Warning: letter `CYRP' used in math mode on input line 1627.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1629.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1629.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 1629.
+
+./lecture1.tex:1633: Double subscript.
+<argument> K_{\gamma }|\bar {M}_x^\delta _
+                                          э|
+l.1633 ...frac{1}{K_{\gamma}|\bar{M}_x^\delta_э|}
+                                                  }
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1633.
+
+./lecture1.tex:1637: Double subscript.
+<argument> -0.8(\bar {M}_x^\omega _
+                                   x + K_{\omega _x} \bar {M}_x^\delta _э)
+l.1637 ...}{\sqrt{K_\gamma |\bar{M}_x^\delta_э|}}
+                                                  
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+./lecture1.tex:1637: Double subscript.
+<argument> ... + K_{\omega _x} \bar {M}_x^\delta _
+                                                  э)
+l.1637 ...}{\sqrt{K_\gamma |\bar{M}_x^\delta_э|}}
+                                                  
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1637.
+
+./lecture1.tex:1637: Double subscript.
+<argument> \sqrt {K_\gamma |\bar {M}_x^\delta _
+                                               э|}
+l.1637 ...}{\sqrt{K_\gamma |\bar{M}_x^\delta_э|}}
+                                                  
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Package mathtext Warning: letter `cyrerev' used in math mode on input line 1637.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 1643.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 1643.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 1643.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 1649.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 1649.
+
+
+Package mathtext Warning: letter `cyrs' used in math mode on input line 1653.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 1653.
+
+[36] (./lecture1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 29722 strings out of 479671
- 737733 string characters out of 5885654
+ 29723 strings out of 479671
+ 737736 string characters out of 5885654
  1131261 words of memory out of 5000000
- 47095 multiletter control sequences out of 15000+600000
+ 47096 multiletter control sequences out of 15000+600000
  489383 words of font info for 69 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  84i,19n,80p,2323b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0500.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labi1000.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1000.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.600pk> </home/lalapopa/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on lecture1.pdf (34 pages, 475412 bytes).
+Output written on lecture1.pdf (36 pages, 489493 bytes).
 PDF statistics:
- 824 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
+ 849 PDF objects out of 1000 (max. 8388607)
+ 240 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  413 words of extra memory for PDF output out of 10000 (max. 10000000)
 
