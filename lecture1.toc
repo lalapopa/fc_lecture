@@ -1,0 +1,41 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Лекция 1}{2}{}%
+\contentsline {subsection}{Общие положения}{2}{}%
+\contentsline {section}{Лекция 2}{4}{}%
+\contentsline {subsection}{Комплекс оборудований систем самолета}{4}{}%
+\contentsline {subsection}{Способы управления самолётом}{5}{}%
+\contentsline {section}{Лекция 3}{7}{}%
+\contentsline {subsection}{Типы систем штурвального упраления}{7}{}%
+\contentsline {subsubsection}{Необратимое ручное управление}{7}{}%
+\contentsline {subsubsection}{Необратимое бустерное управление}{7}{}%
+\contentsline {subsubsection}{Электродистнционная система управления}{8}{}%
+\contentsline {subsubsection}{Включение автоматических устройств в СШУ}{9}{}%
+\contentsline {section}{Лекция 4}{10}{}%
+\contentsline {subsection}{Состав СШУ}{10}{}%
+\contentsline {subsection}{Ограничители предельных режимов}{11}{}%
+\contentsline {section}{Лекция 5}{13}{}%
+\contentsline {subsection}{Летчик в СУ самолетом}{13}{}%
+\contentsline {subsection}{Устойчивость движения и управляемость самолета}{13}{}%
+\contentsline {section}{Лекция 6}{15}{}%
+\contentsline {subsection}{Математическая модель самолета как объекта управления}{15}{}%
+\contentsline {subsubsection}{Общие уравнения движения самолета}{15}{}%
+\contentsline {section}{Лекция 7}{18}{}%
+\contentsline {subsection}{Модель траекторного движения}{18}{}%
+\contentsline {subsection}{Уравнение бокового возмущенного движения}{19}{}%
+\contentsline {section}{Лекция 8}{21}{}%
+\contentsline {subsection}{Траекторное движение}{21}{}%
+\contentsline {subsection}{Передаточные функции исполнительных устройств}{22}{}%
+\contentsline {subsection}{Астатический интегральный автомат продольного управления}{22}{}%
+\contentsline {section}{Лекция 9}{25}{}%
+\contentsline {subsection}{Выбор значения $K_x$}{25}{}%
+\contentsline {subsubsection}{Методика синтеза интегрального АПУ}{25}{}%
+\contentsline {subsection}{Автомат продольного управления устойчивого самолета}{26}{}%
+\contentsline {subsection}{Синтез статического автомата продольного управления неустойчивого самолет}{30}{}%
+\contentsline {section}{Лекция 10. Семестр 2.}{31}{}%
+\contentsline {subsection}{Автоматическое управление угловым движением}{31}{}%
+\contentsline {subsection}{Синтез АП $\theta $}{32}{}%
+\contentsline {subsection}{Анализ точности}{33}{}%
+\contentsline {subsection}{Кананическая форма записи передаточной функции АП тангажа}{34}{}%
+\contentsline {subsection}{Выбор ограничений}{34}{}%
+\contentsline {subsection}{Регулировка $K_{\omega _z}$ по режимам полета}{34}{}%
+\contentsline {section}{Астатический АП}{34}{}%
