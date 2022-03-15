@@ -1,5 +1,6 @@
 *.svg
 *.md5
 *.swp
+.*.swp
 *.log
 
