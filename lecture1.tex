@@ -1,5 +1,9 @@
 \documentclass{article}
 
+%Remove warning with cyrillic letters in equations 
+\usepackage{silence}
+\WarningFilter{mathtext}{letter}
+
 \usepackage{import}
 \usepackage{graphicx}
 \usepackage{color}
@@ -31,8 +35,6 @@
 \usepgfplotslibrary{external} 
 \tikzexternalize
 
-
-
 %Header
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -44,12 +46,8 @@
 \fancyfoot[C]{\thepage}
 \setcounter{secnumdepth}{0} %delete number before section
 
-
-
 \usepackage{mathtools, nccmath} % break eqation in two line 
 \usepackage{float}
-
-
 
 \begin{document}
 \thispagestyle{empty}
@@ -131,7 +129,7 @@
 Система автоматического управления(САУ): Система тракторного управления, система взлета и посадки, автопилот, автомат тяги.\\
 Система штуравльного управления(СШУ): Исполнительная часть системы управления(Привода), автоматические устройства.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \begin{tikzpicture}
 \node [draw,
     fill=Goldenrod,
@@ -343,13 +341,13 @@ P_{ру} = K_{ш} M_{ш}
 В общем случае уровень усилий должен быть сопоставим c возможностями летчика поэтому НРУ имеют средства снижения шарнирного момента. При НРУ сигналы САУ обрабатываются специальным приводом. связь привода САУ с проводкой осуществляется через устройство пересиливания и отключения (муфта)
 
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \import{./images/}{figure_one.pdf_tex}
 \end{figure}    
 
 \subsubsection{Необратимое бустерное управление}
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \import{./images/}{figure_two.pdf_tex}
 \end{figure}
 
@@ -361,7 +359,7 @@ P_{ру} = K_{ш} M_{ш}
 \item На базе НБУ может быть построена система электродистнционная система управления(ЭДСУ).
 \end{enumerate}
 \subsubsection{Электродистнционная система управления}
-\begin{figure}[h]
+\begin{figure}[ht]
 \import{./images/}{figure_three.pdf_tex}
 \end{figure}
 
@@ -371,7 +369,7 @@ P_{ру} = K_{ш} M_{ш}
 \newpage
 
 \subsubsection{Включение автоматических устройств в СШУ}
-\begin{figure}[h!]
+\begin{figure}[ht!]
 \import{./images/}{figure_four.pdf_tex}
 \end{figure}
 
@@ -409,7 +407,7 @@ P^{x} = \frac{P^{n_y}}{X^{n_y}} \approx 2 \frac{H}{мм} \text{ --- характ
 Характеристиками пружины ЗУ являются предварительный натяг и излом. $P_0$ - вводится для центровки, а излом обусловлен тем, что на больших приборных скоростях, где требуются малые отклонения рулей необходимо затежеление загрузки для предотвращения раскачки самолета, а на малых скоростях, где требуются большие отклонения загрузка не должна быть чрезмерной. Существуют более сложные загрузочные устройства. Автоматически осуществляется регулирование $P^{x}$. 
 
 Задача загрузочных устройств обеспечение примерно равное $P^{n_y}$. Усилие возникающее при отклонении рычагов летчиком снимаются с помощью механического триммера эффекта.
-\begin{figure}[h!]
+\begin{figure}[ht!]
 \centering
 \import{./images/}{lec_fig_1.pdf_tex}
 \end{figure}
@@ -479,7 +477,6 @@ P^{x} = \frac{P^{n_y}}{X^{n_y}} \approx 2 \frac{H}{мм} \text{ --- характ
 \draw [->] (w5.west) --++ (-5,0) |- ([yshift = 0.5cm]point.center);
 \end{tikzpicture}
 \end{figure}
-
 
 Если звено обратной связи несет информацию о перемещении системы, то в этом случае управляющий сигнал вызывает смещение выходного звена относительно нейстрали (привод с жесткой обратной связью). Если сигнал обратной связи пропорционален скорости изменения выходного звена, то привод со скоростной обратной связи. 
 Если выход и обратная связь гидропривода являюется механической, то привод гидромеханический (бустер) при бустерном управлении летчику достаточно прикладывать небольшие усилия. 
@@ -907,7 +904,7 @@ K_v^{'} = g\cos{\alpha}; \, K_\theta^{'} = \frac{\sin{\alpha}}{n_y^\alpha}; \, K
 \]
 Приведем схему полученных передаточных функций пригодных для приближенного исследования продольного возмущенного движения:
 схема 1 канал руля высоты:
-\begin{figure}[h]
+\begin{figure}[ht]
 \import{./images/}{fig_5.pdf_tex}
 \end{figure}
 
@@ -997,11 +994,11 @@ W_{\omega_y/\gamma} = -\alpha_{гп}(p+\frac{g}{V}n_y^\alpha)
 W_{\psi/\gamma} = -\frac{\alpha(p + \frac{g}{V} n_y^\alpha)} {p}
 \]
 Cхема канал элерона:
-\begin{figure}[h]
+\begin{figure}[ht]
 \import{./images/}{fig_6.pdf_tex}
 \end{figure}
 Cхема канала руля направления:
-\begin{figure}[h]
+\begin{figure}[ht]
 \import{./images/}{fig_7.pdf_tex}
 \end{figure}
 рассматриваем их изолированное движение.
@@ -1095,9 +1092,8 @@ $\omega_1 < \omega_c < \frac{1}{T_{пр}}$
 \frac{\Delta n_y}{\Delta x} = K_ш (p + \frac{K_{\int} K_x}{K_ш}) \frac{\bar{M}_z^{\varphi} n_y^\alpha}{p(p^2 +  2 h p + \omega_0^2) - K_{\omega_z} \bar{M}_z^{\varphi} (p^2 + 2h_{1}p + \omega_1^2)}
 \end{equation}
 Если $p \rightarrow 0$:
-
 \[
- \left\{ \frac{\Delta n_y}{\Delta x} \right\}_{уст}  = -K_{\int}K_x \frac{\bar{M}_z^{\varphi} n_y^\alpha}{K_{\omega_z} \bar{M}_z^{\varphi} \omega_1^2} = -K_x; \: K_{\int} = \frac{\omega_1^2}{n_y^\alpha} K_{\omega_z}
+ \left\{ \frac{\Delta n_y}{\Delta x} \right\}_{уст}  = -K_{\int}K_x \frac{\bar{M}_z^{\varphi} n_y^\alpha}{K_{\omega_z} \bar{M}_z^{\varphi} \omega_1^2} = -K_x; \, K_{\int} = \frac{\omega_1^2}{n_y^\alpha} K_{\omega_z}
 \]
 \[
 X^{n_y} = - \frac{1}{K_x} = \frac{\Delta X}{(\Delta n_y)_уст}
@@ -1318,14 +1314,14 @@ max \lambda_1 (\lambda_1 > \lambda_с),
 \]
 
 \[
-\hat{\omega} = max(max \: \omega_0^2, max \lambda),
+\hat{\omega} = max(max \, \omega_0^2, max \lambda),
 \]
 
 \[
 T_n = \frac{1}{10 \hat{\omega}}.
 \]
 Некоторые соображение по выбору $Y_*^\alpha$ рассмотрим корневой годограф замкнутой системы для двух случаев 
-\begin{figure}[h]
+\begin{figure}[ht]
 \centering
 \import{./images}{fig_20.pdf_tex}
 \end{figure}
@@ -1368,7 +1364,7 @@ T_n = \frac{1}{10 \hat{\omega}}.
 Автоматическое регулирование угла тангажа, АП(автопилота) $\theta$ позволяет реализовать два режима регулирования: стабилизацию и управление траекторией.\\ 
 В режиме стабилизации сохраняется исходное угловое положение самолета. Обычно автопилот включают в горизонтальном прямолинейном полете, поэтому режим стабилизации при прочих неизменных полета (главное постоянство скорости) обеспечивает выдерживание прямолинейной траектории. В режиме управления можно реализовать более сложные траектории вводя в автопилот дополнительный командый сигнал $\Delta \theta_{зад}$ перед рычагом управления, можно обеспечить режим спуска или подъема с заданным углом тангажа возможно также приведение самолета из любого положения в горизонтальный полет, задавя $\theta_{зад} = \theta_{гп}$ 
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \centering
 \import{./images}{fig_16.pdf_tex}
 \end{figure}
@@ -1402,7 +1398,7 @@ R_{\theta}(p)= K_\theta.
 = -(K_{\omega_z}p + K_\theta)[\frac{K_\theta}{K_{\omega_z}p + K_{\theta}}\Delta\theta_з - \Delta \theta].
 \]
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \centering
 \import{./images}{fig_18.pdf_tex}
 \caption{Схема регулирования угла тангажа} 
@@ -1482,7 +1478,7 @@ W = \frac{T_{1c} p + 1}{(T_{1}p + 1)(T_2^2 p^2 + 2 \xi_2 T_2 p + 1)},
 
 Ограничения для $\varphi$:
 \[ \varphi_{min} - \varphi_{оп} < \Delta \varphi < \varphi_{max} - \varphi_{оп}\]
-Должна быть $\Delta n_y_{доп}$\\
+Должна быть $\Delta n_{y_{доп}}$\\
 С учетом демпфера передаточная функция перегрузки: 
 \[
 \{\frac{\Delta n_y}{\Delta \varphi}\} = \frac{\bar{M}_z^\varphi n_y^\alpha}{p^2 + 2hp + \omega_0^2},
@@ -1492,18 +1488,18 @@ W = \frac{T_{1c} p + 1}{(T_{1}p + 1)(T_2^2 p^2 + 2 \xi_2 T_2 p + 1)},
 (\Delta n_y)_{уст} = \delta \vartheta (- K_\vartheta)\frac{\bar{M}_z^\phi n_y^\alpha}{(\omega^*)^2},
 \]
 \[
-n_{y}_{min} < n_y < n_{y}_{max},
+n_{{y}_{min}} < n_y < n_{{y}_{max}},
 \]
 \[
-n_{y}_{min} - 1< \Delta n_y < n_{y}_{max} - 1,
-\]
-
-\[
-n_{y}_{min} - 1<  \delta \vartheta (- K_\vartheta)\frac{\bar{M}_z^\phi n_y^\alpha}{(\omega^*)^2} < n_{y}_{max} - 1,
+n_{{y}_{min}} - 1< \Delta n_y < n_{{y}_{max}} - 1,
 \]
 
 \[
-(n_{y}_{min} - 1)\frac{(\omega^*)^2}{-K_{\vartheta}\bar{M}_z^\varphi n_y^\alpha}< \Delta n_y< (n_{y}_{max} - 1) \frac{(\omega^*)^2}{-K_{\vartheta}\bar{M}_z^\varphi n_y^\alpha}.
+n_{{y}_{min}} - 1<  \delta \vartheta (- K_\vartheta)\frac{\bar{M}_z^\phi n_y^\alpha}{(\omega^*)^2} < n_{{y}_{max}} - 1,
+\]
+
+\[
+(n_{{y}_{min}} - 1)\frac{(\omega^*)^2}{-K_{\vartheta}\bar{M}_z^\varphi n_y^\alpha}< \Delta n_y< (n_{{y}_{max}} - 1) \frac{(\omega^*)^2}{-K_{\vartheta}\bar{M}_z^\varphi n_y^\alpha}.
 \]
 
 \subsection{Регулировка $K_{\omega_z}$ по режимам полета}
@@ -1561,7 +1557,7 @@ m_z^{\delta_э} \delta_{э} > m_x^\beta \beta_{max}
 \end{figure}
 
 \[
-\{\frac{\omega_{\psi}}{\delta_н}\} =\frac{\bar{M}_y^\delta_{н}(p - \bar{Z}^\beta)}{p^2 + 2h_Б p + \omega_Б^2} 
+\{\frac{\omega_{\psi}}{\delta_н}\} =\frac{\bar{M}_y^{\delta_{н}}(p - \bar{Z}^\beta)}{p^2 + 2h_Б p + \omega_Б^2} 
 \]
 \[
 W_п = \frac{1}{T_П^2 p^2 + 2\xi_П p + 1}
@@ -1576,15 +1572,15 @@ W_п = \frac{1}{T_П^2 p^2 + 2\xi_П p + 1}
 
 
 \[
-\Phi_{АП_{n_z}} = \{\frac{n_z}{n_z_{зад}} \} =\frac{K_{n_z}\bar{M}_y^{\delta_н} n_z^\beta}{p^2 + 2 \tilde{h}_Б p + \tilde{\omega}_{Б}^2},
+\Phi_{АП_{n_z}} = \{\frac{n_z}{n_{z_{зад}}} \} =\frac{K_{n_z}\bar{M}_y^{\delta_н} n_z^\beta}{p^2 + 2 \tilde{h}_Б p + \tilde{\omega}_{Б}^2},
 \]
-где $2\tilde{h}_Б = 2h_Б -\bar{M}_y^\delta_н K_{\omega}_y$, $\tilde{\omega}_Б^2 = \omega_Б^2 +\bar{M}_y^{\delta_Н}K_{\omega_y}\bar{Z}^\beta + \bar{M}_y^{\delta_н} K_{n_z}n_z^\beta$
+где $2\tilde{h}_Б = 2h_Б -\bar{M}_y^{\delta_н} K_{{\omega}_y}$, $\tilde{\omega}_Б^2 = \omega_Б^2 +\bar{M}_y^{\delta_н}K_{\omega_y}\bar{Z}^\beta + \bar{M}_y^{\delta_н} K_{n_z}n_z^\beta$
 
 \subsection{Рассмотрим статический регулятор}
 При $R_\psi = K_\psi$
 Тогда передаточная функция размокнутого контура является:
 \[
-W_{раз} = -\frac{K_{\ksi} \bar{M}_y^{\delta_н} K_{n_z}}{p^2 + 2 \tilde{h}_Б p + \tilde{\omega}_{Б}^2} \frac{(p - \bar{Z}^\beta)}{p}  
+W_{раз} = -\frac{K_{\psi} \bar{M}_y^{\delta_н} K_{n_z}}{p^2 + 2 \tilde{h}_Б p + \tilde{\omega}_{Б}^2} \frac{(p - \bar{Z}^\beta)}{p}  
 \]
 
 Учитывая что модуль $\bar{Z}^\beta < \tilde{\omega}_Б$
@@ -1596,7 +1592,7 @@ W_{раз} = -\frac{K_{\ksi} \bar{M}_y^{\delta_н} K_{n_z}}{p^2 + 2 \tilde{h}_Б
 
 $K_{\psi}$ выбираем максимальный при условии, что частота среза приходится на участок -20 дб/дек. Для этого участка получим:
 \[
-W_{раз} \approx \frac{K_{\psi}\bar{M}_y^\delta_н K_{n_z}}{\tilde{\omega}_Б^2}\frac{(-Z^\beta)}{p}.
+W_{раз} \approx \frac{K_{\psi}\bar{M}_y^{\delta_н} K_{n_z}}{\tilde{\omega}_Б^2}\frac{(-Z^\beta)}{p}.
 \]
 Определим, что $\omega_{ср} = 0.8(-Z^\beta)$, тогда $K_{\psi}=\frac{-0.8 \tilde{\omega}_Б^2}{\bar{M}_y^{\delta_н} K_{n_z}}$.
 Более слабые несущие свойства по углу скольжения $\beta$ по сравнению с несущими свойствами по углу атаки предопределяет малое значение $\bar{Z}^\beta$ и малое значние частоты среза $\Rightarrow$ мало быстродействие
@@ -1655,7 +1651,7 @@ n_y(t) =\frac{1}{\cos{\gamma(t)}}
 \[
 \{\frac{\gamma}{\gamma_{зад}} \}=\frac{1}{T_{\gamma}^2 p^2 + 2 \xi_{\gamma} T_\gamma p + 1},
 \]
-где $T_{\gamma} = \sqrt{\frac{1}{K_{\gamma}|\bar{M}_x^\delta_э|}}$, $\xi_{\gamma} =\frac{-0.8(\bar{M}_x^{\omega_x} + K_{\omega_x} \bar{M}_x^{\delta_э})}{\sqrt{K_\gamma |\bar{M}_x^{\delta_э}|}}$.
+где $T_{\gamma} = \sqrt{\frac{1}{K_{\gamma}|\bar{M}_x^{\delta_э}|}}$, $\xi_{\gamma} =\frac{-0.8(\bar{M}_x^{\omega_x} + K_{\omega_x} \bar{M}_x^{\delta_э})}{\sqrt{K_\gamma |\bar{M}_x^{\delta_э}|}}$.
 
 С учетом этой передаточной функции структурная схема системы регулирования угла рыскания $\psi$:
 
@@ -1687,7 +1683,6 @@ W_{раз} = \frac{K_{\psi} \frac{g}{V} (T_{1c}p + 1)}{p(T_{\gamma}^2 p^2 + 2 \x
 \]
 
 \subsection{Анализ точности}
-
 
 
 
