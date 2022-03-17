@@ -4,8 +4,8 @@
 %Remove warning with cyrillic letters in equations 
 \usepackage{silence}
 \WarningFilter{mathtext}{letter}
-
 \usepackage{import}
+
 \usepackage{graphicx}
 \usepackage{color}
 \usepackage[dvipsnames]{xcolor}
@@ -1447,12 +1447,13 @@ K_{\vartheta} = - \frac{0.25}{{m}_z^\varphi T_n} \sqrt{\frac{I_z C_y^\alpha |\si
 
 \subsection{Анализ точности}
 Согласно схеме на рис. \ref{fig:18} найдем передаточную функцию замкнутой системы (при условии, что привод идеальный):
+
 \begin{equation}
 W_{зам}= \{\frac{\Delta \vartheta}{\Delta \vartheta_{з}}\} =\frac{K_{\vartheta}}{K_{\omega_z}p +K_{\vartheta}}\frac{W_{раз}}{1 + W_{раз}} =\frac{\bar{M}_z^\phi K_{\vartheta}(p + \bar{Y}^\alpha)}{\Delta(p)},  
 \label{eq:w_zam_1}
 \end{equation}
-где $\Delta(p) = p^3 + p^2(2h - \bar{M}_z^\phi K_{\omega_z}) + p(\omega_0^2 -\bar{M}_z^\varphi K_\vartheta - \bar{M}_z^\varphi \bar{Y}^\alpha K_{\omega_z}) -\bar{M}_z^\varphi \bar{Y}^\alpha K_{\vartheta} $.
 
+где $\Delta(p) = p^3 + p^2(2h - \bar{M}_z^\phi K_{\omega_z}) + p(\omega_0^2 -\bar{M}_z^\varphi K_\vartheta - \bar{M}_z^\varphi \bar{Y}^\alpha K_{\omega_z}) -\bar{M}_z^\varphi \bar{Y}^\alpha K_{\vartheta} $.
 
 в устновишвемся режиме $\Delta \theta_з = 1$, найдем чему равняется $\Delta \theta$
 
@@ -1558,7 +1559,7 @@ m_z^{\delta_э} \delta_{э} > m_x^\beta \beta_{max}
 \end{figure}
 
 \[
-\{\frac{\omega_{\psi}}{\delta_н}\} =\frac{\bar{M}_y^{\delta_{н}}(p - \bar{Z}^\beta)}{p^2 + 2h_Б p + \omega_Б^2} 
+\left\{\frac{\omega_{\psi}}{\delta_н}\right\} =\frac{\bar{M}_y^{\delta_{н}}(p - \bar{Z}^\beta)}{p^2 + 2h_Б p + \omega_Б^2} 
 \]
 \[
 W_п = \frac{1}{T_П^2 p^2 + 2\xi_П p + 1}
@@ -1573,7 +1574,7 @@ W_п = \frac{1}{T_П^2 p^2 + 2\xi_П p + 1}
 
 
 \[
-\Phi_{АП_{n_z}} = \{\frac{n_z}{n_{z_{зад}}} \} =\frac{K_{n_z}\bar{M}_y^{\delta_н} n_z^\beta}{p^2 + 2 \tilde{h}_Б p + \tilde{\omega}_{Б}^2},
+\Phi_{АП_{n_z}} = \left\{\frac{n_z}{n_{z_{зад}}} \right\} =\frac{K_{n_z}\bar{M}_y^{\delta_н} n_z^\beta}{p^2 + 2 \tilde{h}_Б p + \tilde{\omega}_{Б}^2},
 \]
 где $2\tilde{h}_Б = 2h_Б -\bar{M}_y^{\delta_н} K_{{\omega}_y}$, $\tilde{\omega}_Б^2 = \omega_Б^2 +\bar{M}_y^{\delta_н}K_{\omega_y}\bar{Z}^\beta + \bar{M}_y^{\delta_н} K_{n_z}n_z^\beta$
 
@@ -1656,9 +1657,11 @@ n_y(t) =\frac{1}{\cos{\gamma(t)}}
 
 С учетом этой передаточной функции структурная схема системы регулирования угла рыскания $\psi$:
 
-\begin{figure}[H]
+\begin{figure}[h]
 \centering
 \import{./images/}{fig_30.pdf_tex}
+\caption{структурная схема замкнутой системы}
+\label{fig:zam30}
 \end{figure}
 
 Выбор $K_{\psi}$ проведем с помощью частотного метода:
@@ -1679,14 +1682,122 @@ W_{раз} = \frac{K_{\psi} \frac{g}{V} (T_{1c}p + 1)}{p(T_{\gamma}^2 p^2 + 2 \x
 \[
 \omega_{ср} = 0.8\frac{1}{T_{1c}} 
 \]
+
+\subsection{Анализ точности}
+Найдем согласно последней структурной схеме на рис. \ref{fig:zam30} передаточную функцию замкнутой системы:
+
 \[
 \Phi_{зам} = \{\frac{\psi}{\psi_{зад}} \} = \frac{W_{раз}}{1 + W_{раз}} = \frac{K_{\psi}\frac{g}{V}(T_{1c}p + 1)}{T_{\gamma}^2 p^3 + 2\xi_\gamma T_\gamma p^2 + p(1 + K_{\psi}\frac{g}{V} T_{1c}) + K_{\psi}\frac{g}{V}}
 \]
 
+В установившемся режиме для $\Psi = const$ найдем установившееся значение.\\
+$\psi_{уст} = \Psi(p) |_{p=0}  \psi _{зад}= \psi_{зад}$, статической ошибки нет.\\
+Рассмотрим влияние $\Delta m_x$ на точность стабилизации $\psi$.\\
+$\Delta m_x$ по способу воздействия на ЛА можно представить, как некоторое дополнительное отклонение элеронов:
+\[
+\Delta \delta_э =\frac{\Delta m_x}{m_x^{\delta_э}} 
+\]
+Исследуем с помощью следующей структурной схемы:
+\begin{figure}[H]
+\centering
+\import{./images/}{fig_32.pdf_tex}
+\end{figure}
+
+
+В установившемся режиме $\Delta m_x = const$ все переменные в структурной схеме принимают постоянное значение при этом сигнал на входе в интеграл должен быть равен 0.\\
+Посчитаем установившийся сигнал на вход в 2:
+\[
+\gamma_{уст}(-\frac{g}{V}) = 0,\ \gamma_{уст} = 0 
+\]
+Вход на первый интеграл:
+\[
+\left[(\gamma_{зад} - \gamma_{уст})(-K_\gamma)+\frac{\Delta m_x}{m_x^{\delta_э}}\right]\frac{\bar{M}_x^{\delta_э}}{-\bar{M}_x^{\omega_x}}= 0,\ \gamma_{зад}=\frac{\Delta m_x}{m_x^{\delta_э}K_{\gamma}} 
+\]
+Наличия контура стабилизации угла рыскания делает самолет астатичным по углу $\gamma$ к возмущению по $\Delta m_x$ однако при этом сохраняется ошибка по углу рыскания.
+
+\begin{figure}[ht]
+\centering
+\import{./images/}{fig_33.pdf_tex}
+\end{figure}
+
+\section{Автоматическое регулирование угла крена $\gamma$}
+Регулирование угла крена происходит по сигналам заданных значений вырабатываемых либо летчиком, либо системой. Опыт расчетов и моделирование показывает, что за время переходного процесса по крену, движение самолета по углам скольжения и рыскания не успевает существенно развиться, при малых углах атаки, вращение самолета происходит вокруг вектора скорости ($\beta = 0$).Поэтому в уравнении моментов по крену можно пренебречь зависимостью $m_x^\beta$ и рассматривать модель изолированного движения по крену, которая соответствует следующей структурной схеме:
+
+\begin{figure}[ht]
+\centering
+\import{./images/}{fig_35.pdf_tex}
+\caption{Стабилизация $\gamma$}
+\label{fig:stab_gamma}
+\end{figure}
+ДУС и ГВ идеальны.
+
+\[
+\left\{\frac{\omega_x}{\delta_э} \right\} =\frac{\bar{M}_x^{\delta_э}}{ p - \bar{M}_x^{\omega_x}} 
+\]
+Методика синтеза АП $\gamma$ полностью повторяет АП $\theta$.
+
+\subsection{Статическое регулирование}
+$R_\gamma(p) = K_\gamma$\\
+В этом случае сигнал $\sigma_\gamma$ поступающий на вход в привод можно представить в следующем виде: 
+\[
+\sigma_\gamma =  - K_\gamma(\gamma_{зад} - \gamma) + K_{\omega_x} \omega_x = - K_{\gamma} (\gamma_{зад} - \gamma) + K_{\omega_x} p \gamma = (-K_{\omega_x} p + K_\gamma) \left(\frac{K_\gamma}{K_{\omega_x}p + K_\gamma} \gamma_{зад} - \gamma \right)
+\]
+В соответствии с $\sigma_\gamma$ можно представить схему на рис. \ref{fig:stab_gamma} как одноконтурную:\\
+\begin{figure}[H]
+\import{./images/}{fig_36.pdf_tex}
+\end{figure}
+
+Требуется выбрать значение $K_\gamma, \ K_{\omega_x}$ обеспечивающее максимальное быстродействие без существенного перерегулирование, следует отметить, что качество регулировки угла крена в значительной мере определятся передаточной функцией контура с единичной обратной связью: 
+\[
+W_{раз} = -K_{\omega_x} (p + \nu)\frac{\bar{M}_x^{\delta_э}}{p -\bar{M}_x^{\omega_x}}\frac{1}{T_П^2 p^2 + 2 \xi_П T_П p + 1}\frac{1}{p},
+\]
+где $\nu = \frac{K_\gamma}{K_{\omega_x}}$.\\
+Рекомендации по выбору параметра $\nu$ получим из корневого годографа "самолет + АП $\gamma$" для двух случаев:
+
+\begin{figure}[H]
+\import{./images/}{fig_37.pdf_tex}
+\end{figure}
+Выбираем первый случае из-за быстродействия. 
+Рассмотрим ЛАФЧХ:
+\begin{figure}[H]
+\import{./images/}{fig_38.pdf_tex}
+\end{figure}
+
+Для хорошего регулирования $\gamma$ необходимо обеспечить запасы $\Delta A > 10 \div 12 \, дБ,\ \Delta \varphi \geq 45^\circ$.\\
+Амплитудная характеристика -20 имеется на двух участах $\omega < |M_x^{\omega_x}|$ и $\nu < \omega <\frac{1}{T_n}$ большее быстродействие можно получить если $\omega_ср$ будет лежать на втором участке.
+\[
+W_{раз} \approx \frac{-K_{\omega_x} \bar{M}_x^{\delta_э}}{p},\ \omega_{ср} = -K_{\omega_x} \bar{M}_x^{\delta_э}
+\]
+При $\omega = \frac{1}{T_п}$ фазовая характеристика:
+\[
+\varphi(\omega=\frac{1}{T_п}) = -180^\circ
+\]
+Предполагая $\omega_с = \frac{1}{T_п}$ найдем $(K_{\omega_x})_{гр}$:
+\[
+(K_{\omega_x})_{гр} = -\frac{1}{T_п \bar{M}_x^{\delta_э}} = \frac{1}{T_п |\bar{M}_x^{\delta_э}|}
+\]
+Берем $K_{\omega_x} = 0.25(K_{\omega_x})_{гр}$, при этом $\omega_{ср} = \frac{0.25}{T_п}$	
+Величина $\nu =\frac{0.2}{T_п}$ обеспечивает рекомендуемую длину участка (0.7-0.8 дек) следовательно первоначальный выбор коэффициентов $K_{\omega_x} =\frac{0.25}{T_п |\bar{M}_x^{\delta_э}|}, \ \nu= \frac{0.2}{T_п},\ K_\gamma = \nu K_{\omega_x}$.
+
 \subsection{Анализ точности}
+В соответствии с замкнутой системой найдем $\Phi_{зам}$:
+\[
+\Phi_{зам} =\left\{\frac{\gamma}{\gamma_{зад}}\right\} = \frac{K_\gamma \bar{M}_x^{\delta_э}}{(T_п^2 p^2 + 2 \xi_п T_п p + 1)p(p - \bar{M}_x^{\omega_x}) - K_{\omega_x}(p + \gamma)\bar{M}_x^{\delta_э}} 
+\]
+Ищем $\gamma_{уст}$:
+\[
+\gamma_{уст} = \left\{\frac{\gamma}{\gamma_{зад}}\right\}\Big|_{p = 0} \gamma_{зад} = \gamma_{зад} 
+\]
+Рассмотрим возмущение $m_x = \Delta m_x + m_x^{\delta_э} \delta_э$:
+\[
+\Delta m_x = m_x^{\delta_э} K_\gamma \delta_\gamma = 0
+\]
+Ошибка регулирования:
+\[
+\delta_\gamma =\frac{\Delta m_x}{K_\gamma m_z^{\delta_э}} 
+\]
 
-
-
+\section{Астатический автопилот крена}
 
 \end{document}
 
