@@ -2,7 +2,8 @@
 
 !.gitignore
 !lecture1.tex
-!./images
+!./images/
+!*.svg
 !req.txt
 !lecture1.dep
 !README.md
