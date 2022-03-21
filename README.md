@@ -1,6 +1,7 @@
-Установить все использованные пакеты используя TeX Live :
+Установить все пакеты используя TeX Live :
 ```sh
-$ cat lecture1.dep | grep -oP '(?<=package}{)\k*' | xargs tlmgr install 
+$ cat lecture1.dep | grep -oP '(?<=package}{)\w*' | xargs tlmgr install 
 ```
 Также список всех пакетов приведен в req.txt
+
 
