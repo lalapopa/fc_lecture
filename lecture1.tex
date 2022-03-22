@@ -1785,9 +1785,7 @@ W_{раз} \approx \frac{-K_{\omega_x} \bar{M}_x^{\delta_э}}{p},\ \omega_{ср}
 \Phi_{зам} =\left\{\frac{\gamma}{\gamma_{зад}}\right\} = \frac{K_\gamma \bar{M}_x^{\delta_э}}{(T_п^2 p^2 + 2 \xi_п T_п p + 1)p(p - \bar{M}_x^{\omega_x}) - K_{\omega_x}(p + \gamma)\bar{M}_x^{\delta_э}} 
 \]
 Ищем $\gamma_{уст}$:
-\[
-\gamma_{уст} = \left\{\frac{\gamma}{\gamma_{зад}}\right\}\Big|_{p = 0} \gamma_{зад} = \gamma_{зад} 
-\]
+\[ \gamma_{уст} = \left\{\frac{\gamma}{\gamma_{зад}}\right\}\Big|_{p = 0} \gamma_{зад} = \gamma_{зад} \]
 Рассмотрим возмущение $m_x = \Delta m_x + m_x^{\delta_э} \delta_э$:
 \[
 \Delta m_x = m_x^{\delta_э} K_\gamma \delta_\gamma = 0
@@ -1798,6 +1796,230 @@ W_{раз} \approx \frac{-K_{\omega_x} \bar{M}_x^{\delta_э}}{p},\ \omega_{ср}
 \]
 
 \section{Астатический автопилот крена}
+Регулятор записывается по аналогии с предедующим вариантом:
+\[
+R_\gamma = K_\gamma +\frac{K_u}{p}  = K_\gamma\frac{1 + T_u p}{T_u p},
+\]
+где $T_u  = \frac{K_\gamma}{K_u}$.\\
+Интеграл вводится для устранение ошибки регулирования. При возмущении $\Delta m_x$, выбор значения параметров $T_u$, подчинен условию $\frac{1}{T_u} < \frac{\omega_{ср}}{10}$ где $\omega_{ср}$ частота среза, в этом случае передаточная функция $\frac{1 + T_u p}{T_u p}$ не оказывает влияние на частотную характеристику в районе частоты среза и следовательно необходимые запасы устойчивости можно обеспечить выбором параметров $K_\gamma, K_{\omega_x}$.
+\[
+\frac{K_u}{K_\gamma} =\frac{\omega_{ср}}{\omega}, \ \omega_{ср} = 0.25\frac{1}{Т_п}, \ K_u << 0.025\frac{K_\gamma}{T_п}
+\]
+\subsection{Коррекция коэффициентов $K_\gamma$ $K_{\omega_x}$}
+Для статического АП $\gamma$ найдем замкнутую передаточную функцию системы:
+\[
+\left\{\frac{\gamma}{\gamma_{зад}}\right\} = -\frac{K_\gamma \bar{M}_x^{\delta_э}}{p^2 + p(-\bar{M}_x^{\omega_x} - K_{\omega_x} \bar{M}_x^{\delta_э}) - K_{\gamma} \bar{M}_x^{\delta_э}} 
+\]
+
+В каноническом виде:
+\[
+\left\{\frac{\gamma}{\gamma_{зад}}\right\} = -\frac{1}{T^2 p^2 + 2\xi_{\gamma} T_{\gamma} p + 1},
+\]
+где $T_\gamma = \sqrt{\frac{1}{K_\gamma |\bar{M}_x^{\delta_э}|}}$, $\xi_{\gamma} = \frac{-0.5(\bar{M}_x^{\omega_x} + K_{\omega_x} \bar{M}_x^{\delta_э})}{\sqrt{K_\gamma |\bar{M}_x^{\delta_э}|}}$
+
+Оценим эти величины:
+\[
+K_\omega =\frac{0.25}{T_{п}|\bar{M}_x^{\delta_э}|},\ K_\gamma = \frac{0.2}{T_{п}},\ K_\omega =\frac{0.05}{T_p^2 |\bar{M}_x^{\delta_э}|}.
+\]
+
+Пример расчета:
+\begin{enumerate}
+\item Найти $\bar{M}_x ^{\delta_э},\ \bar{M}_x^{\omega_x},\ K_x$
+\item Выбор параметров привода:
+$\hat{\omega}_{пр} = 10(-\bar{M}_x^{\delta_э}) =  12.7$, $\omega_{пр} = 20$, $T_{пр} = \frac{1}{\omega_{пр}} = 0.05$
+\item Определим коэффициенты:
+$(K_{\omega_x})_{гр} = -\frac{1}{T_п \bar{M}_x^{\delta_э}}=4.32$, $K_{\omega_x} = 0.25 (K_{{\omega_x}_{гр}}) = 1.08$, $\nu =\frac{0.2}{T_п}=4$
+\item Определим коэффициенты: $R_\gamma = K_\gamma +\frac{K_u}{p}$, $K_u = 0.025 \frac{K_\gamma}{T_п}$
+\end{enumerate}
+
+\section{Статический автопилот нормальной перегрузки}
+Измерители идеальные 
+
+Фото 1:53 Верхняя  
+fig 39
+
+Схема может быть преобазованна к виду:
+Фото 1:53 Нижняя схема с пунктирным квадратиком
+Пунктирная линяя АПУ\\
+Синтез АПУ:
+\begin{enumerate}
+\item Находим $(K_{\omega_z})_{гр} =\frac{1}{T_п |\bar{M}_z^{\varphi}|}$, $\frac{1}{T_п} = (8 \div 10)\omega_0$
+\item $\bar{Y}_*^\alpha =\bar{Y}^\alpha + \lambda n_y^\alpha$, $\lambda = \frac{K_{n_y}}{K_{\omega_z}}$
+\item Пусть $\omega_0^*$, $\xi^*$ - желаемые значения $\omega_0^{эф}$, $\xi^{эф}$.\\
+$\omega_{ср}^{потр} = 2 (\xi_* \omega_0^* - \xi \omega_0)$, $(\bar{Y}_*^\alpha)_{потр} = \frac{(\omega_0^*)^2 - \omega_0^2}{\omega_{ср}^{потр}}$
+должно удовлетворять: $(\bar{Y}_*^\alpha)_{потр} \leq \frac{0.2}{T_п}$.
+\item $(K_{\omega_z})_{потр} = \frac{\omega_{ср}^{потр}}{|\bar{M}_z^\varphi|}$
+\item $K_{\omega_z}^0 = min \left\{ K_{{\omega_z}_{потр}};\ 0.25(K_{\omega_z})_{гр} \right\}$, $K_{n_y}^0 = \lambda^0 K_{\omega_z}^0$
+\item Передаточная функция:
+\[
+\left\{\frac{\Delta n_y}{\Delta n_{y_{зад}}} \right\}  = -\frac{K_{n_y}\bar{M}_z^\varphi n_y^\alpha }{p^2 + 2 \tilde{h} p + \tilde{\omega}_0^2},
+\]
+где $2 \tilde{h} = 2h - K_{\omega_z} \bar{M}_z^\varphi$, $\tilde{\omega}^{2}_0= \omega_0^2 - K_{\omega_z} \bar{M}_z^\varphi \bar{Y}^\alpha - K_{n_y} \bar{M}_z^\varphi n_y^\alpha$ 
+\[
+\left\{\frac{\Delta n_y}{\Delta n_{y_{зад}}} \right\} = -\frac{K_{\xi}}{\tilde{T}^2 p^2 + 2 \tilde{\xi} \tilde{T}p + 1}, 
+\]
+где $\tilde{T} = \frac{1}{\tilde{\omega}_0}$, $\tilde{\xi} =\frac{\tilde{h}}{\tilde{\omega_{0}}}$, $K_\xi = -\frac{K_{n_y} \bar{M}_z^\varphi n_y^\alpha}{\tilde{\omega}_0^2}$
+\end{enumerate}
+
+\section{Статический автопилот боковой перегрузки}
+Фото 2 20
+\[
+    \left\{\frac{\omega_y}{\delta_н}\right\} = \frac{\bar{M}_y^{\delta_н}(p - \bar{Z}^\beta)}{ p^2 + 2 h_бp + \omega_Б^2 },
+\]
+\[
+\left\{ \frac{\beta}{\delta_н} \right\} = \frac{ \bar{M}_y^{\delta_н} }{ p^2 + 2 h_бp + \omega_Б^2 }    
+,\]  
+\[
+    \left\{ \frac{n_z}{\delta_н} \right\} = \frac{ \bar{M}_y^{\delta_н} n_z^\beta }{ p^2 + 2 h_бp + \omega_Б^2 }    
+\]  
+фото 2 23 тетрадь $h = 2\xi \omega_x$ 
+По аналогии преобразуем к следующему виду:
+Фото 2 23
+Пунктиром выделен АПУ(автомат путевой устойчивости) 
+ВЫбор коэффициентов $K_{\omega_y}$ $K_{n_z}$ с первого семестра.
+
+Найдем две паралельные замкнутые связи можно объединить в: 
+\[
+W_{ОС}^\beta = - K_{\omega_y} (p - \bar{Z}^\beta) + K_{n_z} n_z^\beta = - K_{\omega_y}(p - \bar{Z}_*^\beta)
+\]
+\[
+\bar{Z}_*^\beta = |\bar{Z}^\beta| + \lambda |n_z^\beta|
+\]
+\[
+    \lambda = \frac{K_{n_z}}{K_{\omega_y}} 
+\]
+
+С учетом такой обратной связи структурная схема будет в виде:
+фото 2 29
+
+\[
+\left\{\frac{\Delta n_z}{\Delta n_{z_{зад}}} \right\}  = \Phi_{АП-n_z} = K_{n_z}\frac{\frac{\bar{M}_y^{\delta_н}}{p^2 + 2 h_б p + \omega_б^2}}{1 +\frac{\bar{M}_y^{\delta_н}}{p^2 + 2 h_б p + \omega_б^2} (-K_{\omega_y}(p - \bar{Z}^\beta))}n_z^\beta  
+\]
+\[
+\Phi_{АП-n_z} =\frac{K_n}{ p^2 + 2 h_б^*p + {\omega_Б^*}^2  }, 
+\]
+где $2h_б^* = 2h_б - K_{\omega_y}\bar{M}_y^{\delta_н}$, ${\omega_Б^*}^2 = \omega_Б^2 + K_{\omega_y}\bar{M}_y^{\delta_н} \bar{Z}^\beta + K_{n_z} \bar{M}_y^{\delta_н} n_z^\beta $
+
+Найдем $(n_z)_{уст}$:
+\[
+(n_z)_{уст} = \Phi_{АП-n_z}(p) |_{p=0} \Delta n_{z_{зад}} =\frac{K_{n_z} \bar{M}_y^{\delta_н} n_z^\beta}{{\omega_Б^*}^2} \Delta n_{z_{зад}} = K \Delta n_{z_{зад}}
+\]
+Найдем стат. ошибку:
+\[
+    \delta_{n_z} = \Delta n_{z_{зад}} - \Delta (n_z)_{уст} = \Delta n_{z_зад} - \frac{K_{n_z} \bar{M}_y^{\delta_н}n_z^\beta}{{\omega_Б^*}^2} \Delta n_{z_зад} = \left( 1 - \frac{ K_{n_z} \bar{M}_y^{\delta_н} n_z^\beta}{{\omega_Б^*}^2} \right) \Delta n_{z_{зад}} = 
+\]
+\[
+    = \frac{{\omega_Б^*}^2 - K_{n_z} \bar{M}_y^{\delta_н} n_z^\beta}{ {\omega_Б^*}^2} \Delta n_{z_{зад}} = \frac{\omega_Б^2 + K_{\omega_y} \bar{M}_y^{\delta_н} \bar{Z}^\beta}{\omega_Б^2 + K_{\omega_y} \bar{M}_y^{\delta_н} \bar{Z}^\beta + K_{n_z} \bar{M}_y^{\delta_н} n_z^\beta} \Delta n_{z_{зад}}
+\]
+С увелчиением $K_{n_z}$ ошибка регулирования $\delta_{n_z}$, но так или иначе $\delta_{n_z} \neq 0$.
+
+\subsection{Стабилизация высоты в тангажном и перегрузочном варианте}
+Режим стабилизации высоты является одним из основынх рабочих режимов полета без точного выдерживания высоты невозможны полеты в заданном эшелоне, режим аэрофотосъемки, прицельного сброса груза и т.д. Основной координатой управления является отклонение центра тяжести самолета от заданной:
+\[
+\delta H = H_{зад} - H
+\]
+Которая может быть измерена: барометрическим корректором высоты, радиовысотомером или инерциальной системой. В настоящее время наибольшее распростронение получил барометрический корректор поэтому режим стабилизации называют режимом стабилизации бараметрической высоты полета. Автоматическая стабилизация высоты является простейшим случаем управления (управление движение центра тяжести самолета в вертикальной плоскости). Структура контура стабилизации высоты полета и возможные законы управления. При постоянной скорости полета контур управления высотой можно представить в виде:
+
+фото 3 15\\
+Будем считать привод с жетской связью, тогда передаточная функция разомкнутого контура имеет следующий вид:
+\[
+W_{раз}^н =\frac{K_c K_н R_н(p)}{p^2(T^2 p^2 + 2 \xi p + 1)}W_п(p)
+\]
+Очевидно, что если регулятор равен коэффициенту $R_н(p)  = i_н$, то контур не устойчивый.
+Устойчивость можно обеспечить двумя путями:
+
+\begin{enumerate}
+\item Введение внутренней стабилизирующей обратной связи по сигналу угла $\vartheta$, то есть введение АП $\vartheta$.
+\item Введение в закон управления $\delta_н$, то есть выбор регулятора $R_н(p) = i_н + i_1p$.
+\end{enumerate}
+
+\subsection{Тангажный вариант регулирования высоты}
+Соответствует следующей структурной схеме:
+фото 3 38
+\[
+    \left\{\frac{\Delta \omega_z}{\Delta \delta_в} \right\} = \frac{\bar{M}_z^{\delta_в}(p + \bar{Y}^\alpha)}{p^2 + 2hp + \omega^2} 
+\]
+\[
+    \left\{ \frac{\Delta H}{\Delta \vartheta} \right\} = \frac{K_н}{p(T_{1c}p +1)}
+\]
+
+Основных преимуществом АП H $\vartheta$ является, то что устойчивость траекторного контура обеспечивается за счет сигнала измеяемого надежным датчиком гировертикалью (практическое отсутсвие запаздывания). Два внутренних контура устанавливающих связь между $\Delta \theta$, $\Delta \theta_{зад}$ представляют собой "самолет + АП $\theta$", которая может быть описана передаточной функцией полученной ранее:
+\[
+\left\{\frac{\Delta \vartheta}{\Delta \vartheta_{зад}} \right\} =\frac{T_{1c}p + 1}{(\tau_1 p + 1) (\tau_2^2p^2 + 2 \xi_2 \tau_2 p + 1)}.
+\]
+фото 3 36 схема 
+
+Способ регулирования высоты будет определятся регулятором $R_H(p)$.
+
+Статическое регулирование  - $R^{'}H(p) = i_H$ в этом случае разомкнутый контур:
+\[
+W_{раз}^H =\frac{i_H K_H}{p(\tau_1 p + 1)(\tau_2^2 p^2 + 2 \xi_2 \tau_2 p + 1)} 
+\]
+$\tau_1 > \tau_2$
+Построим ЛАФЧХ. 
+photo 3 44
+
+
+Для участка частот:
+$\omega < \frac{1}{\tau_1}$, $W_{раз} \approx \frac{i_H K_H }{p} $, тогда частота среза $\omega_c = i_H  K_H$, примем частоту среза $\omega_cp \le  0.8 \frac{1}{\tau_1}$, $\omega_{cp} = i_H K_H =0.8 \frac{1}{\tau_1} $, на основе рекомендаций частотного синтеза предполагает определенный желаемый характер переходного процесса, в данном случае уменьшение величины перерегулирования можно добиться за счет уменьшения $i_H$. 
+\[
+    \Phi_H (p) =\frac{W_{раз}}{1 + W_{раз}} =\frac{i_H K_H}{p(\tau_1 p +1)(\tau_2^2 p^2 + 2 \xi_2 \tau_2 p + 1) + i_H K_H} = \left\{ \frac{\Delta H}{\Delta H_{зад}} \right\}  
+\]
+тогда берем установившееся значение:
+\[
+(\Delta H)_{уст} = \Phi_H(p)|_{p=0} \Delta H_{зад} = \Delta H_{зад}
+\]
+И статическая ошибка равна 0. Возмущающий момент $\Delta m_z = const$ приводит к $\delta H =\frac{\delta m_z}{m_z^{\delta_н} K_\vartheta K_н}$.
+
+\subsection{Астатическое регулирование}
+Вид регулятора:
+\[
+R_н(p) = i_н +\frac{i_1}{p}  = i_н \frac{T_н p  + 1}{T_н p},
+\]
+где $T_н =\frac{i_н}{i_1}$.\\
+Выбираем $\omega_{ср} = 0.8 \frac{1}{\tau_1}$, $\frac{1}{T_H} \le 0.08\frac{1}{\tau_1}$, $\frac{1}{T_H} = \frac{i_1}{i_H} = 0.08\frac{1}{\tau_1}$
+\[
+    i_1 = 0.064 \frac{1}{\tau_1^2 K_H}
+.\]
+
+\subsection{Расчет ограничений}
+В целях обеспеченя устойчивости для заданной траектории полета в закон управления вводится ограничение:
+\begin{enumerate}
+    \item Ограничеватся сигнал входного параметра
+    \item Ограничевается интеграл
+\end{enumerate}
+
+Для предотвращения выхода на недопустимые режимы полета ограничивается также входной сигнал ядра системы.
+
+Структурная схема 3 59
+
+Ограничение на управление органа управления:\\
+$\varphi = \varphi_{оп} + \Delta \varphi$, $\varphi_{min} - \varphi_{оп} < \Delta \varphi < \varphi_{max} - \varphi_{оп}$\\
+Ограничение по перегрузке:\\
+$n_y = 1 + \Delta n_y$, $(n_y)_{min} < n_y < (n_y)_{max}$, $(n_y)_{min} - 1 < \Delta n_y < (n_y)_{max} - 1$.  
+
+Передаточная функция по $\bar{\sigma}$:
+\[
+    \left\{\frac{\Delta n_y}{\bar{\sigma}} \right\} =\frac{|\bar{M}_z^\varphi| K_{\vartheta} n_y^\alpha}{ p^2 + 2(h + 0.5 K_{\omega_z} | \bar{M}_z^{\varphi} |)p + \omega_0^2 + | \bar{M}_z^{\varphi}| K_{\omega_z} \bar{Y}^\alpha} 
+\]
+\[
+    \left( \Delta n_y\right)_{уст} = \frac{| \bar{M}_z^{\varphi}| n_y^\alpha K_\vartheta}{\omega_0^2 + K_{\omega_z} | \bar{M}_z^{\varphi} | \bar{Y}^\alpha} \bar{\sigma} = K \bar{\sigma}
+\]
+
+Ограничение угла тангажа:
+\begin{equation}
+    \Delta \vartheta_{зад} =
+\begin{cases}
+    4 \div 6^\circ \text{ --- для неманевренных самолетов}\\
+    8 \div 10^\circ \text{ --- для маневренных самолетов}
+
+\end{cases}    
+\end{equation}
+
+$\Delta =\frac{\Delta \vartheta_ж}{i_н}$, $\Delta_i = 0.2 \Delta \vartheta_ж$ - ограничение на интеграл
+
+\section{Дополнительные соображения для выбора значений $i_H$ связанные с величинами ограничений}
+
 
 \end{document}
 
