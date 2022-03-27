@@ -1,0 +1,80 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'fig_32.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{590.10033482bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.27609894)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_32.pdf}}%
+    \put(0.42733018,0.15993142){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \delta_э$\end{tabular}}}}%
+    \put(0.37804087,0.16061328){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_э$\end{tabular}}}}%
+    \put(0.40297929,0.05466183){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_x}$\end{tabular}}}}%
+    \put(0.20129817,0.14362976){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\gamma}$\end{tabular}}}}%
+    \put(0.12978101,0.1572543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_{зад}$\end{tabular}}}}%
+    \put(-0.00140667,0.15783761){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_{зад}$\end{tabular}}}}%
+    \put(0.07265601,0.14362976){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\psi}$\end{tabular}}}}%
+    \put(0.58093073,0.19912338){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_32.pdf}}%
+    \put(0.77196626,0.1991616){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_32.pdf}}%
+    \put(0.79745972,0.15483267){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
+    \put(0.57966905,0.14333267){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.6299283,0.14362975){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{g}{V}(T_{1c}p + 1)$\end{tabular}}}}%
+    \put(0.60599246,0.15425843){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
+    \put(0.76956538,0.14333267){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.5431997,0.15357052){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_x$\end{tabular}}}}%
+    \put(0.47313595,0.14362975){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\bar{M}_x^{\delta_э}}{p - \bar{M}_x^{\omega_x}}$\end{tabular}}}}%
+    \put(0.40417665,0.22053924){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{m_x^{\delta_э}}$\end{tabular}}}}%
+    \put(0.42483771,0.26322377){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta m_x$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_32.pdf}}%
+    \put(0.32961385,0.14362976){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_П$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

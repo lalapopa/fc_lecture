@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130mm"
+   height="130mm"
+   viewBox="0 0 130 130"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="fig_28.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7573033"
+     inkscape:cx="131.14241"
+     inkscape:cy="245.80875"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.583333,11.90625 V 99.747913"
+       id="path844"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.583333,37.041666 c 71.437499,0 71.437499,0 71.437499,0"
+       id="path848" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49388889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3.5432098,18.92319 31.478574,44.449689 h 34.294942 l 15.913386,15.913388"
+       id="path850"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374896,0.79374896;stroke-dashoffset:0"
+       d="m 31.478574,44.449687 c 0,-7.197198 0,-7.409116 0,-7.409116"
+       id="path852" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374896,0.79374896;stroke-dashoffset:0"
+       d="m 65.773516,44.449687 c 0,-7.349392 0.06371,-7.349392 0.06371,-7.349392 v 0"
+       id="path854" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path856"
+       cx="23.371477"
+       cy="37.041664"
+       r="0.61727345" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.52999997,0.52999997;stroke-dashoffset:0"
+       d="m 10.83158,65.196156 c 72.929189,0 72.929189,0 72.929189,0"
+       id="path858" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 0.53;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 10.83158,91.654491 c 72.929189,0 72.929189,0 72.929189,0"
+       id="path858-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="3.9524148"
+       y="91.654488"
+       id="text882"><tspan
+         sodipodi:role="line"
+         id="tspan880"
+         x="3.9524148"
+         y="91.654488"
+         style="stroke-width:0.264583">$-\pi$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="3.9524148"
+       y="77.896164"
+       id="text882-6"><tspan
+         sodipodi:role="line"
+         id="tspan880-7"
+         x="3.9524148"
+         y="77.896164"
+         style="stroke-width:0.264583">$-\frac{\pi}{2}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="3.9524148"
+       y="66.254501"
+       id="text910"><tspan
+         sodipodi:role="line"
+         id="tspan908"
+         x="3.9524148"
+         y="66.254501"
+         style="stroke-width:0.264583">$0$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="31.478575"
+       y="33.866661"
+       id="text914"><tspan
+         sodipodi:role="line"
+         id="tspan912"
+         x="31.478575"
+         y="33.866661"
+         style="stroke-width:0.264583">$-\bar{Z}^\beta$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="66.40358"
+       y="33.866661"
+       id="text918"><tspan
+         sodipodi:role="line"
+         id="tspan916"
+         x="66.40358"
+         y="33.866661"
+         style="stroke-width:0.264583">$\tilde{\omega}_Б$</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49388889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 10.583333,77.896164 c 16.524329,10e-7 18.572257,-12.28077 33.41912,-12.28077 4.639415,0 12.849659,4.466871 19.540704,11.193032 6.062063,6.093877 10.320452,14.680599 33.207991,15.166877"
+       id="path920"
+       sodipodi:nodetypes="cssc" />
+  </g>
+</svg>

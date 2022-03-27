@@ -1,0 +1,78 @@
+%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'fig_8.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{427.13220286bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.43113515)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.17957676,0.31395033){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДП\end{tabular}}}}%
+    \put(0.43805639,0.31359024){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_ш$\end{tabular}}}}%
+    \put(0.69600886,0.31135933){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ЭГПР\end{tabular}}}}%
+    \put(0.11952225,0.23477215){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Прогр.\\\end{tabular}}}}%
+    \put(0.1185968,0.19682871){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$X_{бал}(H,V)$\end{tabular}}}}%
+    \put(0.39292399,0.10812978){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_z}$\end{tabular}}}}%
+    \put(0.38207037,0.02449283){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_y} + \frac{K_{\int}}{p}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_8.pdf}}%
+    \put(0.15712423,0.11171922){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДУЕ\end{tabular}}}}%
+    \put(0.15714881,0.02195061){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}АУС\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_8.pdf}}%
+    \put(0.88794752,0.31845247){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_8.pdf}}%
+    \put(0.50868811,0.33128105){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_л$\end{tabular}}}}%
+    \put(0.24856732,0.2349802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$X_{бал}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_8.pdf}}%
+    \put(0.3738851,0.23318336){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta X$\end{tabular}}}}%
+    \put(0.2470985,0.1281448){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
+    \put(0.24293396,0.03837617){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
+    \put(0.61820393,0.33128105){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi$\end{tabular}}}}%
+    \put(0.04455246,0.41311896){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

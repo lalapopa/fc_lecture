@@ -1,0 +1,74 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'fig_40.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{487.58797043bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.3161439)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_40.pdf}}%
+    \put(0.48073416,0.03981656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_40.pdf}}%
+    \put(0.70919774,0.27187343){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
+    \put(0.54799149,0.27158802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
+    \put(0.38571032,0.27158802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \varphi$\end{tabular}}}}%
+    \put(0.45701024,0.25760402){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\left\{ \frac{\Delta \alpha}{\Delta \varphi} \right\}$\end{tabular}}}}%
+    \put(0.44925884,0.15087692){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p + \bar{Y}^\alpha$\end{tabular}}}}%
+    \put(0.38747008,0.16579077){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
+    \put(0.30675574,0.15116234){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
+    \put(0.30700856,0.25883521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0.2586306,0.27187343){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma_n$\end{tabular}}}}%
+    \put(0.08380197,0.25739999){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
+    \put(-0.00170241,0.27187343){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_{y_{зад}}$\end{tabular}}}}%
+    \put(0.65023427,0.25835374){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.3047861,0.04038815){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_40.pdf}}%
+  \end{picture}%
+\endgroup%

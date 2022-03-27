@@ -1,0 +1,84 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'fig_44.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{541.12778551bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.30261861)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_44.pdf}}%
+    \put(0.92997373,0.17043351){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H$\end{tabular}}}}%
+    \put(0.88707951,0.15987371){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{g}{p^2}$\end{tabular}}}}%
+    \put(0.81043445,0.17018446){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
+    \put(0.74779869,0.15947135){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.63064709,0.05980969){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\omega_z}{\alpha}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_44.pdf}}%
+    \put(0.51259101,0.17011922){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi$\end{tabular}}}}%
+    \put(0.56158383,0.30145053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta m_z$\end{tabular}}}}%
+    \put(0.53679137,0.25170098){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{m_z^\varphi}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_44.pdf}}%
+    \put(0.68650979,0.16965085){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
+    \put(0.61382234,0.1576559){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\Delta \alpha }{ \Delta \varphi} \right\} $\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_44.pdf}}%
+    \put(0.54575335,0.07018207){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \Delta \omega_z$\end{tabular}}}}%
+    \put(0.4738984,0.06081903){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{ \omega_z}$\end{tabular}}}}%
+    \put(0.46384571,0.15783864){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{fig_44.pdf}}%
+    \put(0.4180954,0.16886139){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma_n$\end{tabular}}}}%
+    \put(0.32121326,0.15804338){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$- K_{n_y}$\end{tabular}}}}%
+    \put(0.19555995,0.1697854){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \Delta n_{y_{зад}}$\end{tabular}}}}%
+    \put(0.13437056,0.15783865){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R_H(p)$\end{tabular}}}}%
+    \put(0.09764075,0.17009339){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \delta H$\end{tabular}}}}%
+    \put(0.02017665,0.17012136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_{зад}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{fig_44.pdf}}%
+    \put(0.87887724,0.02048779){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}АП $n_y$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{fig_44.pdf}}%
+  \end{picture}%
+\endgroup%

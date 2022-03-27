@@ -1,7 +1,7 @@
 *
 !.gitignore
 !lecture1.tex
-!./figures/
+!/figures/
 !*.svg
 !*.pdf_tex
 !req.txt
