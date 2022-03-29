@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120mm"
+   height="21.16354mm"
+   viewBox="0 0 120 21.16354"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="fig_59.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker-arrow-0.99525"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1025-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.5520166"
+     inkscape:cx="358.18784"
+     inkscape:cy="57.825298"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="mm"
+     width="180mm"
+     inkscape:window-width="1916"
+     inkscape:window-height="982"
+     inkscape:window-x="0"
+     inkscape:window-y="96"
+     inkscape:window-maximized="0"
+     inkscape:snap-grids="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842"
+       originx="-43.061109"
+       originy="-19.71225" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>LALAPOPA</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>LALAPOPA</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>vk.com/la_la_popa
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.06111,-19.71225)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       id="rect850"
+       width="12.736674"
+       height="12.736673"
+       x="119.0625"
+       y="19.84375" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       id="rect850-3"
+       width="24.737"
+       height="12.736673"
+       x="86.388"
+       y="19.84375" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       id="rect850-6"
+       width="12.736674"
+       height="12.736673"
+       x="66.638329"
+       y="19.84375" />
+    <g
+       id="g1664"
+       transform="translate(16.301415,-3.199521)">
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+         id="path1626"
+         cx="42.489334"
+         cy="29.39327"
+         r="2.5141699" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 40.711547,27.615483 c 3.555574,3.555574 3.555574,3.555574 3.555574,3.555574"
+         id="path1636" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.267121,27.615483 c -3.555574,3.555574 -3.555574,3.555574 -3.555574,3.555574"
+         id="path1636-0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 41.748833,30.980771 c 1.481002,0 1.481002,0 1.481002,0"
+         id="path1658" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#marker-arrow-0.99525)"
+       d="m 131.79918,26.212085 c 17.83744,0 17.83744,0 17.83744,0"
+       id="path888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111.125,26.212085 c 7.9375,0 7.9375,0 7.9375,0"
+       id="path890" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.374999,26.212085 c 7.013001,0 7.013001,0 7.013001,0"
+       id="path892" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.304918,26.193749 c 5.33341,0 5.33341,0 5.33341,0"
+       id="path894" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 56.276578,26.193749 c -12.052411,0 -12.052411,0 -12.052411,0"
+       id="path896" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.7179,26.212085 c 0,14.531412 0,14.531412 0,14.531412 H 58.635608 v -12.04037"
+       id="path898" />
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text902"
+       x="88.004242"
+       y="27.05715"><tspan
+         sodipodi:role="line"
+         id="tspan900"
+         x="88.004242"
+         y="27.05715"
+         style="stroke-width:0.264583">$\frac{1}{ T_\gamma^2 p^2 + 2 \xi_\gamma T_\gamma p + 1 }$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text916"
+       x="147.03534"
+       y="24.466257"><tspan
+         sodipodi:role="line"
+         id="tspan914"
+         x="147.03534"
+         y="24.466257"
+         style="stroke-width:0.264583">$\Delta Z$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text930"
+       x="123.45609"
+       y="27.084925"><tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="123.45609"
+         y="27.084925"
+         style="stroke-width:0.264583">$ \frac{g}{p^2}$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text944"
+       x="113.25542"
+       y="24.137545"><tspan
+         sodipodi:role="line"
+         id="tspan942"
+         x="113.25542"
+         y="24.137545"
+         style="stroke-width:0.264583">$\gamma$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text958"
+       x="79.450844"
+       y="24.356234"><tspan
+         sodipodi:role="line"
+         id="tspan956"
+         x="79.450844"
+         y="24.356234"
+         style="stroke-width:0.264583">$ \gamma_{зад}$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text972"
+       x="69.782448"
+       y="26.905193"><tspan
+         sodipodi:role="line"
+         id="tspan970"
+         x="69.782448"
+         y="26.905193"
+         style="stroke-width:0.264583">$R_z(p)$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text986"
+       x="39.111477"
+       y="24.379795"><tspan
+         sodipodi:role="line"
+         id="tspan984"
+         x="39.111477"
+         y="24.379795"
+         style="stroke-width:0.264583">$\Delta Z_{зад} = 0$</tspan></text>
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>LALAPOPA</inkscape:name>
+    <inkscape:author>LALAPOPA</inkscape:author>
+    <inkscape:shortdesc>vk.com/la_la_popa</inkscape:shortdesc>
+    <inkscape:date>2022-03-25</inkscape:date>
+    <inkscape:keywords>for_lecture</inkscape:keywords>
+  </inkscape:templateinfo>
+</svg>

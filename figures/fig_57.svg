@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65.035164mm"
+   height="29.051695mm"
+   viewBox="0 0 65.035164 29.051695"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="fig_57.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker-arrow-0.99525"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1025-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker-arrow-0.99525-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1025-6-7" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.4093631"
+     inkscape:cx="123.59491"
+     inkscape:cy="61.245863"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="mm"
+     width="180mm"
+     inkscape:window-width="1916"
+     inkscape:window-height="982"
+     inkscape:window-x="0"
+     inkscape:window-y="96"
+     inkscape:window-maximized="0"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842"
+       originx="-12.86627"
+       originy="-8.9846418" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>LALAPOPA</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>LALAPOPA</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>vk.com/la_la_popa
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.86627,-8.9846413)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.875,33.072916 44.979166,11.90625 75.406249,30.427083"
+       id="path840" />
+    <path
+       id="path929"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.263327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       d="m 16.499101,33.070374 c 0.01587,0.40734 -0.432536,0.732001 -0.815066,0.593951 -0.392494,-0.109418 -0.56706,-0.634556 -0.317502,-0.956532 0.224147,-0.340278 0.778004,-0.345782 1.008887,-0.01011 0.07991,0.106657 0.123977,0.239401 0.123681,0.372611 z" />
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text853"
+       x="12.686695"
+       y="37.145042"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="12.686695"
+         y="37.145042"
+         style="stroke-width:0.264583">ИПМ</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text867"
+       x="41.609291"
+       y="10.913462"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="41.609291"
+         y="10.913462"
+         style="stroke-width:0.264583">ППМ</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text881"
+       x="73.236351"
+       y="34.126675"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="73.236351"
+         y="34.126675"
+         style="stroke-width:0.264583">КПМ</tspan></text>
+    <path
+       id="path929-3"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.263327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       d="m 29.919233,31.156049 c 0.01587,0.40734 -0.432536,0.732001 -0.815066,0.593951 -0.392494,-0.109418 -0.56706,-0.634556 -0.317502,-0.956532 0.224147,-0.340278 0.778004,-0.345782 1.008887,-0.01011 0.07991,0.106657 0.123977,0.239401 0.123681,0.372611 z" />
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text904"
+       x="27.834003"
+       y="35.735371"><tspan
+         sodipodi:role="line"
+         id="tspan902"
+         x="27.834003"
+         y="35.735371"
+         style="stroke-width:0.264583">С-T</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker-arrow-0.99525);marker-end:url(#marker-arrow-0.99525)"
+       d="m 24.818664,26.316626 c 4.476468,4.841964 4.476468,4.841964 4.476468,4.841964"
+       id="path916" />
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text920"
+       x="29.173723"
+       y="28.262617"><tspan
+         sodipodi:role="line"
+         id="tspan918"
+         x="29.173723"
+         y="28.262617"
+         style="stroke-width:0.264583">$\Delta Z$</tspan></text>
+    <path
+       id="path929-5"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.263327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       d="m 76.03035,30.424541 c 0.01587,0.40734 -0.432536,0.732001 -0.815066,0.593951 -0.392494,-0.109418 -0.56706,-0.634556 -0.317502,-0.956532 0.224147,-0.340278 0.778004,-0.345782 1.008887,-0.01011 0.07991,0.106657 0.123977,0.239401 0.123681,0.372611 z" />
+    <path
+       id="path929-36"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.263327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       d="m 45.603267,11.903708 c 0.01587,0.40734 -0.432536,0.732001 -0.815067,0.593951 -0.392493,-0.109418 -0.567059,-0.634556 -0.317501,-0.956532 0.224147,-0.340278 0.778004,-0.345782 1.008887,-0.01011 0.07991,0.106657 0.123977,0.239401 0.123681,0.372611 z" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>LALAPOPA</inkscape:name>
+    <inkscape:author>LALAPOPA</inkscape:author>
+    <inkscape:shortdesc>vk.com/la_la_popa</inkscape:shortdesc>
+    <inkscape:date>2022-03-25</inkscape:date>
+    <inkscape:keywords>for_lecture</inkscape:keywords>
+  </inkscape:templateinfo>
+</svg>
