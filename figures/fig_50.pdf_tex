@@ -55,14 +55,14 @@
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_50.pdf}}%
     \put(0.76821391,0.11391545){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H$\end{tabular}}}}%
-    \put(0.64648608,0.10276432){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{K_н}{p(T_{1c}p + 1)}$\end{tabular}}}}%
+    \put(0.64648608,0.10276432){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{K_\text{н}}{p(T_{1c}p + 1)}$\end{tabular}}}}%
     \put(0.59095938,0.11388703){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta$\end{tabular}}}}%
-    \put(0.42844496,0.10213914){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ -\frac{K_с (T_{1c}p + 1) }{p( T^2 p^2 + 2 \xi p+ 1)}$\end{tabular}}}}%
-    \put(0.38023173,0.11675399){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \delta_в$\end{tabular}}}}%
-    \put(0.32088756,0.103286){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
-    \put(0.16757853,0.10385616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-R_н(p)$\end{tabular}}}}%
-    \put(0.11305202,0.11512769){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_в$\end{tabular}}}}%
+    \put(0.42844496,0.10213914){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ -\frac{K_\text{с} (T_{1c}p + 1) }{p( T^2 p^2 + 2 \xi p+ 1)}$\end{tabular}}}}%
+    \put(0.38023173,0.11675399){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \delta_\text{в}$\end{tabular}}}}%
+    \put(0.32088756,0.103286){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
+    \put(0.16757853,0.10385616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-R_\text{н}(p)$\end{tabular}}}}%
+    \put(0.11305202,0.11512769){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_\text{в}$\end{tabular}}}}%
     \put(0.09814452,0.06755347){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H$\end{tabular}}}}%
-    \put(-0.00162905,0.11403741){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_{зад}$\end{tabular}}}}%
+    \put(-0.00162905,0.11403741){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_\text{зад}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

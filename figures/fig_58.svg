@@ -272,7 +272,7 @@
          id="tspan980"
          x="116.64542"
          y="20.297718"
-         style="stroke-width:0.264583">$ \left\{ \frac{ \omega_x}{ \delta_э} \right\} $</tspan></text>
+         style="stroke-width:0.264583">$ \left\{ \frac{ \omega_x}{ \delta_\text{э}} \right\} $</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -283,7 +283,7 @@
          id="tspan994"
          x="92.79583"
          y="20.290613"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -446,7 +446,7 @@
          id="tspan914"
          x="41.756664"
          y="17.660826"
-         style="stroke-width:0.264583">$\gamma_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\gamma_\text{зад}$</tspan></text>
   </g>
   <inkscape:templateinfo>
     <inkscape:name>LALAPOPA</inkscape:name>

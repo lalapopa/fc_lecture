@@ -54,7 +54,7 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0.22400507,0.29086877){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДП\end{tabular}}}}%
-    \put(0.37996986,0.29041959){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_ш$\end{tabular}}}}%
+    \put(0.37996986,0.29041959){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{ш}$\end{tabular}}}}%
     \put(0.70174115,0.28763675){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ЭГПР\end{tabular}}}}%
     \put(0.39917848,0.1348817){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_z}$\end{tabular}}}}%
     \put(0.40054884,0.03055252){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_y}$\end{tabular}}}}%
@@ -62,8 +62,8 @@
     \put(0.23980388,0.13935915){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДУЕ\end{tabular}}}}%
     \put(0.23983455,0.02738131){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}АУС\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_12.pdf}}%
-    \put(0.46807625,0.31248721){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_л$\end{tabular}}}}%
-    \put(0.59479915,0.25403711){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_А$\end{tabular}}}}%
+    \put(0.46807625,0.31248721){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_\text{л}$\end{tabular}}}}%
+    \put(0.59479915,0.25403711){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_\text{А}$\end{tabular}}}}%
     \put(0.05557501,0.41457224){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

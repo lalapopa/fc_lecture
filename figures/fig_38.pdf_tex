@@ -58,7 +58,7 @@
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_38.pdf}}%
     \put(0.26501475,0.66726285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\bar{M}_x^{\omega_x}$\end{tabular}}}}%
     \put(0.42291243,0.66726285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\nu$\end{tabular}}}}%
-    \put(0.55995598,0.66726285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_{ср}$\end{tabular}}}}%
+    \put(0.55995598,0.66726285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_\text{ср}$\end{tabular}}}}%
     \put(0.6672069,0.74543419){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{T_n}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_38.pdf}}%
   \end{picture}%

@@ -57,7 +57,7 @@
     \put(0.27515141,0.00674553){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$t_1$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_43.pdf}}%
     \put(0.67823129,0.4936713){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R$\end{tabular}}}}%
-    \put(0.67328074,0.40254516){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \theta_{жел}$\end{tabular}}}}%
+    \put(0.67328074,0.40254516){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \theta_\text{жел}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_43.pdf}}%
     \put(0.03055322,0.47834279){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta^{'}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_43.pdf}}%

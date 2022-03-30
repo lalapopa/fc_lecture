@@ -58,22 +58,22 @@
     \put(0.88140475,0.07300635){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_{min}$\end{tabular}}}}%
     \put(0.90332786,0.14762883){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_{max}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_54.pdf}}%
-    \put(0.81843928,0.10986234){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0.81843928,0.10986234){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_54.pdf}}%
     \put(0.72221603,0.10986234){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\vartheta}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_54.pdf}}%
     \put(0.61249457,0.11893397){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{fig_54.pdf}}%
-    \put(0.54913085,0.11860342){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \bar{\theta}_{з}$\end{tabular}}}}%
+    \put(0.54913085,0.11860342){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \bar{\theta}_\text{з}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{fig_54.pdf}}%
-    \put(0.445152,0.11848759){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta_з$\end{tabular}}}}%
+    \put(0.445152,0.11848759){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta_\text{з}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{fig_54.pdf}}%
-    \put(0.30161299,0.16072924){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$i_н$\end{tabular}}}}%
+    \put(0.30161299,0.16072924){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$i_\text{н}$\end{tabular}}}}%
     \put(0.33936745,0.06212381){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta_1$\end{tabular}}}}%
     \put(0.26051109,0.05048217){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{i_1}{p}$\end{tabular}}}}%
     \put(0.11531889,0.11885308){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=8]{fig_54.pdf}}%
-    \put(0.00113163,0.12244962){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_з$\end{tabular}}}}%
+    \put(0.00113163,0.12244962){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_\text{з}$\end{tabular}}}}%
     \put(0.0788667,0.12138493){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta H$\end{tabular}}}}%
     \put(0.06678505,0.06189903){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H$\end{tabular}}}}%
     \put(0.18222062,0.12021242){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta \bar{H}$\end{tabular}}}}%

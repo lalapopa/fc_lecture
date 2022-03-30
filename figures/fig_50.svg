@@ -227,7 +227,7 @@
          id="tspan1046"
          x="127.47707"
          y="33.423183"
-         style="stroke-width:0.264583">$ \frac{K_н}{p(T_{1c}p + 1)}$</tspan></text>
+         style="stroke-width:0.264583">$ \frac{K_\text{н}}{p(T_{1c}p + 1)}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -249,7 +249,7 @@
          id="tspan1074"
          x="94.622978"
          y="33.517384"
-         style="stroke-width:0.264583">$ -\frac{K_с (T_{1c}p + 1) }{p( T^2 p^2 + 2 \xi p+ 1)}$</tspan></text>
+         style="stroke-width:0.264583">$ -\frac{K_\text{с} (T_{1c}p + 1) }{p( T^2 p^2 + 2 \xi p+ 1)}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -260,7 +260,7 @@
          id="tspan1088"
          x="87.358284"
          y="31.315241"
-         style="stroke-width:0.264583">$\Delta \delta_в$</tspan></text>
+         style="stroke-width:0.264583">$\Delta \delta_\text{в}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -271,7 +271,7 @@
          id="tspan1102"
          x="78.416397"
          y="33.344578"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -282,7 +282,7 @@
          id="tspan1116"
          x="55.316032"
          y="33.258667"
-         style="stroke-width:0.264583">$-R_н(p)$</tspan></text>
+         style="stroke-width:0.264583">$-R_\text{н}(p)$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -293,7 +293,7 @@
          id="tspan1088-6"
          x="47.100063"
          y="31.560289"
-         style="stroke-width:0.264583">$\delta_в$</tspan></text>
+         style="stroke-width:0.264583">$\delta_\text{в}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -315,7 +315,7 @@
          id="tspan1168"
          x="29.820099"
          y="31.724571"
-         style="stroke-width:0.264583">$\Delta H_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\Delta H_\text{зад}$</tspan></text>
   </g>
   <inkscape:templateinfo>
     <inkscape:name>LALAPOPA</inkscape:name>

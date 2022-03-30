@@ -63,7 +63,7 @@
     \put(0.21194668,0.05104587){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-V_y$\end{tabular}}}}%
     \put(0.27693663,0.03629205){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_v$\end{tabular}}}}%
     \put(0.15739426,0.03606193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p$\end{tabular}}}}%
-    \put(0.38719678,0.15678029){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_{y_{зад}}$\end{tabular}}}}%
+    \put(0.38719678,0.15678029){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_{y_\text{зад}}$\end{tabular}}}}%
     \put(0.91885342,0.15951685){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \bar{\varphi}$\end{tabular}}}}%
     \put(0.27275276,0.14235457){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_H$\end{tabular}}}}%
     \put(0.15955403,0.19926315){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$f_1$\end{tabular}}}}%

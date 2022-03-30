@@ -104,7 +104,7 @@
          id="tspan3628"
          x="69.244904"
          y="43.38591"
-         style="stroke-width:0.264583">$W_п(p)$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}(p)$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -180,6 +180,6 @@
          id="tspan3628-0"
          x="96.923851"
          y="69.884514"
-         style="stroke-width:0.264583">$W_п(p)$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}(p)$</tspan></text>
   </g>
 </svg>

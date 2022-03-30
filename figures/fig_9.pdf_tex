@@ -64,11 +64,11 @@
     \put(0.50369824,0.19856309){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
     \put(0.64386782,0.33928019){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
     \put(0.56398179,0.32832945){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\{ \frac{\Delta \alpha}{\Delta \varphi}\}$\end{tabular}}}}%
-    \put(0.43087586,0.32613931){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_{пр}$\end{tabular}}}}%
+    \put(0.43087586,0.32613931){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{пр}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_9.pdf}}%
-    \put(0.0766191,0.32559177){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{K_ш}{p}(p + \frac{K_x K_{\int}}{K_ш})$\end{tabular}}}}%
+    \put(0.0766191,0.32559177){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{K_\text{ш}}{p}(p + \frac{K_x K_{\int}}{K_\text{ш}})$\end{tabular}}}}%
     \put(0.01803259,0.33599497){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_9.pdf}}%
-    \put(0.25011017,0.13253166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_{ос}$\end{tabular}}}}%
+    \put(0.25011017,0.13253166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{ос}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

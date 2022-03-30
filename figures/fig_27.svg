@@ -242,7 +242,7 @@
          id="tspan1862"
          x="8.7199564"
          y="23.752203"
-         style="stroke-width:0.264583">$\psi_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\psi_\text{зад}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -319,7 +319,7 @@
          id="tspan3009"
          x="44.979168"
          y="23.8125"
-         style="stroke-width:0.264583">$n_{z_{зад}}$</tspan></text>
+         style="stroke-width:0.264583">$n_{z_\text{зад}}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"

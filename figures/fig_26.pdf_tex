@@ -54,17 +54,17 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_26.pdf}}%
-    \put(0.40272615,0.26964884){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_н$\end{tabular}}}}%
+    \put(0.40272615,0.26964884){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_\text{н}$\end{tabular}}}}%
     \put(0.73310076,0.27134819){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
     \put(0.44764737,0.17600851){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_{\Delta Y_a}$\end{tabular}}}}%
-    \put(0.44997853,0.2579438){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\{ \frac{\omega_{\psi}}{\delta_н}\}$\end{tabular}}}}%
-    \put(0.34187968,0.2579438){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0.44997853,0.2579438){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\{ \frac{\omega_{\psi}}{\delta_\text{н}}\}$\end{tabular}}}}%
+    \put(0.34187968,0.2579438){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
     \put(0.34244392,0.17792503){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_y}$\end{tabular}}}}%
     \put(0.22056967,0.26177686){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_z}$\end{tabular}}}}%
     \put(0.07129579,0.25986033){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-R_{\psi}$\end{tabular}}}}%
     \put(0.04088237,0.21697614){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
-    \put(-0.00129548,0.27060144){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_{зад}$\end{tabular}}}}%
-    \put(0.13379358,0.27078504){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_{z_{зад}}$\end{tabular}}}}%
+    \put(-0.00129548,0.27060144){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_\text{зад}$\end{tabular}}}}%
+    \put(0.13379358,0.27078504){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_{z_\text{зад}}$\end{tabular}}}}%
     \put(0.18142484,0.23059772){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_z$\end{tabular}}}}%
     \put(0.47545308,0.03402385){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Курс.\\сист.\end{tabular}}}}%
     \put(0.43265335,0.10184225){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Phi_{АП_{n_z}}$\end{tabular}}}}%

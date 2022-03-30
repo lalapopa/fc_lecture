@@ -58,7 +58,7 @@
     \put(0.00586382,0.22253948){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{\pi}{2}$\end{tabular}}}}%
     \put(0.00586382,0.34109885){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$0$\end{tabular}}}}%
     \put(0.28619183,0.6709385){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\bar{Z}^\beta$\end{tabular}}}}%
-    \put(0.64187011,0.6709385){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\tilde{\omega}_Б$\end{tabular}}}}%
+    \put(0.64187011,0.6709385){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\tilde{\omega}_\text{Б}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_28.pdf}}%
   \end{picture}%
 \endgroup%

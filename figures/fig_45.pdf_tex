@@ -58,7 +58,7 @@
     \put(0.42325864,0.50661907){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-20\end{tabular}}}}%
     \put(0.65633787,0.36285719){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-60\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_45.pdf}}%
-    \put(0.40088761,0.43628659){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_{ср}$\end{tabular}}}}%
+    \put(0.40088761,0.43628659){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_\text{ср}$\end{tabular}}}}%
     \put(0.53530206,0.66412982){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{\tilde{T}}<\omega < \frac{1}{T_v}$\end{tabular}}}}%
     \put(0.53361694,0.58645599){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W \approx \frac{K_H K_\varepsilon g T_v}{p}= \frac{K_H K_\varepsilon g}{p}$\end{tabular}}}}%
     \put(-0.00286556,0.14240202){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\pi$\end{tabular}}}}%

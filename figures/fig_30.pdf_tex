@@ -55,11 +55,11 @@
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_30.pdf}}%
     \put(0.07456529,0.05166708){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-\end{tabular}}}}%
-    \put(0.00597185,0.0938604){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_{зад}$\end{tabular}}}}%
+    \put(0.00597185,0.0938604){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_\text{зад}$\end{tabular}}}}%
     \put(0.096174,0.04272199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l} $\psi$\end{tabular}}}}%
     \put(0.14021542,0.07624856){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\psi}$\end{tabular}}}}%
     \put(0.76367887,0.09390631){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
-    \put(0.22835529,0.08856979){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_{зад}$\end{tabular}}}}%
+    \put(0.22835529,0.08856979){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_\text{зад}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_30.pdf}}%
     \put(0.32113219,0.0758087){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{T_\gamma^2p^2 + 2\xi_\gamma T_\gamma p + 1}$\end{tabular}}}}%
     \put(0.48484044,0.09554491){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%

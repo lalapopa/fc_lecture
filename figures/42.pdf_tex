@@ -59,9 +59,9 @@
     \put(0,0){\includegraphics[width=\unitlength,page=2]{42.pdf}}%
     \put(0.66439226,0.33654455){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \beta$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{42.pdf}}%
-    \put(0.56684285,0.32357481){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\beta}{\delta_н} \right\} $\end{tabular}}}}%
-    \put(0.46752919,0.33615436){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_н$\end{tabular}}}}%
-    \put(0.40040917,0.32445839){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0.56684285,0.32357481){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\beta}{\delta_\text{н}} \right\} $\end{tabular}}}}%
+    \put(0.46752919,0.33615436){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_\text{н}$\end{tabular}}}}%
+    \put(0.40040917,0.32445839){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
     \put(0.47160412,0.18852714){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \omega_y$\end{tabular}}}}%
     \put(0.57159511,0.17257217){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p - \bar{Z}^\beta$\end{tabular}}}}%
     \put(0.60190061,0.05541894){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ n_z^\beta$\end{tabular}}}}%

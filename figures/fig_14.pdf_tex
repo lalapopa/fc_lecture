@@ -57,7 +57,7 @@
     \put(0.47936997,0.52786528){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Im\end{tabular}}}}%
     \put(0.94644851,0.00055828){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Re\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_14.pdf}}%
-    \put(0.47426479,0.41030401){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{гр}$\end{tabular}}}}%
+    \put(0.47426479,0.41030401){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{гр}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_14.pdf}}%
     \put(0.21510447,0.09543673){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\bar{Y}^\alpha$\end{tabular}}}}%
   \end{picture}%

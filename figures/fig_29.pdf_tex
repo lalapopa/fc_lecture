@@ -56,17 +56,17 @@
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_29.pdf}}%
     \put(0.86799472,0.22557981){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
     \put(0.5447113,0.11474449){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p$\end{tabular}}}}%
-    \put(0.41083965,0.21198246){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0.41083965,0.21198246){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
     \put(0.40382125,0.11500156){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_x}$\end{tabular}}}}%
     \put(0.26109416,0.21198246){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\gamma}$\end{tabular}}}}%
     \put(0.08466395,0.21198246){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\psi}$\end{tabular}}}}%
-    \put(-0.00153336,0.22469593){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_{зад}$\end{tabular}}}}%
+    \put(-0.00153336,0.22469593){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_\text{зад}$\end{tabular}}}}%
     \put(0.61098724,0.22574847){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_29.pdf}}%
-    \put(0.47695415,0.22356842){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_э$\end{tabular}}}}%
+    \put(0.47695415,0.22356842){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_\text{э}$\end{tabular}}}}%
     \put(0.4759536,0.13086715){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_x$\end{tabular}}}}%
-    \put(0.53109586,0.21198246){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\{\frac{\gamma}{\delta_э}\}$\end{tabular}}}}%
+    \put(0.53109586,0.21198246){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\{\frac{\gamma}{\delta_\text{э}}\}$\end{tabular}}}}%
     \put(0.77993538,0.2117254){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\psi}{\gamma}$\end{tabular}}}}%
-    \put(0.15568015,0.22866541){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_{зад}$\end{tabular}}}}%
+    \put(0.15568015,0.22866541){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma_\text{зад}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

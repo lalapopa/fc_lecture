@@ -55,12 +55,12 @@
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_52.pdf}}%
     \put(0.82061337,0.092189){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \Delta H$\end{tabular}}}}%
-    \put(0.69945451,0.08307801){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{K_н}{p (T_{1c}p + 1)}$\end{tabular}}}}%
+    \put(0.69945451,0.08307801){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{K_\text{н}}{p (T_{1c}p + 1)}$\end{tabular}}}}%
     \put(0.62321331,0.09152673){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta$\end{tabular}}}}%
     \put(0.39521781,0.08166086){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{T_{1c}p + 1}{ (\tau_1 p + 1) (\tau_2^2 p^2 + 2 \xi_2 \tau_2 p+ 1)}$\end{tabular}}}}%
-    \put(0.32661526,0.09338335){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \delta_в$\end{tabular}}}}%
-    \put(0.25144228,0.08039779){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R_н(p)$\end{tabular}}}}%
+    \put(0.32661526,0.09338335){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \delta_\text{в}$\end{tabular}}}}%
+    \put(0.25144228,0.08039779){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R_\text{н}(p)$\end{tabular}}}}%
     \put(0.17495732,0.03752574){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H$\end{tabular}}}}%
-    \put(0.08127267,0.09489404){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_{зад}$\end{tabular}}}}%
+    \put(0.08127267,0.09489404){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_\text{зад}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

@@ -520,7 +520,7 @@
          id="tspan49013"
          style="stroke-width:0.264583"
          x="27.266449"
-         y="57.541355">$\frac{\bar{M}_y^{\delta_н}(p - \frac{g}{V} n_z^\beta)}{p^2 + 2h_бp + \omega^2_{0б}}$</tspan></text>
+         y="57.541355">$\frac{\bar{M}_y^{\delta_\text{н}}(p - \frac{g}{V} n_z^\beta)}{p^2 + 2h_\text{б}p + \omega^2_{0б}}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -531,6 +531,6 @@
          id="tspan50167"
          style="stroke-width:0.264583"
          x="15.667662"
-         y="56.142456">$\delta_н$</tspan></text>
+         y="56.142456">$\delta_\text{н}$</tspan></text>
   </g>
 </svg>

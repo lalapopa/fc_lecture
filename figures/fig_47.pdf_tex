@@ -59,16 +59,16 @@
     \put(0.8200436,0.10593977){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta$\end{tabular}}}}%
     \put(0.68303787,0.03480907){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\Delta H}{\Delta \vartheta} \right\} $\end{tabular}}}}%
     \put(0.68215384,0.15898968){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\Delta V}{\Delta \vartheta} \right\} $\end{tabular}}}}%
-    \put(0.54066926,0.03664088){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ V_{ин}^H$\end{tabular}}}}%
-    \put(0.54066926,0.15707931){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ V_{ин}^V$\end{tabular}}}}%
-    \put(0.38602151,0.10257811){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta V_{ин}$\end{tabular}}}}%
-    \put(0.66197919,0.40938921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\Delta \omega_z}{\Delta \delta_в} \right\} $\end{tabular}}}}%
+    \put(0.54066926,0.03664088){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ V_\text{ин}^H$\end{tabular}}}}%
+    \put(0.54066926,0.15707931){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ V_\text{ин}^V$\end{tabular}}}}%
+    \put(0.38602151,0.10257811){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta V_\text{ин}$\end{tabular}}}}%
+    \put(0.66197919,0.40938921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\Delta \omega_z}{\Delta \delta_\text{в}} \right\} $\end{tabular}}}}%
     \put(0.59267305,0.2797225){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
-    \put(0.52442093,0.40943404){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
-    \put(0.59255534,0.42243771){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \delta_в$\end{tabular}}}}%
+    \put(0.52442093,0.40943404){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
+    \put(0.59255534,0.42243771){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \delta_\text{в}$\end{tabular}}}}%
     \put(0.36555512,0.40943404){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\vartheta}$\end{tabular}}}}%
-    \put(0.235213,0.42274554){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta_{зад}$\end{tabular}}}}%
-    \put(0.12877097,0.40859927){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-R_{ V_{ин}}(p)$\end{tabular}}}}%
-    \put(-0.00154889,0.42296402){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta V_{ин}^{зад}$\end{tabular}}}}%
+    \put(0.235213,0.42274554){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta_\text{зад}$\end{tabular}}}}%
+    \put(0.12877097,0.40859927){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-R_{ V_\text{ин}}(p)$\end{tabular}}}}%
+    \put(-0.00154889,0.42296402){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta V_\text{ин}^\text{зад}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

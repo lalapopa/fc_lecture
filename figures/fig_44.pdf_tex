@@ -69,14 +69,14 @@
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_44.pdf}}%
     \put(0.54575335,0.07018207){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \Delta \omega_z$\end{tabular}}}}%
     \put(0.4738984,0.06081903){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{ \omega_z}$\end{tabular}}}}%
-    \put(0.46384571,0.15783864){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0.46384571,0.15783864){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{fig_44.pdf}}%
     \put(0.4180954,0.16886139){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma_n$\end{tabular}}}}%
     \put(0.32121326,0.15804338){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$- K_{n_y}$\end{tabular}}}}%
-    \put(0.19555995,0.1697854){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \Delta n_{y_{зад}}$\end{tabular}}}}%
+    \put(0.19555995,0.1697854){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \Delta n_{y_\text{зад}}$\end{tabular}}}}%
     \put(0.13437056,0.15783865){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R_H(p)$\end{tabular}}}}%
     \put(0.09764075,0.17009339){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \delta H$\end{tabular}}}}%
-    \put(0.02017665,0.17012136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_{зад}$\end{tabular}}}}%
+    \put(0.02017665,0.17012136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta H_\text{зад}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{fig_44.pdf}}%
     \put(0.87887724,0.02048779){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}АП $n_y$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{fig_44.pdf}}%

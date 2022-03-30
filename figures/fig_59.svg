@@ -215,7 +215,7 @@
          id="tspan956"
          x="79.450844"
          y="24.356234"
-         style="stroke-width:0.264583">$ \gamma_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$ \gamma_\text{зад}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -237,7 +237,7 @@
          id="tspan984"
          x="39.111477"
          y="24.379795"
-         style="stroke-width:0.264583">$\Delta Z_{зад} = 0$</tspan></text>
+         style="stroke-width:0.264583">$\Delta Z_\text{зад} = 0$</tspan></text>
   </g>
   <inkscape:templateinfo>
     <inkscape:name>LALAPOPA</inkscape:name>

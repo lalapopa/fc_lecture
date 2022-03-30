@@ -617,7 +617,7 @@
          id="tspan2188"
          x="75.017281"
          y="29.781437"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:1;stroke-width:0.264583"
@@ -650,7 +650,7 @@
          id="tspan2224"
          x="21.915844"
          y="27.538731"
-         style="stroke-width:0.264583">$\Delta n_{y_{зад}}$</tspan></text>
+         style="stroke-width:0.264583">$\Delta n_{y_\text{зад}}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';opacity:1;stroke-width:0.264583"

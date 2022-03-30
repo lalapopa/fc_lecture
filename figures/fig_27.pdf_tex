@@ -55,14 +55,14 @@
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_27.pdf}}%
     \put(0.0803817,0.05569734){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-\end{tabular}}}}%
-    \put(0.00643768,0.10118191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_{зад}$\end{tabular}}}}%
+    \put(0.00643768,0.10118191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi_\text{зад}$\end{tabular}}}}%
     \put(0.10367598,0.05269565){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
     \put(0.1606822,0.07840152){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-R_{\psi}$\end{tabular}}}}%
     \put(0.33295603,0.07840152){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Phi_{АП_{n_z}}$\end{tabular}}}}%
     \put(0.53396317,0.07840152){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{p - \bar{Z}^\beta}{n_z^\beta p}$\end{tabular}}}}%
     \put(0.74366565,0.07809347){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
     \put(0.82324906,0.1012314){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
-    \put(0.23396832,0.10080354){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_{z_{зад}}$\end{tabular}}}}%
+    \put(0.23396832,0.10080354){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_{z_\text{зад}}$\end{tabular}}}}%
     \put(0.42490168,0.10080354){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_z$\end{tabular}}}}%
     \put(0.62133983,0.10080354){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_y$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_27.pdf}}%

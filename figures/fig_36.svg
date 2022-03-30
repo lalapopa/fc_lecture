@@ -249,7 +249,7 @@
          x="93.340332"
          y="31.485418"
          style="stroke-width:0.264583"
-         id="tspan2688">$\frac{\bar{M}_x^{\delta_э}}{p - (p - \bar{M}_x^{\omega_x})}$</tspan></text>
+         id="tspan2688">$\frac{\bar{M}_x^{\delta_\text{э}}}{p - (p - \bar{M}_x^{\omega_x})}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -304,7 +304,7 @@
          id="tspan2712"
          x="6.1062374"
          y="29.369965"
-         style="stroke-width:0.264583">$\gamma_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\gamma_\text{зад}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"

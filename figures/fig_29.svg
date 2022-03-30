@@ -561,7 +561,7 @@
          id="tspan9806"
          x="78.529144"
          y="30.028313"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -605,7 +605,7 @@
          id="tspan9842-8"
          x="-0.2233941"
          y="27.600368"
-         style="stroke-width:0.264583">$\psi_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\psi_\text{зад}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -634,7 +634,7 @@
          id="tspan10266"
          x="91.155296"
          y="27.815695"
-         style="stroke-width:0.264583">$\delta_э$</tspan></text>
+         style="stroke-width:0.264583">$\delta_\text{э}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;stroke-width:0.264583"
@@ -656,7 +656,7 @@
          x="101.49496"
          y="30.028313"
          style="stroke-width:0.264583"
-         id="tspan2581">$\{\frac{\gamma}{\delta_э}\}$</tspan></text>
+         id="tspan2581">$\{\frac{\gamma}{\delta_\text{э}}\}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -678,6 +678,6 @@
          x="29.800304"
          y="26.842302"
          style="stroke-width:0.264583"
-         id="tspan2597">$\gamma_{зад}$</tspan></text>
+         id="tspan2597">$\gamma_\text{зад}$</tspan></text>
   </g>
 </svg>

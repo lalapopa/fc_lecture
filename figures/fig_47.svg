@@ -587,7 +587,7 @@
        id="tspan1475"
        x="85.683464"
        y="66.271965"
-       style="stroke-width:0.264583">$ V_{ин}^H$</tspan></text>
+       style="stroke-width:0.264583">$ V_\text{ин}^H$</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -598,7 +598,7 @@
        id="tspan1475-2"
        x="85.683464"
        y="47.185284"
-       style="stroke-width:0.264583">$ V_{ин}^V$</tspan></text>
+       style="stroke-width:0.264583">$ V_\text{ин}^V$</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -609,7 +609,7 @@
        id="tspan1533"
        x="61.175404"
        y="55.822453"
-       style="stroke-width:0.264583">$\Delta V_{ин}$</tspan></text>
+       style="stroke-width:0.264583">$\Delta V_\text{ин}$</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -620,7 +620,7 @@
        id="tspan1557"
        x="104.90826"
        y="7.2000513"
-       style="stroke-width:0.264583">$ \left\{ \frac{\Delta \omega_z}{\Delta \delta_в} \right\} $</tspan></text>
+       style="stroke-width:0.264583">$ \left\{ \frac{\Delta \omega_z}{\Delta \delta_\text{в}} \right\} $</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -642,7 +642,7 @@
        id="tspan1605"
        x="83.108482"
        y="7.1929464"
-       style="stroke-width:0.264583">$W_п$</tspan></text>
+       style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -653,7 +653,7 @@
        id="tspan1629"
        x="93.906197"
        y="5.1321688"
-       style="stroke-width:0.264583">$\Delta \delta_в$</tspan></text>
+       style="stroke-width:0.264583">$\Delta \delta_\text{в}$</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -675,7 +675,7 @@
        id="tspan1677"
        x="37.275772"
        y="5.0833845"
-       style="stroke-width:0.264583">$\Delta \vartheta_{зад}$</tspan></text>
+       style="stroke-width:0.264583">$\Delta \vartheta_\text{зад}$</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -686,7 +686,7 @@
        id="tspan1701"
        x="20.407194"
        y="7.3252382"
-       style="stroke-width:0.264583">$-R_{ V_{ин}}(p)$</tspan></text>
+       style="stroke-width:0.264583">$-R_{ V_\text{ин}}(p)$</tspan></text>
   <text
      style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
      xml:space="preserve"
@@ -697,5 +697,5 @@
        id="tspan1725"
        x="-0.24546273"
        y="5.0487604"
-       style="stroke-width:0.264583">$\Delta V_{ин}^{зад}$</tspan></text>
+       style="stroke-width:0.264583">$\Delta V_\text{ин}^\text{зад}$</tspan></text>
 </svg>

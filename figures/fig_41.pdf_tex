@@ -57,11 +57,11 @@
     \put(0.71251409,0.16019146){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_z$\end{tabular}}}}%
     \put(0.63365981,0.13891078){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{n_z^\beta}{p - \bar{Z}^\beta}$\end{tabular}}}}%
     \put(0.56070463,0.15956738){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_y$\end{tabular}}}}%
-    \put(0.46973048,0.14241015){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\left\{ \frac{\omega_y}{\delta_н} \right\}$\end{tabular}}}}%
+    \put(0.46973048,0.14241015){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\left\{ \frac{\omega_y}{\delta_\text{н}} \right\}$\end{tabular}}}}%
     \put(0.40156648,0.04672221){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_y}$\end{tabular}}}}%
-    \put(0.33360071,0.14241015){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_п$\end{tabular}}}}%
+    \put(0.33360071,0.14241015){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
     \put(0.29302172,0.1562321){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma$\end{tabular}}}}%
     \put(0.17554985,0.1411347){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_z}$\end{tabular}}}}%
-    \put(0.00614238,0.15559333){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_{z_{зад}}$\end{tabular}}}}%
+    \put(0.00614238,0.15559333){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_{z_\text{зад}}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

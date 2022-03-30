@@ -57,10 +57,10 @@
     \put(0.76715764,0.19707414){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_z$\end{tabular}}}}%
     \put(0.69475411,0.18882851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ n_z^\beta$\end{tabular}}}}%
     \put(0.60297264,0.19643917){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \beta$\end{tabular}}}}%
-    \put(0.51403465,0.18604685){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\beta}{ \delta_н} \right\} $\end{tabular}}}}%
-    \put(0.45328971,0.19572479){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \delta_н$\end{tabular}}}}%
+    \put(0.51403465,0.18604685){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \left\{ \frac{\beta}{ \delta_\text{н}} \right\} $\end{tabular}}}}%
+    \put(0.45328971,0.19572479){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \delta_\text{н}$\end{tabular}}}}%
     \put(0.42969207,0.04123867){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_{oc}^\beta$\end{tabular}}}}%
-    \put(0.36977348,0.18465565){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_{ос}^\beta$\end{tabular}}}}%
+    \put(0.36977348,0.18465565){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{ос}^\beta$\end{tabular}}}}%
     \put(0.12193974,0.18882851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_z}$\end{tabular}}}}%
     \put(-0.00170568,0.19850059){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_{z \ зад}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_49.pdf}}%

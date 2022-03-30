@@ -415,7 +415,7 @@
          id="tspan49350"
          style="stroke-width:0.264583"
          x="88.054787"
-         y="25.933266">$W_{пр}$</tspan></text>
+         y="25.933266">$W_\text{пр}$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 69.738794,27.658864 c 1.109313,0 1.109313,0 1.109313,0"
@@ -430,7 +430,7 @@
          id="tspan50432"
          style="stroke-width:0.264583"
          x="24.256973"
-         y="26.031872">$\frac{K_ш}{p}(p + \frac{K_x K_{\int}}{K_ш})$</tspan></text>
+         y="26.031872">$\frac{K_\text{ш}}{p}(p + \frac{K_x K_{\int}}{K_\text{ш}})$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -459,6 +459,6 @@
          id="tspan52382"
          style="stroke-width:0.264583"
          x="55.500839"
-         y="60.799911">$W_{ос}$</tspan></text>
+         y="60.799911">$W_\text{ос}$</tspan></text>
   </g>
 </svg>

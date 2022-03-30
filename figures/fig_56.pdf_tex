@@ -55,7 +55,7 @@
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_56.pdf}}%
     \put(0.64684384,0.48151661){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{1}{\tau_2}$\end{tabular}}}}%
-    \put(0.43109695,0.38596161){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{1}{T_{ V_{ин}}}$\end{tabular}}}}%
+    \put(0.43109695,0.38596161){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{1}{T_{ V_\text{ин}}}$\end{tabular}}}}%
     \put(0.33033333,0.38447372){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \frac{1}{\tau_1}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_56.pdf}}%
     \put(-0.00287883,0.23664144){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$- \frac{\pi}{2}$\end{tabular}}}}%

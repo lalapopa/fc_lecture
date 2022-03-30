@@ -321,7 +321,7 @@
          id="tspan49350"
          style="stroke-width:0.264583"
          x="116.15209"
-         y="32.279167">$W_{п}$</tspan></text>
+         y="32.279167">$W_\text{п}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -332,7 +332,7 @@
          id="tspan9191"
          x="0.17857231"
          y="30.427084"
-         style="stroke-width:0.264583">$\Delta \theta_з$</tspan></text>
+         style="stroke-width:0.264583">$\Delta \theta_\text{з}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -420,7 +420,7 @@
          id="tspan9191-3"
          x="22.552441"
          y="30.362848"
-         style="stroke-width:0.264583">$\Delta \bar{\theta}_з$</tspan></text>
+         style="stroke-width:0.264583">$\Delta \bar{\theta}_\text{з}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"

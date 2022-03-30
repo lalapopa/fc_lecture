@@ -542,7 +542,7 @@
          id="tspan1941"
          x="89.031097"
          y="26.634724"
-         style="stroke-width:0.264583">$\Delta \delta_э$</tspan></text>
+         style="stroke-width:0.264583">$\Delta \delta_\text{э}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -553,7 +553,7 @@
          id="tspan1941-5"
          x="78.770332"
          y="26.492779"
-         style="stroke-width:0.264583">$\delta_э$</tspan></text>
+         style="stroke-width:0.264583">$\delta_\text{э}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -586,7 +586,7 @@
          id="tspan1985"
          x="27.089012"
          y="27.192032"
-         style="stroke-width:0.264583">$\gamma_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\gamma_\text{зад}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -597,7 +597,7 @@
          id="tspan1989"
          x="-0.22088876"
          y="27.070602"
-         style="stroke-width:0.264583">$\psi_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\psi_\text{зад}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -768,7 +768,7 @@
          x="98.566681"
          y="30.028313"
          style="stroke-width:0.264583"
-         id="tspan1925">$\frac{\bar{M}_x^{\delta_э}}{p - \bar{M}_x^{\omega_x}}$</tspan></text>
+         id="tspan1925">$\frac{\bar{M}_x^{\delta_\text{э}}}{p - \bar{M}_x^{\omega_x}}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -779,7 +779,7 @@
          id="tspan1929"
          x="84.211128"
          y="14.017735"
-         style="stroke-width:0.264583">$\frac{1}{m_x^{\delta_э}}$</tspan></text>
+         style="stroke-width:0.264583">$\frac{1}{m_x^{\delta_\text{э}}}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -805,6 +805,6 @@
          id="tspan1973"
          x="68.689072"
          y="30.028311"
-         style="stroke-width:0.264583">$W_П$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{П}$</tspan></text>
   </g>
 </svg>

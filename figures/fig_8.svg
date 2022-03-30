@@ -175,7 +175,7 @@
          id="tspan2602"
          style="stroke-width:0.264583"
          x="73.467575"
-         y="23.652828">$K_ш$</tspan></text>
+         y="23.652828">$K_\text{ш}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -224,7 +224,7 @@
          id="tspan7928"
          style="stroke-width:0.264583"
          x="25.330526"
-         y="41.246777">$X_{бал}(H,V)$</tspan></text>
+         y="41.246777">$X_\text{бал}(H,V)$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -560,7 +560,7 @@
          id="tspan22331"
          style="stroke-width:0.264583"
          x="84.110558"
-         y="20.987127">$\varphi_л$</tspan></text>
+         y="20.987127">$\varphi_\text{л}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -571,7 +571,7 @@
          id="tspan23177"
          style="stroke-width:0.264583"
          x="44.914841"
-         y="35.498005">$X_{бал}$</tspan></text>
+         y="35.498005">$X_\text{бал}$</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00158;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        d="m 211.48511,145.98677 c -1.9296,-2.59363 -2.2891,-6.09102 -0.923,-8.97945 0.29178,-0.61692 0.83986,-1.4912 1.19314,-1.90325 l 0.18579,-0.2167 2.91527,2.91812 2.91526,2.91812 -2.9252,2.92464 -2.92519,2.92464 z"

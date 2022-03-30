@@ -210,7 +210,7 @@
          id="tspan1066"
          x="124.93931"
          y="16.871347"
-         style="stroke-width:0.264583">$\bar{\gamma}_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\bar{\gamma}_\text{зад}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -221,7 +221,7 @@
          id="tspan1080"
          x="102.34244"
          y="16.878452"
-         style="stroke-width:0.264583">$\gamma_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\gamma_\text{зад}$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 64.822921,18.520834 c 9.752907,0 9.752907,0 9.752907,0"

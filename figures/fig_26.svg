@@ -562,7 +562,7 @@
          id="tspan10266"
          x="91.155296"
          y="27.815695"
-         style="stroke-width:0.264583">$\delta_н$</tspan></text>
+         style="stroke-width:0.264583">$\delta_\text{н}$</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -601,7 +601,7 @@
          id="tspan9802"
          x="101.83633"
          y="30.461529"
-         style="stroke-width:0.264583">$\{ \frac{\omega_{\psi}}{\delta_н}\}$</tspan></text>
+         style="stroke-width:0.264583">$\{ \frac{\omega_{\psi}}{\delta_\text{н}}\}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -612,7 +612,7 @@
          id="tspan9806"
          x="77.401428"
          y="30.461529"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -667,7 +667,7 @@
          id="tspan9842-8"
          x="-0.17063352"
          y="27.600368"
-         style="stroke-width:0.264583">$\psi_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\psi_\text{зад}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -678,7 +678,7 @@
          id="tspan9901"
          x="30.365191"
          y="27.558867"
-         style="stroke-width:0.264583">$n_{z_{зад}}$</tspan></text>
+         style="stroke-width:0.264583">$n_{z_\text{зад}}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"

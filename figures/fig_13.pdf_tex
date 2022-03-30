@@ -56,9 +56,9 @@
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_13.pdf}}%
     \put(-0.00152541,0.34570339){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta x$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_13.pdf}}%
-    \put(0.71058507,0.11664334){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_{ос}$\end{tabular}}}}%
+    \put(0.71058507,0.11664334){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{ос}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_13.pdf}}%
-    \put(0.13420565,0.33065043){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{ш}$\end{tabular}}}}%
+    \put(0.13420565,0.33065043){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{ш}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_13.pdf}}%
     \put(0.8536707,0.3452214){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y$\end{tabular}}}}%
     \put(0.85412489,0.22805997){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%

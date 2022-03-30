@@ -1,4 +1,4 @@
-%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'fig_6.pdf' (pdf, eps, ps)
 %%
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{457.33722108bp}%
+    \setlength{\unitlength}{510.23622047bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,24 +50,24 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.32647115)%
+  \begin{picture}(1,0.83333333)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_6.pdf}}%
-    \put(0.76861187,0.28321853){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$z$\end{tabular}}}}%
-    \put(0.72392722,0.26876755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
-    \put(0.28288769,0.12316971){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
-    \put(0.76745577,0.1757033){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Psi$\end{tabular}}}}%
-    \put(0.80862937,0.04811805){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
-    \put(0.71369813,0.17339112){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{1}{V}$\end{tabular}}}}%
-    \put(0.64259927,0.2826405){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$V_z$\end{tabular}}}}%
-    \put(0.76857868,0.04289896){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
-    \put(0.67479938,0.05868993){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_y$\end{tabular}}}}%
-    \put(0.53570082,0.27628207){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{g\cos{\alpha}}{p}$\end{tabular}}}}%
-    \put(0.51345713,0.04414982){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\alpha_{гп}(p+\frac{g}{V}n_y^\alpha)$\end{tabular}}}}%
-    \put(0.32628941,0.14491543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
-    \put(0.19345048,0.14082808){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_x$\end{tabular}}}}%
-    \put(0.00502228,0.14044289){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_э$\end{tabular}}}}%
-    \put(0.08710679,0.12885306){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\tilde{M}_x^{\delta_э}}{p - \tilde{M}_x^{\omega_x}}$\end{tabular}}}}%
+    \put(0.80825246,0.6499222){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$z$\end{tabular}}}}%
+    \put(0.76820051,0.63696944){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.37288598,0.50646653){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.80721622,0.55355367){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Psi$\end{tabular}}}}%
+    \put(0.84412113,0.43919589){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
+    \put(0.75903193,0.5514812){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{1}{V}$\end{tabular}}}}%
+    \put(0.69530428,0.6494041){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$V_z$\end{tabular}}}}%
+    \put(0.80822271,0.43451788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.72416602,0.44867172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_y$\end{tabular}}}}%
+    \put(0.59948858,0.64370488){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{g\cos{\alpha}}{p}$\end{tabular}}}}%
+    \put(0.57955102,0.43563906){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\alpha_\text{гп}(p+\frac{g}{V}n_y^\alpha)$\end{tabular}}}}%
+    \put(0.41178801,0.52595774){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
+    \put(0.29272122,0.52229415){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_x$\end{tabular}}}}%
+    \put(0.12382841,0.5219489){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_\text{э}$\end{tabular}}}}%
+    \put(0.19740276,0.51156065){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\tilde{M}_x^{\delta_\text{э}}}{p - \tilde{M}_x^{\omega_x}}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

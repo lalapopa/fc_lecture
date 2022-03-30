@@ -822,7 +822,7 @@
          id="tspan1731"
          x="87.252052"
          y="29.797276"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 71.662107,29.104166 c 0.596007,0 0.65112,0 2.035015,0"
@@ -868,7 +868,7 @@
          id="tspan1827"
          x="36.036877"
          y="27.516665"
-         style="stroke-width:0.264583">$ \Delta n_{y_{зад}}$</tspan></text>
+         style="stroke-width:0.264583">$ \Delta n_{y_\text{зад}}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -901,7 +901,7 @@
          id="tspan1869"
          x="2.5565794"
          y="27.45253"
-         style="stroke-width:0.264583">$\Delta H_{зад}$</tspan></text>
+         style="stroke-width:0.264583">$\Delta H_\text{зад}$</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#marker2320)"
        d="M 87.601159,47.625001 H 76.048974 V 31.456017"

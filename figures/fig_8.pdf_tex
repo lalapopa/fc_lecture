@@ -54,10 +54,10 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0.17957676,0.31395033){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДП\end{tabular}}}}%
-    \put(0.43805639,0.31359024){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_ш$\end{tabular}}}}%
+    \put(0.43805639,0.31359024){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{ш}$\end{tabular}}}}%
     \put(0.69600886,0.31135933){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ЭГПР\end{tabular}}}}%
     \put(0.11952225,0.23477215){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Прогр.\\\end{tabular}}}}%
-    \put(0.1185968,0.19682871){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$X_{бал}(H,V)$\end{tabular}}}}%
+    \put(0.1185968,0.19682871){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$X_\text{бал}(H,V)$\end{tabular}}}}%
     \put(0.39292399,0.10812978){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_z}$\end{tabular}}}}%
     \put(0.38207037,0.02449283){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_y} + \frac{K_{\int}}{p}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_8.pdf}}%
@@ -66,8 +66,8 @@
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_8.pdf}}%
     \put(0.88794752,0.31845247){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_8.pdf}}%
-    \put(0.50868811,0.33128105){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_л$\end{tabular}}}}%
-    \put(0.24856732,0.2349802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$X_{бал}$\end{tabular}}}}%
+    \put(0.50868811,0.33128105){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_\text{л}$\end{tabular}}}}%
+    \put(0.24856732,0.2349802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$X_\text{бал}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_8.pdf}}%
     \put(0.3738851,0.23318336){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta X$\end{tabular}}}}%
     \put(0.2470985,0.1281448){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%

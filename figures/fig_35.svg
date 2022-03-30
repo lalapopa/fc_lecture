@@ -334,7 +334,7 @@
          id="tspan2849"
          x="112.74765"
          y="29.006123"
-         style="stroke-width:0.264583">$\delta_э$</tspan></text>
+         style="stroke-width:0.264583">$\delta_\text{э}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -345,7 +345,7 @@
          id="tspan2853"
          x="101.30779"
          y="32.427269"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -400,7 +400,7 @@
          x="29.076956"
          y="30.103704"
          style="stroke-width:0.264583"
-         id="tspan2877">$\gamma_{зад}$</tspan></text>
+         id="tspan2877">$\gamma_\text{зад}$</tspan></text>
   </g>
   <rect
      style="fill:none;stroke:#000000;stroke-width:0.261291"
@@ -520,5 +520,5 @@
        id="tspan2845"
        x="122.77817"
        y="32.679272"
-       style="stroke-width:0.264583">$\{ \frac{\omega_x}{\delta_э} \}$</tspan></text>
+       style="stroke-width:0.264583">$\{ \frac{\omega_x}{\delta_\text{э}} \}$</tspan></text>
 </svg>

@@ -60,8 +60,8 @@
     \put(0.12866695,0.44130204){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_0$\end{tabular}}}}%
     \put(0.337361,0.42749732){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\bar{Y}^\alpha$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_15.pdf}}%
-    \put(0.50021556,0.4372197){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_{ср}$\end{tabular}}}}%
-    \put(0.63004187,0.48669192){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{T_{пр}}$\end{tabular}}}}%
+    \put(0.50021556,0.4372197){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_\text{ср}$\end{tabular}}}}%
+    \put(0.63004187,0.48669192){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{T_\text{пр}}$\end{tabular}}}}%
     \put(0.63555696,0.38738409){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-60\end{tabular}}}}%
     \put(0.44909509,0.53274825){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-20\end{tabular}}}}%
     \put(0.01756899,0.31051609){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi$\end{tabular}}}}%

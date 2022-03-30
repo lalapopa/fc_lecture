@@ -285,7 +285,7 @@
          id="tspan1242"
          x="99.122383"
          y="39.011135"
-         style="stroke-width:0.264583">$ \left\{ \frac{\beta}{ \delta_н} \right\} $</tspan></text>
+         style="stroke-width:0.264583">$ \left\{ \frac{\beta}{ \delta_\text{н}} \right\} $</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -296,7 +296,7 @@
          id="tspan1256"
          x="90.380623"
          y="37.618389"
-         style="stroke-width:0.264583">$ \delta_н$</tspan></text>
+         style="stroke-width:0.264583">$ \delta_\text{н}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
@@ -318,7 +318,7 @@
          id="tspan1316"
          x="78.361862"
          y="39.211342"
-         style="stroke-width:0.264583">$W_{ос}^\beta$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{ос}^\beta$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"

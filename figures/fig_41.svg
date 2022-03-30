@@ -519,7 +519,7 @@
          id="tspan2168-6"
          x="101.59244"
          y="29.781439"
-         style="stroke-width:0.264583">$\left\{ \frac{\omega_y}{\delta_н} \right\}$</tspan></text>
+         style="stroke-width:0.264583">$\left\{ \frac{\omega_y}{\delta_\text{н}} \right\}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -541,7 +541,7 @@
          id="tspan2849"
          x="75.243904"
          y="29.781439"
-         style="stroke-width:0.264583">$W_п$</tspan></text>
+         style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -574,6 +574,6 @@
          id="tspan2865"
          x="11.862861"
          y="27.229774"
-         style="stroke-width:0.264583">$\Delta n_{z_{зад}}$</tspan></text>
+         style="stroke-width:0.264583">$\Delta n_{z_\text{зад}}$</tspan></text>
   </g>
 </svg>
