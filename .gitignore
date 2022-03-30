@@ -2,9 +2,9 @@
 !.gitignore
 !lecture1.tex
 !/figures/
+!/figure/*.pdf
 !*.svg
 !*.pdf_tex
-!*.pdf
 !req.txt
 !lecture1.dep
 !README.md
