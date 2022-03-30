@@ -4,6 +4,7 @@
 !/figures/
 !*.svg
 !*.pdf_tex
+!*.pdf
 !req.txt
 !lecture1.dep
 !README.md
