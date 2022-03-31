@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{510.23622047bp}%
+    \setlength{\unitlength}{474.553987bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,24 +50,24 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.83333333)%
+  \begin{picture}(1,0.31462682)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_6.pdf}}%
-    \put(0.80825246,0.6499222){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$z$\end{tabular}}}}%
-    \put(0.76820051,0.63696944){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
-    \put(0.37288598,0.50646653){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
-    \put(0.80721622,0.55355367){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Psi$\end{tabular}}}}%
-    \put(0.84412113,0.43919589){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
-    \put(0.75903193,0.5514812){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{1}{V}$\end{tabular}}}}%
-    \put(0.69530428,0.6494041){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$V_z$\end{tabular}}}}%
-    \put(0.80822271,0.43451788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
-    \put(0.72416602,0.44867172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_y$\end{tabular}}}}%
-    \put(0.59948858,0.64370488){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{g\cos{\alpha}}{p}$\end{tabular}}}}%
-    \put(0.57955102,0.43563906){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\alpha_\text{гп}(p+\frac{g}{V}n_y^\alpha)$\end{tabular}}}}%
-    \put(0.41178801,0.52595774){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
-    \put(0.29272122,0.52229415){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_x$\end{tabular}}}}%
-    \put(0.12382841,0.5219489){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_\text{э}$\end{tabular}}}}%
-    \put(0.19740276,0.51156065){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\tilde{M}_x^{\delta_\text{э}}}{p - \tilde{M}_x^{\omega_x}}$\end{tabular}}}}%
+    \put(0.74072672,0.27294339){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$z$\end{tabular}}}}%
+    \put(0.69766322,0.2590167){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.27262456,0.11870113){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.73961256,0.1693288){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Psi$\end{tabular}}}}%
+    \put(0.77929239,0.04637234){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\psi$\end{tabular}}}}%
+    \put(0.68780524,0.16710051){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{1}{V}$\end{tabular}}}}%
+    \put(0.61928584,0.27238634){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$V_z$\end{tabular}}}}%
+    \put(0.74069473,0.04134259){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}$\end{tabular}}}}%
+    \put(0.65031773,0.05656067){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_y$\end{tabular}}}}%
+    \put(0.51626565,0.26625858){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{g\cos{\alpha}}{p}$\end{tabular}}}}%
+    \put(0.49482897,0.04254807){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\alpha_\text{гп}(p+\frac{g}{V}n_y^\alpha)$\end{tabular}}}}%
+    \put(0.31445167,0.13965791){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
+    \put(0.18643212,0.13571885){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_x$\end{tabular}}}}%
+    \put(0.00340225,0.1368555){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta_\text{э}$\end{tabular}}}}%
+    \put(0.07428441,0.12401776){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\tilde{M}_x^{\delta_\text{э}}}{p - \tilde{M}_x^{\omega_x}}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%
