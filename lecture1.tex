@@ -2491,7 +2491,200 @@ $W_\text{сат}$ --- передаточная функция сервоприв
     \incfig{fig_66}
     \label{fig:fig_66}
 \end{figure}
+
 \subsection{Система управления по сигналам ГРМ}
+Глиссадный радиомаяк (ГРМ) дает возможность измерить в вертикальной плоскости $\epsilon_{г}$  -- угол между самолетом и глиссадой в вертикальной плоскости. Система управления строится по принципу обнуления $\epsilon_{г}$.
+\begin{figure}[ht]
+    \centering
+    \incfig{fig_67}
+    \label{fig:fig_67}
+\end{figure}
+
+Найдем соотношение между $\epsilon_{г}$ и ошибкой планирования $\Delta \theta$:
+\[
+    \Delta \dot{H}_{\text{г}} = V \Delta \theta; \ \epsilon_\text{г} = \frac{\Delta H_\text{г}}{D},
+\]
+где $D = D_0 - V(t-t_0)$ -- текущее растояние до ГРМ.
+Однако на интервале времени, сравнимом с длительностью переходного процесса $\epsilon_\text{г}$, $D$ можно считать постоянным, при таком допущении:
+\[
+    \frac{\epsilon(p)}{\Delta \theta(p)} = \frac{\frac{V}{D}}{p}
+\]
+
+\begin{figure}[ht]
+    \centering
+    \incfig{fig_68}
+    \label{fig:fig_68}
+\end{figure}
+
+Ядро АП тангажа
+\[
+    \left\{ \frac{\Delta \vartheta}{\Delta \vartheta_{зад}} \right\}  = \frac{T_{1c}p + 1}{(T_{1}p + 1)^2 ( T_2^2p^2 + 2 \xi_2 T_2 p + 1 )}
+\]
+
+
+Особенность этого контура в том что по мере снижения коэффициенты усиления возрастают (15 - 20 раз) поэтому значение коэффициентов регулятора, определяются в ряде точек (для разных $D$).
+Статический регулятор:
+\[
+    R_\text{г}(p) = K_{\epsilon_\text{г}}
+\]
+
+\[
+    W_{\epsilon_\text{г}}(p)= \frac{K_{\epsilon_\text{г}} \frac{V}{D}}{p(\tau_{1}p + 1)^2 ( \tau_2^2 p^2 + 2 \xi_2 \tau_2 p + 1 )}, \ \tau_1 > \tau_2
+\]
+Строим ЛАФЧХ:
+\begin{figure}[ht]
+    \centering
+    \incfig{fig_69}
+    \label{fig:fig_69}
+\end{figure}
+На участке -20 дБ/дек:
+\[
+    W \approx \frac{K_{\epsilon_\text{г}} \frac{V}{D}}{p}
+\]
+
+Граничное улсовие $\omega = \frac{1}{\tau_1}$ $\omega_\text{с} = K_{\epsilon_\text{г}} \frac{V}{D} = \frac{1}{\tau_1}$.
+\[
+    K_{\epsilon_\text{г}} = \frac{D}{V \tau_1}
+\]
+Оценим характери переходного процесса пренебрегая звеном с наименьшим $\tau$:
+\[
+    W \approx \frac{K_{\epsilon_\text{г}} \frac{V}{D}}{p (T_1 p + 1)}
+\]
+Найдем передаточную функцию замкнутой системы:
+\[
+    \Phi = \frac{W}{1 + W} = \frac{K_{\epsilon_\text{г}} \frac{V}{D}}{\tau_1 p^2 + p + K_{\epsilon_г} \frac{V}{D}}= \frac{1}{ T_г^2 p^2 + 2 \xi_г T_г p + 1 },
+\]
+где $T_г = \sqrt{ \frac{\tau_1}{K_{\epslon_г} \frac{V}{D}}}$, $\xi = \frac{0.5}{\sqrt{K_{\epsilon_г} \tau_1 \frac{V}{D}}}$
+    $K_{\epsilon_г} = \frac{D}{V \tau_1}$
+
+Для получения аппериодического процесса необходимо скорректировать коэффициент:
+$\xi = 1 = \frac{0.5}{\sqrt{K_{\esilon_1} \tau_1 \frac{V}{D}}}$, $K_{\epsilon_г} = \frac{ 0.25 D}{V \tau_1}$
+
+
+Для увеличения быстродействия передйм к регулятору:
+\[
+    R_г (p) = K_{\epsilon_г} + K_{\dot{\epsilon}_г}p = K_{\epsilon_г}(1 + T_{\epsilon_г} p), 
+\]
+где $T_{\epsilon_г} = \frac{K_\bar{\epsilon_г}}{K_\epsilon_г}$. 
+
+\[
+    W_{раз} = \frac{K_{\epsilon_г}(1 +  T_{\epsilon_г} ) \frac{V}{D}}{p(\tau_{1}p + 1)^2 ( \tau_2^2 p^2 + 2 \xi_2 \tau_2 p + 1 )}
+\]
+
+Построим ЛАФЧХ:
+\begin{figure}[H]
+    \centering
+    \incfig{fig_70}
+    \label{fig:fig_70}
+\end{figure}
+
+\[
+    \omega_{с}   = \frac{K_{\epsilon_г} \frac{V}{D}}{p}, \ \omega_с = \frac{1}{\tau_2}, \ K_{\epsilon_г} \frac{V}{D} = \frac{1}{\tau_2}
+\]
+
+\[
+    (K_{\epsilon_г})_{гр} = \frac{D}{V \tau_2}, \ K_{\epsilon_г} = 0.25 \frac{D}{V \tau_2}
+\]
+
+\[
+    K_{\dot{\epsilon_г}} = \tau_1 K_{\epsilon_г} = \frac{0.25 D \tau_1}{V \tau_2}
+\]
+
+Оценим переходной процесс пренебрегая колебательной состовляющей:
+\[
+    W \approx \frac{K_{\epsilon_г} \frac{V}{D}}{p}
+\]
+Тогда передаточная функция замкнутого контура:
+\[
+    \Phi = \frac{1}{T_г p + 1}
+\]
+где $T_г = \frac{D}{\epsilon_г V}$.
+Ранее нашли, что $\xi_г = \frac{0.25 \frac{D}{V}}{\tau_2}$ подставляя в $T_г$, получаем что процесс апериодичен с постоянной:
+\[
+    T_г = 4 \tau_2
+\]
+
+\section{Система управления боковым движеним по сигналам курсового маяка}
+С помощью этой системы ликвидируется боковое отклонение самолета от плоскости посадочного курса (\Delta z)
+\begin{figure}[H]
+    \centering
+    \incfig{fig_71}
+    \label{fig:fig_71}
+\end{figure}
+
+Найдем соотношение между $\epsilon_{г}$ и ошибкой планирования $\Delta \theta$:
+\[
+    \Delta \dot{z}_г = V \Delta \Ksi, \ \epsilon_к = \frac{\Delta z}{D}
+\]
+$D$ --- текущее растояние до ГРМ
+
+Для устранения $\Delta z$ производится управление по крену.
+\begin{figure}[ht]
+    \centering
+    \incfig{fig_72}
+    \label{fig:fig_72}
+\end{figure}
+Пунктиром АП угла крена.
+Регулятор имеет вид: 
+\[
+    R_{\epsilon_к} = K_{\epsilon_к} + K_\dot{\epsilon_к} p = K_{\epsilon_к}(T_{\epsilon_к} p + 1)
+\]
+
+\[
+    \left\{ \frac{\gamma}{\gamma_{зад}} \right\} = \frac{1}{ T_\gamma^2 p^2 + 2 \xi_\gamma T_\gamma + 1}
+\]
+\[
+    W_{\epsilon_к}^\text{раз} = \frac{K_{\epsilon_к} (T_{\epsilon_к} p + 1) g \frac{1}{D}}{ p^2 ( T_\gamma^2)}
+\]
+\[
+    T_{\epsilon_к} \ge 10 T_\gamma
+\]
+В диапазоне $\frac{1}{T_{\epsilon_к}} < \omega < \frac{1}{T_\gamma}$:
+\[
+    W \approx = \frac{K_{\epsilon_к} T_{\epsilon_к} p \frac{g}{D}}{p^2} = \frac{K_{\dot{\epsilon_к}} \frac{g}{D}}{p}
+\]
+
+\[
+    \omega_с = K_{\dot{\epsilon_к}} \frac{g}{D} = \frac{1}{T_{зад}} \implies (K_\dot{\epsilon_к})_\text{гр} = \frac{D}{g T_{K_{\gamma}}} 
+\]
+
+\[
+    (K_{\epsilon_к}) = 0.25 (K_\dot{\epsilon_к})_{гр} = \frac{0.025 D}{T_{\gamma}}
+\]
+
+\[
+    K_{\epsilon_к} = \frac{K_{\dot{\epsilon_к}}}{T_{\epsilon_к}} = \frac{K_\dot{\epsilon_к}}{10 T_\gamma} = \frac{0.0025 D}{T_\gamma^2}
+\]
+
+Оценим приближенно качество регулирования пренебрегая звеном с наименьшей постояной времени:
+\[
+    W_{\epsilon} \approx \frac{K_{\epsilon_к}(1 + T_{\epsilon_к} p)g \frac{1}{D}}{p^2}
+\] 
+
+\[
+    D_{зад} = \frac{W_{e_K}}{1 + W_{e_K}} = \frac{K_{e_K} (1 + T_{e_K} p) \frac{g}{D}}{ p^2 + K_{\dot{\epsilon_к}} \frac{g}{D}p + K_{\epsilon_к} \frac{g}{D}} = \frac{1 + T_{\epsilon_к}p }{T_к^2 p^2 + 2 \xi_к T_к p + 1}
+\]
+где $\xi = \frac{0.5 K_{\dot{\epsilon_к}} \frac{g}{D}}{\sqrt{K_{\epsilon_к} \frac{g}{D}}} =\frac{0.5(0.025 \frac{D}{T_\gamma}) \frac{g}{D}}{\sqrt{\frac{0.0025 D}{T^2_\gamma} \frac{g}{D}}} = \frac{0.5 * 0.25}{\sqrt{0.025}} \approx 0.79$
+Потребуем аппериодический характер $\xi = 1$:
+
+\[
+    1 = \frac{0.5 K_\dot{\epsilon_к} \frac{g}{D}}{\sqrt{K_{\epsilon_к} \frac{g}{D}}},  \frac{K_{\dot{\epsilon_к}}}{K_{\epsilon_к}} = 10 T_\gamma
+\]
+
+\[
+    K_{\dot{\epsilon_к}} = 10 T_{\gamma}  K_{\epslon_\gamma}
+\]
+
+\[
+    T_\gamma  = \frac{1}{\sqrt{K_{\epsilon_к}\frac{g}{D}}} = \approx 5 T_\gamma 
+\]
+
+\section{Автоматическое выравнивание}
+
+
+
+
+
 
 \end{document}
 
