@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="192.36902mm"
-   height="41.602364mm"
-   viewBox="0 0 192.36902 41.602364"
+   width="190.76938mm"
+   height="41.969685mm"
+   viewBox="0 0 190.76938 41.969685"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -151,9 +151,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.149638"
-     inkscape:cx="119.85023"
-     inkscape:cy="40.026411"
+     inkscape:zoom="2.2792791"
+     inkscape:cx="239.56814"
+     inkscape:cy="80.32217"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -161,9 +161,9 @@
      units="mm"
      width="180mm"
      inkscape:window-width="1916"
-     inkscape:window-height="982"
+     inkscape:window-height="964"
      inkscape:window-x="0"
-     inkscape:window-y="96"
+     inkscape:window-y="114"
      inkscape:window-maximized="0"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
@@ -172,8 +172,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid842"
-       originx="-5.9309737"
-       originy="-9.375163" />
+       originx="-0.97795108"
+       originy="-9.0078434" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -204,7 +204,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.9309738,-9.3751614)">
+     transform="translate(-0.97795143,-9.0078416)">
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
        id="rect850"
@@ -217,32 +217,32 @@
        id="rect850-3"
        width="12.736674"
        height="12.736673"
-       x="129.6091"
+       x="131.72574"
        y="9.5066614" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
        id="rect850-3-6"
        width="12.736674"
        height="12.736673"
-       x="108.97164"
+       x="111.08832"
        y="9.5066633" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
        id="rect850-3-7"
        width="12.736674"
        height="12.736673"
-       x="89.127892"
+       x="91.24456"
        y="9.5066614" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
        id="rect850-3-3"
        width="12.736674"
        height="12.736673"
-       x="98.388298"
+       x="100.50497"
        y="28.027496" />
     <g
        id="g1664"
-       transform="translate(16.211474,-13.51827)">
+       transform="translate(18.328142,-13.51827)">
       <circle
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
          id="path1626"
@@ -267,11 +267,11 @@
        id="rect850-5"
        width="12.736674"
        height="12.736673"
-       x="60.023731"
+       x="62.1404"
        y="9.5066633" />
     <g
        id="g1664-6"
-       transform="translate(-8.9239447,-13.51827)">
+       transform="translate(-6.8072779,-13.51827)">
       <circle
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
          id="path1626-2"
@@ -322,34 +322,35 @@
     </g>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#marker-arrow-0.99525)"
-       d="M 190.47462,15.875 V 50.845862 H 19.241218 V 18.389171"
+       d="M 188.72647,15.875 V 50.845862 H 19.241218 V 18.389171"
        id="path999"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.34584,15.874997 c 10.28209,0 10.28209,3e-6 10.28209,3e-6"
-       id="path1001" />
+       d="m 144.46252,15.874997 8.16535,3e-6"
+       id="path1001"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#marker1070)"
-       d="m 147.48689,15.874997 v 30.45651 H 54.732059 V 18.389171"
+       d="m 149.60357,15.874997 v 30.45651 H 56.848727 V 18.389171"
        id="path1009"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 101.86458,15.874997 c 7.10708,0 7.10708,0 7.10708,0"
+       d="m 103.98126,15.874997 c 7.10708,0 7.10708,0 7.10708,0"
        id="path1124" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 121.70833,15.875 7.90083,-3e-6"
+       d="m 123.82501,15.875 7.90083,-3e-6"
        id="path1128" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 125.65874,15.874997 V 34.395833 H 111.00508"
+       d="M 127.77542,15.874997 V 34.395833 H 113.12176"
        id="path1130"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#marker1171)"
-       d="M 98.388313,34.395833 H 79.86747 V 18.389171"
+       d="M 100.50498,34.395833 H 81.984138 V 18.389171"
        id="path1132"
        sodipodi:nodetypes="ccc" />
     <path
@@ -360,11 +361,11 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1366"
-       x="142.53331"
+       x="145.70827"
        y="14.459821"><tspan
          sodipodi:role="line"
          id="tspan1364"
-         x="142.53331"
+         x="145.70827"
          y="14.459821"
          style="stroke-width:0.264583">$ \Delta \vartheta$</tspan></text>
     <text
@@ -382,71 +383,72 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1394"
-       x="122.36716"
+       x="124.48382"
        y="14.878753"><tspan
          sodipodi:role="line"
          id="tspan1392"
-         x="122.36716"
+         x="124.48382"
          y="14.878753"
          style="stroke-width:0.264583">$ \Delta \omega_z$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1408"
-       x="110.84291"
+       x="112.95959"
        y="16.48464"><tspan
          sodipodi:role="line"
          id="tspan1406"
-         x="110.84291"
+         x="112.95959"
          y="16.48464"
          style="stroke-width:0.264583">$ \left\{ \frac{ \omega_z}{ \delta_\text{в}} \right\} $</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1422"
-       x="102.51361"
+       x="104.63029"
        y="14.621575"><tspan
          sodipodi:role="line"
          id="tspan1420"
-         x="102.51361"
+         x="104.63029"
          y="14.621575"
          style="stroke-width:0.264583">$ \Delta \delta_\text{в}$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 82.38165,15.875 c 6.746234,0 6.746234,-3e-6 6.746234,-3e-6"
+       d="m 84.498318,15.875 c 6.746234,0 6.746234,-3e-6 6.746234,-3e-6"
        id="path1695" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 72.760403,15.875 c 4.5929,0 4.5929,0 4.5929,0"
+       d="m 74.877071,15.875 c 4.5929,0 4.5929,0 4.5929,0"
        id="path1697" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 57.246231,15.875 c 2.777496,0 2.777496,0 2.777496,0"
+       d="m 59.362899,15.875 c 2.777496,0 2.777496,0 2.777496,0"
        id="path1699" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 42.561222,15.875 c 9.656669,0 9.656669,0 9.656669,0"
-       id="path1701" />
+       d="M 42.561222,15.875 H 54.407601"
+       id="path1701"
+       sodipodi:nodetypes="cc" />
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1705"
-       x="92.581955"
+       x="94.698624"
        y="16.568106"><tspan
          sodipodi:role="line"
          id="tspan1703"
-         x="92.581955"
+         x="94.698624"
          y="16.568106"
          style="stroke-width:0.264583">$W_\text{п}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1719"
-       x="61.801292"
+       x="63.917957"
        y="16.568108"><tspan
          sodipodi:role="line"
          id="tspan1717"
-         x="61.801292"
+         x="63.917957"
          y="16.568108"
          style="stroke-width:0.264583">$-K_{\vartheta}$</tspan></text>
     <text
@@ -479,11 +481,11 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1940"
-       x="101.1221"
+       x="103.23878"
        y="35.088943"><tspan
          sodipodi:role="line"
          id="tspan1938"
-         x="101.1221"
+         x="103.23878"
          y="35.088943"
          style="stroke-width:0.264583">$K_{ \omega_z}$</tspan></text>
     <rect
@@ -491,17 +493,17 @@
        id="rect850-36"
        width="12.736674"
        height="12.736673"
-       x="173.51208"
+       x="171.76393"
        y="9.5066633" />
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text7096"
-       x="152.93134"
+       x="153.98965"
        y="16.56811"><tspan
          sodipodi:role="line"
          id="tspan7094"
-         x="152.93134"
+         x="153.98965"
          y="16.56811"
          style="stroke-width:0.264583">$\frac{1}{T_{1c}p+1}$</tspan></text>
     <text
@@ -519,61 +521,61 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text7124"
-       x="176.81912"
+       x="176.3371"
        y="16.358681"><tspan
          sodipodi:role="line"
          id="tspan7122"
-         x="176.81912"
+         x="176.3371"
          y="16.358681"
          style="stroke-width:0.264583">$\frac{\frac{V}{D}}{p}$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 165.36455,15.875 h 8.14753"
+       d="m 165.36455,15.875 h 6.39938"
        id="path7184"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#marker1015)"
-       d="m 186.24876,15.875 h 8.45172"
+       d="m 184.50061,15.875 h 6.72779"
        id="path7186"
        sodipodi:nodetypes="cc" />
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1073"
-       x="187.46794"
+       x="185.88046"
        y="14.596258"><tspan
          sodipodi:role="line"
          id="tspan1071"
-         x="187.46794"
+         x="185.88046"
          y="14.596258"
          style="stroke-width:0.264583">$\epsilon_{\text{г}}$</tspan></text>
     <rect
-       style="fill:none;stroke:black;stroke-width:0.14044083;stop-color:#000000;fill-opacity:1;marker-end:none;marker-start:none;stroke-dasharray:1.05330625,1.05330625;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.140441;stroke-dasharray:1.05331, 1.05331;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
        id="rect968"
-       width="101.2167"
-       height="39.493526"
-       x="50.392685"
+       width="99.402512"
+       height="39.493523"
+       x="52.509354"
        y="9.0780621" />
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text987"
-       x="19.979101"
-       y="25.201445"><tspan
+       x="22.09577"
+       y="21.49728"><tspan
          sodipodi:role="line"
          id="tspan985"
-         x="19.979101"
-         y="25.201445"
+         x="22.09577"
+         y="21.49728"
          style="stroke-width:0.264583">$\epsilon_{\text{г}}$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1001"
-       x="6.0241556"
+       x="2.3199887"
        y="14.507286"><tspan
          sodipodi:role="line"
          id="tspan999"
-         x="6.0241556"
+         x="2.3199887"
          y="14.507286"
          style="stroke-width:0.264583">$\epsilon_{\text{г зад}} = 0$</tspan></text>
     <text

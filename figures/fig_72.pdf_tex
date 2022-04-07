@@ -54,18 +54,18 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_72.pdf}}%
-    \put(0.80682417,0.0800856){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{D}$\end{tabular}}}}%
+    \put(0.82305743,0.0800856){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{D}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_72.pdf}}%
-    \put(0.72838647,0.09333668){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta z$\end{tabular}}}}%
-    \put(0.64657966,0.08052334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{g}{p^2}$\end{tabular}}}}%
+    \put(0.7216205,0.09333668){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta z$\end{tabular}}}}%
+    \put(0.66011149,0.08052334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{g}{p^2}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_72.pdf}}%
-    \put(0.58835883,0.09621714){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
+    \put(0.59512479,0.09621714){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_72.pdf}}%
-    \put(0.46490544,0.08052334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\text{АП} \ \gamma$\end{tabular}}}}%
+    \put(0.48520318,0.08052334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\text{АП} \ \gamma$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{fig_72.pdf}}%
     \put(0.34205934,0.09721024){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \gamma_\text{зад}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{fig_72.pdf}}%
-    \put(0.22811955,0.08070092){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R_{\text{к}}(p)$\end{tabular}}}}%
+    \put(0.24503434,0.08070092){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$R_{\text{к}}(p)$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{fig_72.pdf}}%
     \put(0.13714814,0.09904441){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\delta \epsilon_\text{к}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=8]{fig_72.pdf}}%

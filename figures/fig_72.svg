@@ -137,9 +137,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9921948"
-     inkscape:cx="126.53401"
-     inkscape:cy="55.592188"
+     inkscape:zoom="4.9657461"
+     inkscape:cx="488.11822"
+     inkscape:cy="34.126113"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -147,9 +147,9 @@
      units="mm"
      width="180mm"
      inkscape:window-width="1916"
-     inkscape:window-height="910"
+     inkscape:window-height="964"
      inkscape:window-x="0"
-     inkscape:window-y="168"
+     inkscape:window-y="114"
      inkscape:window-maximized="0"
      inkscape:snap-grids="false"
      inkscape:snap-text-baseline="true"
@@ -213,11 +213,11 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text876"
-       x="138.96106"
+       x="141.50029"
        y="25.538994"><tspan
          sodipodi:role="line"
          id="tspan874"
-         x="138.96106"
+         x="141.50029"
          y="25.538994"
          style="stroke-width:0.264583">$\frac{1}{D}$</tspan></text>
     <path
@@ -239,22 +239,22 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text948"
-       x="126.69172"
+       x="125.63338"
        y="23.46624"><tspan
          sodipodi:role="line"
          id="tspan946"
-         x="126.69172"
+         x="125.63338"
          y="23.46624"
          style="stroke-width:0.264583">$\Delta z$</tspan></text>
     <text
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text962"
-       x="113.89538"
+       x="116.01205"
        y="25.470522"><tspan
          sodipodi:role="line"
          id="tspan960"
-         x="113.89538"
+         x="116.01205"
          y="25.470522"
          style="stroke-width:0.264583">$\frac{g}{p^2}$</tspan></text>
     <path
@@ -265,11 +265,11 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1049"
-       x="104.78839"
+       x="105.84673"
        y="23.015675"><tspan
          sodipodi:role="line"
          id="tspan1047"
-         x="104.78839"
+         x="105.84673"
          y="23.015675"
          style="stroke-width:0.264583">$\gamma$</tspan></text>
     <rect
@@ -283,11 +283,11 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1072"
-       x="85.477631"
+       x="88.652634"
        y="25.470522"><tspan
          sodipodi:role="line"
          id="tspan1070"
-         x="85.477631"
+         x="88.652634"
          y="25.470522"
          style="stroke-width:0.264583">$\text{АП} \ \gamma$</tspan></text>
     <path
@@ -328,11 +328,11 @@
        style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
        id="text1324"
-       x="48.439236"
+       x="51.085072"
        y="25.442745"><tspan
          sodipodi:role="line"
          id="tspan1322"
-         x="48.439236"
+         x="51.085072"
          y="25.442745"
          style="stroke-width:0.264583">$R_{\text{к}}(p)$</tspan></text>
     <g
