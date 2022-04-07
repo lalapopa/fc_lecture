@@ -38,8 +38,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9088012"
-     inkscape:cx="148.4837"
+     inkscape:zoom="3.9812823"
+     inkscape:cx="167.08501"
      inkscape:cy="81.010073"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,9 +48,9 @@
      units="mm"
      width="180mm"
      inkscape:window-width="1916"
-     inkscape:window-height="928"
+     inkscape:window-height="982"
      inkscape:window-x="0"
-     inkscape:window-y="150"
+     inkscape:window-y="96"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      inkscape:snap-grids="false">
@@ -169,7 +169,7 @@
          id="tspan937"
          x="62.668179"
          y="34.446655"
-         style="stroke-width:0.264583">$\Delta \Ksi$</tspan></text>
+         style="stroke-width:0.264583">$\Delta \Psi$</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.140441;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.140441, 0.702204;stroke-opacity:1;marker-start:none;marker-end:none"
        d="m 67.691827,10.297579 0.167997,26.48039"

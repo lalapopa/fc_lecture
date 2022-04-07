@@ -58,7 +58,7 @@
     \put(0.33495094,0.22790348){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$D$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_71.pdf}}%
     \put(0.70294022,0){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ВВП\end{tabular}}}}%
-    \put(0.64282126,0.06689307){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \Ksi$\end{tabular}}}}%
+    \put(0.64282126,0.06689307){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \Psi$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_71.pdf}}%
     \put(0.71043596,0.17957233){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta z$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_71.pdf}}%
