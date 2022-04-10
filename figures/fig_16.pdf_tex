@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{356.47193982bp}%
+    \setlength{\unitlength}{293.64859033bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,20 +50,16 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.46957768)%
+  \begin{picture}(1,0.57142935)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_16.pdf}}%
-    \put(0.02408427,0.25082845){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ГВ\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_16.pdf}}%
-    \put(0.49014288,0.42132937){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Зад. устройство\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_16.pdf}}%
-    \put(0.3310138,0.04312563){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{k}{p}$\end{tabular}}}}%
-    \put(0.1428841,0.26922828){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\theta$\end{tabular}}}}%
-    \put(0.28281044,0.27097335){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \theta = \theta - \theta(t_0)$\end{tabular}}}}%
-    \put(0.6222915,0.33006348){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta_\text{зад}$\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_16.pdf}}%
-    \put(0.55049042,0.22387797){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-$\end{tabular}}}}%
-    \put(0.18769349,0.1880691){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\hat{\theta}$\end{tabular}}}}%
+    \put(0.40360578,0.05227575){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{k}{p}$\end{tabular}}}}%
+    \put(0.293936,0.24856107){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\hat{\vartheta}$\end{tabular}}}}%
+    \put(0.20347695,0.33013541){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\vartheta$\end{tabular}}}}%
+    \put(0.34584208,0.33175758){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta = \vartheta - \vartheta(t_0)$\end{tabular}}}}%
+    \put(0.75319769,0.40692788){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta_\text{зад}$\end{tabular}}}}%
+    \put(0.61106368,0.51538957){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Зад. устройство\end{tabular}}}}%
+    \put(0.03606632,0.30079543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ГВ\end{tabular}}}}%
   \end{picture}%
 \endgroup%

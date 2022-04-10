@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170mm"
-   height="100mm"
-   viewBox="0 0 170 100"
+   width="138.89948mm"
+   height="25.08596mm"
+   viewBox="0 0 138.89948 25.085961"
    version="1.1"
    id="svg3744"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -17,46 +17,46 @@
   <defs
      id="defs3738">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1989"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1987" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1869"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1867" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1773"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true"
        inkscape:collect="always">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1519" />
     </marker>
     <marker
@@ -69,7 +69,7 @@
        inkscape:isstock="true">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path37561" />
     </marker>
@@ -83,7 +83,7 @@
        inkscape:isstock="true">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path37391" />
     </marker>
@@ -97,7 +97,7 @@
        inkscape:isstock="true">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path13403" />
     </marker>
@@ -109,17 +109,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0397296"
-     inkscape:cx="263.28094"
-     inkscape:cy="164.68666"
+     inkscape:zoom="3.3684904"
+     inkscape:cx="344.84439"
+     inkscape:cy="69.030121"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1024"
+     inkscape:window-width="1916"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="78"
      inkscape:window-maximized="1"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -140,7 +140,8 @@
      inkscape:label="main"
      inkscape:groupmode="layer"
      id="layer1"
-     style="opacity:1;mix-blend-mode:normal">
+     style="opacity:1;mix-blend-mode:normal"
+     transform="translate(-24.354319,-30.180735)">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="rect32585"
@@ -198,7 +199,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker37393)"
-       d="m 99.157356,36.727904 10.825534,0"
+       d="M 99.157356,36.727904 H 109.98289"
        id="path34574"
        sodipodi:nodetypes="cc" />
     <path
@@ -227,18 +228,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="text"
-     style="display:inline;mix-blend-mode:normal">
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;opacity:1;stroke-width:0.264583"
-       x="36.904751"
-       y="38.493702"
-       id="text4311"><tspan
-         sodipodi:role="line"
-         id="tspan4309"
-         x="36.904751"
-         y="38.493702"
-         style="font-size:3.52778px;stroke-width:0.264583">$\frac{K_\theta}{K_{\omega_z} p + K_\theta}$</tspan></text>
+     style="display:inline;mix-blend-mode:normal"
+     transform="translate(-24.354319,-30.180735)">
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;opacity:1;stroke-width:0.264583"
@@ -249,51 +240,40 @@
          id="tspan4315"
          x="81.224159"
          y="37.945267"
-         style="stroke-width:0.264583">$K_{\omega_z} p + K_\theta$</tspan></text>
+         style="stroke-width:0.264583">$K_{\omega_z} p + K_\vartheta$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;opacity:1;mix-blend-mode:normal;stroke-width:0.264583"
-       x="114.26425"
-       y="37.086655"
+       x="114.26426"
+       y="38.144989"
        id="text49352"><tspan
          sodipodi:role="line"
          id="tspan49350"
          style="stroke-width:0.264583"
-         x="114.26425"
-         y="37.086655">$W_\text{п}$</tspan></text>
+         x="114.26426"
+         y="38.144989">$W_\text{п}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;opacity:1;mix-blend-mode:normal;stroke-width:0.264583"
        x="26.118935"
-       y="36.361809"
+       y="34.774311"
        id="text51304"><tspan
          sodipodi:role="line"
          id="tspan51302"
          style="stroke-width:0.264583"
          x="26.118935"
-         y="36.361809">$\Delta \vartheta_\text{з}$</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="140.57478"
-       y="37.377167"
-       id="text2085"><tspan
-         sodipodi:role="line"
-         id="tspan2083"
-         x="140.57478"
-         y="37.377167"
-         style="stroke-width:0.264583">$\frac{1}{p}\{{\frac{\hat{\theta}}{\theta}}\}$</tspan></text>
+         y="34.774311">$\Delta \vartheta_\text{з}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
        x="101.63771"
-       y="29.151674"
+       y="34.443344"
        id="text2089"><tspan
          sodipodi:role="line"
          id="tspan2087"
          x="101.63771"
-         y="29.151674"
-         style="stroke-width:0.264583">$\sigma \theta$</tspan></text>
+         y="34.443344"
+         style="stroke-width:0.264583">$\sigma \vartheta$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -308,13 +288,35 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;mix-blend-mode:normal;stroke-width:0.264583"
-       x="156.56195"
-       y="35.771473"
+       x="153.52325"
+       y="34.660973"
        id="text2153-1"><tspan
          sodipodi:role="line"
          id="tspan2151-9"
-         x="156.56195"
-         y="35.771473"
+         x="153.52325"
+         y="34.660973"
          style="stroke-width:0.264583">$\Delta \vartheta$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text922"
+       x="138.57455"
+       y="37.557411"><tspan
+         sodipodi:role="line"
+         id="tspan920"
+         x="138.57455"
+         y="37.557411"
+         style="stroke-width:0.264583">$\frac{1}{p}\{{\frac{\hat{\vartheta}}{\vartheta}}\}$</tspan></text>
+    <text
+       style="font-size:2.64583px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       id="text960"
+       x="37.969036"
+       y="38.51556"><tspan
+         sodipodi:role="line"
+         id="tspan958"
+         x="37.969036"
+         y="38.51556"
+         style="stroke-width:0.264583">$\frac{K_\vartheta}{K_{\omega_z} p + K_\vartheta}$</tspan></text>
   </g>
 </svg>

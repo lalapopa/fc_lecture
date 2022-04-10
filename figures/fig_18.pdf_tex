@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{574.52631733bp}%
+    \setlength{\unitlength}{393.73079555bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.14207264)%
+  \begin{picture}(1,0.18060515)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_18.pdf}}%
-    \put(0.06192236,0.08275599){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{K_\theta}{K_{\omega_z} p + K_\theta}$\end{tabular}}}}%
-    \put(0.28058914,0.0854619){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_z} p + K_\theta$\end{tabular}}}}%
-    \put(0.44360509,0.0896982){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
-    \put(0.00870641,0.0932745){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta_\text{з}$\end{tabular}}}}%
-    \put(0.57341818,0.08826484){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}\{{\frac{\hat{\theta}}{\theta}}\}$\end{tabular}}}}%
-    \put(0.38130722,0.12884846){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma \theta$\end{tabular}}}}%
-    \put(0.22473751,0.03582084){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta$\end{tabular}}}}%
-    \put(0.652297,0.09618715){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta$\end{tabular}}}}%
+    \put(0.40943164,0.12470478){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_z} p + K_\vartheta$\end{tabular}}}}%
+    \put(0.64730223,0.12326689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
+    \put(0.01270426,0.14753392){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta_\text{з}$\end{tabular}}}}%
+    \put(0.55639801,0.1499167){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma \vartheta$\end{tabular}}}}%
+    \put(0.32793375,0.05226926){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta$\end{tabular}}}}%
+    \put(0.92994545,0.1483499){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \vartheta$\end{tabular}}}}%
+    \put(0.82232302,0.12749713){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{1}{p}\{{\frac{\hat{\vartheta}}{\vartheta}}\}$\end{tabular}}}}%
+    \put(0.09801849,0.12059898){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{K_\vartheta}{K_{\omega_z} p + K_\vartheta}$\end{tabular}}}}%
   \end{picture}%
 \endgroup%
