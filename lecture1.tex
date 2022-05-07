@@ -1,68 +1,12 @@
 \RequirePackage{snapshot}
 \documentclass{article}
 
-%Remove warning with cyrillic letters in equations 
-\usepackage{silence}
-\WarningFilter{mathtext}{letter}
-\usepackage{import}
-
-\usepackage{pdfpages}
-\usepackage{graphicx}
-\usepackage{color}
-\usepackage[warn]{mathtext}
-\usepackage[utf8]{inputenc}
-\usepackage[T2A]{fontenc}
-\usepackage[english,russian]{babel}
-\usepackage{upgreek}
-\usepackage{hyperref}
-\usepackage{booktabs}
-\usepackage{cmap}
-\usepackage{amssymb}
-\usepackage{xcolor}
-\usepackage{wrapfig}
-\usepackage{amsmath}
-\usepackage{tipa}
-\usepackage{tikz}
-\usepackage[
-  top=2cm,
-  bottom=3cm,
-  left=1cm,
-  right=1cm,
-]{geometry}
-\usetikzlibrary{positioning}
-\usetikzlibrary{shapes.geometric}
-\usetikzlibrary{fit}
-\usetikzlibrary{calc,patterns,angles,quotes}
-\usetikzlibrary{babel}
-\usetikzlibrary{decorations.markings}
-\usepackage{pgfplots}
-\usepgfplotslibrary{groupplots}
-\usepgfplotslibrary{external} 
-\tikzexternalize
-
-%Header
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-
-\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\fancyhead[L]{\leftmark}
-\fancyhead[R]{Управление движением ЛА}
-\fancyfoot[C]{\thepage}
-\setcounter{secnumdepth}{0} %delete number before section
-
-\usepackage{mathtools, nccmath} % break eqation in two line 
-\usepackage{float}
-
-\newcommand{\incfig}[1]{
-    \import{./figures/}{#1.pdf_tex}
-}
-\pdfsuppresswarningpagegroup=1
-\pgfplotsset{compat=1.18}
+\input{preamble.tex}
 
 \begin{document}
 \thispagestyle{empty}
 \tableofcontents
+\newpage
 \section{Лекция 1}
 \subsection{Общие положения}
 \textbf{Цель курса:}Дать необходимые знания для понимания принципов построения

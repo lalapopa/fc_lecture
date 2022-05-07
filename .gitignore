@@ -1,12 +1,12 @@
 *
-!.gitignore
 !lecture1.tex
+!lecture1.dep
+!lecture1.pdf
+
 !/figures/
 !/figures/*.pdf
 !*.svg
 !*.pdf_tex
 !req.txt
-!lecture1.dep
 !README.md
-!lecture1.pdf
 
