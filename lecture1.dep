@@ -1,5 +1,5 @@
 \RequireVersions{
-  *{application}{pdfTeX}  {0000/00/00 v1.40.23}
+  *{application}{pdfTeX}  {0000/00/00 v1.40.24}
   *{format} {LaTeX2e}     {2021-11-15 v2.e}
   *{package}{snapshot}    {2020/06/17 v2.14}
   *{class}  {article}     {2021/10/04 v1.4n}
@@ -25,11 +25,11 @@
   *{file}   {t2aenc.def}  {2005/09/27 v1.0i}
   *{file}   {t2aenc.dfu}  {2021/06/21 v1.2n}
   *{file}   {t2acmr.fd}   {2001/08/11 v1.0a}
-  *{package}{babel}       {2022/02/13 v3.71}
+  *{package}{babel}       {2022/02/26 v3.73}
   *{file}   {english.ldf} {2017/06/06 v3.3r}
   *{file}   {russianb.ldf}{2021/01/10 v1.3m}
   *{package}{upgreek}     {2003/02/12 v2.0}
-  *{package}{hyperref}    {2021-06-07 v7.00m}
+  *{package}{hyperref}    {2022-02-21 v7.00n}
   *{package}{ltxcmds}     {2020-05-10 v1.25}
   *{package}{iftex}       {2022/02/03 v1.0f}
   *{package}{pdftexcmds}  {2020-06-27 v0.33}
@@ -41,21 +41,22 @@
   *{package}{letltxmacro} {2019/12/03 v1.6}
   *{package}{auxhook}     {2019-12-17 v1.6}
   *{package}{kvoptions}   {2020-10-07 v3.14}
-  *{file}   {pd1enc.def}  {2021-06-07 v7.00m}
-  *{file}   {hyperref-langpatches.def}{2021-06-07 v7.00m}
+  *{file}   {pd1enc.def}  {2022-02-21 v7.00n}
   *{package}{intcalc}     {2019/12/15 v1.3}
   *{package}{etexcmds}    {2019/12/15 v1.7}
-  *{file}   {puenc.def}   {2021-06-07 v7.00m}
+  *{file}   {puenc.def}   {2022-02-21 v7.00n}
   *{package}{url}         {2013/09/16 v3.4}
   *{package}{bitset}      {2019/12/09 v1.3}
   *{package}{bigintcalc}  {2019/12/15 v1.5}
   *{package}{atbegshi-ltx}{2021/01/10 v1.0c}
-  *{file}   {hpdftex.def} {2021-06-07 v7.00m}
+  *{file}   {hpdftex.def} {2022-02-21 v7.00n}
   *{package}{atveryend-ltx}{2020/08/19 v1.0a}
   *{package}{rerunfilecheck}{2019/12/05 v1.9}
   *{package}{uniquecounter}{2019/12/15 v1.4}
   *{package}{booktabs}    {2020/01/12 v1.61803398}
   *{package}{cmap}        {2021/02/06 v1.0j}
+  *{package}{amssymb}     {2013/01/14 v3.01}
+  *{package}{amsfonts}    {2013/01/14 v3.01}
   *{package}{wrapfig}     {2003/01/31 v3.6}
   *{package}{amsmath}     {2021/10/15 v2.17l}
   *{package}{amstext}     {2021/08/26 v2.01}
@@ -95,6 +96,8 @@
   *{package}{float}       {2001/11/08 v1.3d}
   *{file}   {l3backend-pdftex.def}{2022-02-07 v3}
   *{file}   {t3cmr.fd}    {2001/12/31 v0.0}
+  *{file}   {umsa.fd}     {2013/01/14 v3.01}
+  *{file}   {umsb.fd}     {2013/01/14 v3.01}
   *{file}   {omlcmr.fd}   {2019/12/16 v2.5j}
   *{file}   {omscmr.fd}   {2019/12/16 v2.5j}
   *{-------}{Document-specific files:}{----}
@@ -393,4 +396,7 @@
   *{file}   {./figures//fig_72.pdf}{0000/00/00 v0.0}
   *{file}   {./figures//fig_72.pdf}{0000/00/00 v0.0}
   *{file}   {./figures//fig_72.pdf}{0000/00/00 v0.0}
+  *{file}   {./figures/fig_73.pdf_tex}{0000/00/00 v0.0}
+  *{file}   {./figures//fig_73.pdf}{0000/00/00 v0.0}
+  *{file}   {./figures//fig_73.pdf}{0000/00/00 v0.0}
 }
