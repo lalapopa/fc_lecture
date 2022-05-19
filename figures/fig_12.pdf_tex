@@ -1,4 +1,4 @@
-%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'fig_12.pdf' (pdf, eps, ps)
 %%
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{342.41652668bp}%
+    \setlength{\unitlength}{342.41653322bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,20 +50,20 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.43704574)%
+  \begin{picture}(1,0.43676054)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0.22400507,0.29086877){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДП\end{tabular}}}}%
-    \put(0.37996986,0.29041959){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{ш}$\end{tabular}}}}%
-    \put(0.70174115,0.28763675){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ЭГПР\end{tabular}}}}%
-    \put(0.39917848,0.1348817){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_z}$\end{tabular}}}}%
-    \put(0.40054884,0.03055252){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_y}$\end{tabular}}}}%
+    \put(0.22400507,0.29086878){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДП\end{tabular}}}}%
+    \put(0.37996985,0.29041959){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{ш}$\end{tabular}}}}%
+    \put(0.70174113,0.28763675){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ЭГПР\end{tabular}}}}%
+    \put(0.39917847,0.1348817){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{\omega_z}$\end{tabular}}}}%
+    \put(0.40054883,0.03055252){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_{n_y}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_12.pdf}}%
-    \put(0.23980388,0.13935915){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДУЕ\end{tabular}}}}%
-    \put(0.23983455,0.02738131){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}АУС\end{tabular}}}}%
+    \put(0.23980388,0.13935916){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ДУЕ\end{tabular}}}}%
+    \put(0.23983454,0.02738132){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}АУС\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_12.pdf}}%
-    \put(0.46807625,0.31248721){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_\text{л}$\end{tabular}}}}%
-    \put(0.59479915,0.25403711){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_\text{А}$\end{tabular}}}}%
-    \put(0.05557501,0.41457224){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
+    \put(0.46807623,0.31248721){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_\text{л}$\end{tabular}}}}%
+    \put(0.59479914,0.25403712){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi_\text{А}$\end{tabular}}}}%
+    \put(0.055575,0.41457224){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

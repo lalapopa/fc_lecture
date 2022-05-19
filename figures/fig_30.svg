@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170mm"
-   height="100mm"
-   viewBox="0 0 170 100"
+   width="114.64728mm"
+   height="20.539623mm"
+   viewBox="0 0 114.64728 20.539623"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -19,44 +19,44 @@
     <marker
        style="overflow:visible"
        id="Arrow1Mstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1444" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1794"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1792" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true"
        inkscape:collect="always">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1447" />
     </marker>
     <symbol
@@ -88,27 +88,29 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2864679"
-     inkscape:cx="228.23095"
-     inkscape:cy="123.19272"
+     inkscape:zoom="3.026315"
+     inkscape:cx="416.68532"
+     inkscape:cy="24.888023"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:snap-grids="true"
+     inkscape:snap-grids="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:connector-spacing="25"
-     inkscape:window-width="1920"
-     inkscape:window-height="1024"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="636"
+     inkscape:window-height="1036"
+     inkscape:window-x="640"
+     inkscape:window-y="42"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid842" />
+       id="grid842"
+       originx="-7.6940498"
+       originy="-19.336897" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -118,21 +120,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect1382-3"
-       width="28.839563"
-       height="14.608813"
-       x="58.208332"
-       y="18.520834" />
+     id="layer1"
+     transform="translate(-7.6940499,-19.336897)">
     <g
        id="use1349"
        style="fill:none;stroke:#000000"
@@ -143,70 +139,31 @@
          id="desc1371">Summing junction. Shows when multiple branches converge.</desc>
       <path
          id="circle1373"
-         style="stroke-width:0.529167;fill:none"
+         style="fill:none;stroke-width:0.529167"
          d="M 25.135417,19.84375 A 5.2916665,5.2916665 0 0 1 19.84375,25.135417 5.2916665,5.2916665 0 0 1 14.552083,19.84375 5.2916665,5.2916665 0 0 1 19.84375,14.552083 5.2916665,5.2916665 0 0 1 25.135417,19.84375 Z" />
       <path
          d="m 16.139583,16.139583 7.408334,7.408334"
-         style="stroke-width:0.529167;fill:none"
+         style="fill:none;stroke-width:0.529167"
          id="path1375" />
       <path
          d="m 16.139583,23.547917 7.408334,-7.408334"
-         style="stroke-width:0.529167;fill:none"
+         style="fill:none;stroke-width:0.529167"
          id="path1377" />
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect1382"
-       width="13.229168"
-       height="14.552084"
-       x="30.427082"
-       y="18.577562"
-       inkscape:connector-avoid="true" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect1382-6"
-       width="17.197912"
-       height="14.552084"
-       x="108.47917"
-       y="18.577562" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 25.987963,25.752777 4.439119,0.04049"
-       id="path1422"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-end="#rect1382" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 43.65625,25.848332 14.552082,-0.0116"
        id="path1426"
        inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#rect1382"
-       inkscape:connection-end="#rect1382-3" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 87.047908,25.853604 21.431262,0"
-       id="path1428"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-end="#rect1382-6"
-       inkscape:connection-start="#rect1382-3" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 125.67708,25.853604 6.61459,0"
-       id="path1430"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#rect1382-6" />
+       inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 132.29167,25.853604 11.90625,0"
+       d="m 111.26566,25.836735 9.62546,0.01687"
        id="path1768"
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 136.26042,25.853604 V 39.744229 H 23.636111 v -11.6396"
+       d="M 115.09375,25.853604 V 39.744229 H 23.636111 v -11.6396"
        id="path1782"
        sodipodi:nodetypes="cccc" />
     <path
@@ -260,12 +217,12 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="138.88676"
+       x="111.89927"
        y="23.744316"
        id="text2926"><tspan
          sodipodi:role="line"
          id="tspan2924"
-         x="138.88676"
+         x="111.89927"
          y="23.744316"
          style="stroke-width:0.264583">$\psi$</tspan></text>
     <text
@@ -281,42 +238,71 @@
          style="stroke-width:0.264583">$\gamma_\text{зад}$</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 136.26041,26.458333 v 0"
+       d="m 120.3854,26.458333 v 0"
        id="path3057"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="62.861485"
+       x="60.744816"
        y="26.853312"
        id="text4828"><tspan
          sodipodi:role="line"
          id="tspan4826"
-         x="62.861485"
+         x="60.744816"
          y="26.853312"
          style="stroke-width:0.264583">$\frac{1}{T_\gamma^2p^2 + 2\xi_\gamma T_\gamma p + 1}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="90.984993"
+       x="84.105827"
        y="23.46282"
        id="text4832"><tspan
          sodipodi:role="line"
          id="tspan4830"
-         x="90.984993"
+         x="84.105827"
          y="23.46282"
          style="stroke-width:0.264583">$\gamma$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="109.80756"
-       y="26.640368"
+       x="94.033218"
+       y="26.592899"
        id="text4836"><tspan
          sodipodi:role="line"
-         x="109.80756"
-         y="26.640368"
+         x="94.033218"
+         y="26.592899"
          style="stroke-width:0.264583"
          id="tspan4838">$-\frac{g}{V} \frac{T_{1c}p + 1}{p}$</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       id="rect850"
+       width="24.737"
+       height="12.736673"
+       x="58.208332"
+       y="19.468397" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       id="rect850-3"
+       width="12.736674"
+       height="12.736673"
+       x="30.919575"
+       y="19.479996" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.263;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none;stop-color:#000000"
+       id="rect850-3-6"
+       width="17.737"
+       height="12.736673"
+       x="93.528656"
+       y="19.468399" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.945327,25.836733 c 10.583328,1e-6 10.583328,1e-6 10.583328,1e-6"
+       id="path1169" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.987963,25.752777 4.931611,0.09555"
+       id="path910" />
   </g>
 </svg>

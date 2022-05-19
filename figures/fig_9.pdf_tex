@@ -1,4 +1,4 @@
-%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'fig_9.pdf' (pdf, eps, ps)
 %%
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{510.48905287bp}%
+    \setlength{\unitlength}{481.88976378bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,25 +50,26 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.37779602)%
+  \begin{picture}(1,0.58823529)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_9.pdf}}%
-    \put(0.73311651,0.32394917){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
-    \put(0.80657847,0.33709005){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
-    \put(0.57391462,0.03859068){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
-    \put(0.50052908,0.05098341){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
-    \put(0.38252916,0.0408723){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-(\frac{K_{\int}}{p} + K_{n_y})$\end{tabular}}}}%
-    \put(0.41718737,0.18432713){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
-    \put(0.55516683,0.17994678){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p + Y^\alpha$\end{tabular}}}}%
-    \put(0.50369824,0.19856309){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
-    \put(0.64386782,0.33928019){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
-    \put(0.56398179,0.32832945){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\{ \frac{\Delta \alpha}{\Delta \varphi}\}$\end{tabular}}}}%
-    \put(0.43087586,0.32613931){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{пр}$\end{tabular}}}}%
+    \put(0.83814742,0.43336655){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.91596922,0.44728732){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
+    \put(0.66949719,0.13107255){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.59175635,0.14420076){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
+    \put(0.46356803,0.13348959){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-(\frac{K_{\int}}{p} + K_{n_y})$\end{tabular}}}}%
+    \put(0.50346846,0.28545819){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
+    \put(0.64963675,0.28081788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p + Y^\alpha$\end{tabular}}}}%
+    \put(0.5951136,0.30053904){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
+    \put(0.74360199,0.44960745){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
+    \put(0.65897486,0.43800679){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\{ \frac{\Delta \alpha}{\Delta \varphi}\}$\end{tabular}}}}%
+    \put(0.51796933,0.43568667){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{пр}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_9.pdf}}%
-    \put(0.0766191,0.32559177){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{K_\text{ш}}{p}(p + \frac{K_x K_{\int}}{K_\text{ш}})$\end{tabular}}}}%
-    \put(0.01803259,0.33599497){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
+    \put(0.17070281,0.43510664){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{K_\text{ш}}{p}(p + \frac{K_x K_{\int}}{K_\text{ш}})$\end{tabular}}}}%
+    \put(0.12109025,0.44612725){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_9.pdf}}%
-    \put(0.25011017,0.13253166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{ос}$\end{tabular}}}}%
+    \put(0.32647552,0.23058876){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{ос}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_9.pdf}}%
   \end{picture}%
 \endgroup%

@@ -1,4 +1,4 @@
-%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'fig_13.pdf' (pdf, eps, ps)
 %%
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{496.15294364bp}%
+    \setlength{\unitlength}{483.70319997bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,28 +50,29 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.38011431)%
+  \begin{picture}(1,0.38989784)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_13.pdf}}%
-    \put(-0.00152541,0.34570339){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta x$\end{tabular}}}}%
+    \put(-0.00171609,0.35460124){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta x$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_13.pdf}}%
-    \put(0.71058507,0.11664334){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{ос}$\end{tabular}}}}%
+    \put(0.72872297,0.11964556){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{ос}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_13.pdf}}%
-    \put(0.13420565,0.33065043){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{ш}$\end{tabular}}}}%
+    \put(0.13750847,0.33916084){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$K_\text{ш}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{fig_13.pdf}}%
-    \put(0.8536707,0.3452214){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y$\end{tabular}}}}%
-    \put(0.85412489,0.22805997){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
-    \put(0.7605774,0.22760584){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$P + \bar{Y}^\alpha$\end{tabular}}}}%
-    \put(0.77563719,0.33704735){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
-    \put(0.56918284,0.33755183){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\Delta \alpha}{\Delta \varphi}$\end{tabular}}}}%
-    \put(0.41454243,0.33750146){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_n$\end{tabular}}}}%
-    \put(0.50082409,0.35157899){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \varphi$\end{tabular}}}}%
-    \put(0.57353608,0.18830764){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\Delta \omega_z}{\Delta \alpha}$\end{tabular}}}}%
-    \put(0.41191604,0.18959204){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
-    \put(0.41448489,0.04252496){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
-    \put(0.57619612,0.04312191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
-    \put(0.64953539,0.34757675){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
-    \put(0.22246289,0.34565011){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \varphi$\end{tabular}}}}%
+    \put(0.87549139,0.35410685){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y$\end{tabular}}}}%
+    \put(0.87595727,0.23392987){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
+    \put(0.78431006,0.23346406){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$P + \bar{Y}^\alpha$\end{tabular}}}}%
+    \put(0.79305607,0.34572241){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.58368127,0.34623987){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\Delta \alpha}{\Delta \varphi}$\end{tabular}}}}%
+    \put(0.42506067,0.34618821){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_n$\end{tabular}}}}%
+    \put(0.51356308,0.36062807){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \varphi$\end{tabular}}}}%
+    \put(0.58814656,0.19315438){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\Delta \omega_z}{\Delta \alpha}$\end{tabular}}}}%
+    \put(0.42236668,0.19447184){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
+    \put(0.42500165,0.04361949){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
+    \put(0.59087506,0.0442318){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.66610197,0.35652283){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
+    \put(0.22803731,0.3545466){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \varphi$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{fig_13.pdf}}%
   \end{picture}%
 \endgroup%

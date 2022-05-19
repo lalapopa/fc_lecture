@@ -1,4 +1,4 @@
-%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'lec_fig_1.pdf' (pdf, eps, ps)
 %%
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{174.48026221bp}%
+    \setlength{\unitlength}{226.77165354bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,12 +50,13 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.75910805)%
+  \begin{picture}(1,0.75)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{lec_fig_1.pdf}}%
-    \put(0.17007985,0.24854529){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}СП\end{tabular}}}}%
+    \put(0.1658805,0.26327643){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}СП\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{lec_fig_1.pdf}}%
-    \put(0.87941334,0.70034028){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}МТЭ\end{tabular}}}}%
+    \put(0.71164842,0.61089178){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}МТЭ\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{lec_fig_1.pdf}}%
   \end{picture}%
 \endgroup%

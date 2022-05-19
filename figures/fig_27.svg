@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170mm"
-   height="100mm"
-   viewBox="0 0 170 100"
+   width="144.15039mm"
+   height="21.43125mm"
+   viewBox="0 0 144.15039 21.43125"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -19,44 +19,44 @@
     <marker
        style="overflow:visible"
        id="Arrow1Mstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1444" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1794"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1792" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true"
        inkscape:collect="always">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1447" />
     </marker>
     <symbol
@@ -88,9 +88,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.3425823"
-     inkscape:cx="191.849"
-     inkscape:cy="140.62438"
+     inkscape:zoom="2.9162815"
+     inkscape:cx="104.57371"
+     inkscape:cy="69.972317"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -101,14 +101,16 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:connector-spacing="25"
-     inkscape:window-width="1920"
-     inkscape:window-height="1024"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="636"
+     inkscape:window-height="1036"
+     inkscape:window-x="640"
+     inkscape:window-y="42"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid842" />
+       id="grid842"
+       originx="-7.6940498"
+       originy="-18.445271" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -118,14 +120,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-7.6940499,-18.445271)">
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect1382-3"
@@ -143,15 +146,15 @@
          id="desc1371">Summing junction. Shows when multiple branches converge.</desc>
       <path
          id="circle1373"
-         style="stroke-width:0.529167;fill:none"
+         style="fill:none;stroke-width:0.529167"
          d="M 25.135417,19.84375 A 5.2916665,5.2916665 0 0 1 19.84375,25.135417 5.2916665,5.2916665 0 0 1 14.552083,19.84375 5.2916665,5.2916665 0 0 1 19.84375,14.552083 5.2916665,5.2916665 0 0 1 25.135417,19.84375 Z" />
       <path
          d="m 16.139583,16.139583 7.408334,7.408334"
-         style="stroke-width:0.529167;fill:none"
+         style="fill:none;stroke-width:0.529167"
          id="path1375" />
       <path
          d="m 16.139583,23.547917 7.408334,-7.408334"
-         style="stroke-width:0.529167;fill:none"
+         style="fill:none;stroke-width:0.529167"
          id="path1377" />
     </g>
     <rect
@@ -209,7 +212,7 @@
        inkscape:connection-start="#rect1382-6" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 132.29167,25.853604 11.90625,0"
+       d="m 132.29167,25.853604 h 11.90625"
        id="path1768"
        sodipodi:nodetypes="cc" />
     <path
@@ -268,35 +271,35 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-       x="60.753819"
-       y="27.382479"
+       x="63.611469"
+       y="26.928844"
        id="text9921"><tspan
          sodipodi:role="line"
          id="tspan9919"
-         x="60.753819"
-         y="27.382479"
+         x="63.611469"
+         y="26.928844"
          style="stroke-width:0.264583">$\Phi_{АП_{n_z}}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
        x="92.786255"
-       y="27.382479"
+       y="26.565937"
        id="text9756"><tspan
          sodipodi:role="line"
          id="tspan9754"
          x="92.786255"
-         y="27.382479"
+         y="26.565937"
          style="stroke-width:0.264583">$\frac{p - \bar{Z}^\beta}{n_z^\beta p}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
        x="126.20438"
-       y="27.43157"
+       y="26.977936"
        id="text2922"><tspan
          sodipodi:role="line"
          id="tspan2920"
          x="126.20438"
-         y="27.43157"
+         y="26.977936"
          style="stroke-width:0.264583">$\frac{1}{p}$</tspan></text>
     <text
        xml:space="preserve"

@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{487.58797043bp}%
+    \setlength{\unitlength}{408.17409726bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,25 +50,25 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.3161439)%
+  \begin{picture}(1,0.37765248)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{fig_40.pdf}}%
-    \put(0.48073416,0.03981656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.57426524,0.04756322){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{fig_40.pdf}}%
-    \put(0.70919774,0.27187343){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
-    \put(0.54799149,0.27158802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
-    \put(0.38571032,0.27158802){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \varphi$\end{tabular}}}}%
-    \put(0.45701024,0.25760402){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\left\{ \frac{\Delta \alpha}{\Delta \varphi} \right\}$\end{tabular}}}}%
-    \put(0.44925884,0.15087692){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p + \bar{Y}^\alpha$\end{tabular}}}}%
-    \put(0.38747008,0.16579077){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
-    \put(0.30675574,0.15116234){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
-    \put(0.30700856,0.25883521){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
-    \put(0.2586306,0.27187343){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma_n$\end{tabular}}}}%
-    \put(0.08380197,0.25739999){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
-    \put(-0.00170241,0.27187343){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_{y_\text{зад}}$\end{tabular}}}}%
-    \put(0.65023427,0.25835374){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
-    \put(0.3047861,0.04038815){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
+    \put(0.84717842,0.3247688){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_y$\end{tabular}}}}%
+    \put(0.65460808,0.32442786){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \alpha$\end{tabular}}}}%
+    \put(0.46075367,0.32442786){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta \varphi$\end{tabular}}}}%
+    \put(0.54592562,0.30772315){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\left\{ \frac{\Delta \alpha}{\Delta \varphi} \right\}$\end{tabular}}}}%
+    \put(0.53666611,0.18023136){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p + \bar{Y}^\alpha$\end{tabular}}}}%
+    \put(0.46285581,0.19804683){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega_z$\end{tabular}}}}%
+    \put(0.36643778,0.18057231){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{\omega_z}$\end{tabular}}}}%
+    \put(0.36673979,0.30919388){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W_\text{п}$\end{tabular}}}}%
+    \put(0.30894947,0.3247688){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\sigma_n$\end{tabular}}}}%
+    \put(0.10010639,0.30747942){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
+    \put(-0.00203363,0.3247688){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\Delta n_{y_\text{зад}}$\end{tabular}}}}%
+    \put(0.77674308,0.30861873){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$n_y^\alpha$\end{tabular}}}}%
+    \put(0.36408493,0.04824602){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-K_{n_y}$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{fig_40.pdf}}%
   \end{picture}%
 \endgroup%

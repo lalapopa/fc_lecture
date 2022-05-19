@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="170mm"
-   height="110mm"
-   viewBox="0 0 170 110"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="129.37074mm"
+   height="91.111549mm"
+   viewBox="0 0 129.37074 91.111549"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="fig_15.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="fig_15.svg">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -23,33 +35,34 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.3416246"
-     inkscape:cx="234.41729"
-     inkscape:cy="239.63484"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.1204523"
+     inkscape:cx="133.20908"
+     inkscape:cy="195.22937"
+     inkscape:window-width="636"
+     inkscape:window-height="1036"
+     inkscape:window-x="640"
+     inkscape:window-y="42"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-others="true" />
+     inkscape:snap-others="true"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2314" />
     </marker>
     <marker
@@ -70,7 +83,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-8.3804425,-11.832669)">
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -103,22 +117,22 @@
          y="46.663174">$\omega$</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 15.885958,23.161777 31.843146,23.301226 56.22535,28.84456 85.479666,46.617296 102.09817,64.322351"
+       d="M 15.885958,23.161777 31.843146,23.301226 56.22535,28.84456 90.780124,50.021848 102.09817,64.322351"
        id="path7206"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 2.11666;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 31.843146,23.301226 0,61.483975"
+       d="M 31.843146,23.301226 V 84.785201"
        id="path8176"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 2.11666;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 56.225349,28.802161 0,56.401388"
+       d="M 56.225349,28.802161 V 85.203549"
        id="path8211"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 2.11666;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 90.705762,42.433814 0,42.490837"
+       d="M 90.705762,42.433814 V 84.924651"
        id="path8246"
        sodipodi:nodetypes="cc" />
     <text
@@ -135,14 +149,14 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="52.180885"
-       y="47.556835"
+       x="50.291756"
+       y="46.447186"
        id="text11433"><tspan
          sodipodi:role="line"
          id="tspan11431"
          style="stroke-width:0.264583"
-         x="52.180885"
-         y="47.556835">$\bar{Y}^\alpha$</tspan></text>
+         x="50.291756"
+         y="46.447186">$\bar{Y}^\alpha$</tspan></text>
     <ellipse
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
        id="path11782"
@@ -154,13 +168,13 @@
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="73.28064"
-       y="46.297184"
+       y="45.187534"
        id="text12760"><tspan
          sodipodi:role="line"
          id="tspan12758"
          style="stroke-width:0.264583"
          x="73.28064"
-         y="46.297184">$\omega_\text{ср}$</tspan></text>
+         y="45.187534">$\omega_\text{ср}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -175,14 +189,14 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="90.815735"
-       y="52.753983"
+       x="97.2509"
+       y="54.375168"
        id="text14386"><tspan
          sodipodi:role="line"
          id="tspan14384"
          style="stroke-width:0.264583"
-         x="90.815735"
-         y="52.753983">-60</tspan></text>
+         x="97.2509"
+         y="54.375168">-60</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
